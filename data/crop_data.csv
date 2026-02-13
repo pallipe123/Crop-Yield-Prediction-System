@@ -1,0 +1,2501 @@
+State,Crop Type,Rainfall,Temperature,Soil Type,Fertilizer Usage,Area,Yield
+Andhra Pradesh,Sugarcane,978.7,23.6,Loamy,144.1,6.83,7.53
+Tamil Nadu,Wheat,857.8,34.1,Loamy,144.2,1.43,4.68
+Rajasthan,Soybean,504.5,28.7,Silt,20.0,4.01,3.93
+Maharashtra,Wheat,902.4,29.3,Silt,110.4,1.8,4.45
+Maharashtra,Wheat,624.9,12.7,Silt,140.7,5.01,2.7
+Uttar Pradesh,Wheat,466.4,25.7,Peaty,103.6,4.61,5.53
+Andhra Pradesh,Cotton,934.2,36.4,Sandy,121.4,3.88,2.16
+Rajasthan,Sugarcane,1022.0,32.6,,150.0,6.68,7.35
+Gujarat,Maize,1031.7,16.8,Silt,123.2,3.37,4.98
+Andhra Pradesh,Wheat,1041.8,24.4,Clay,180.3,5.15,5.05
+Punjab,Rice,416.9,20.0,Peaty,165.1,6.14,5.89
+West Bengal,Soybean,559.7,34.6,Loamy,115.3,1.53,4.3
+Tamil Nadu,Pulses,1393.4,27.2,Sandy,112.1,3.0,4.41
+Tamil Nadu,Soybean,638.2,22.2,Peaty,20.0,4.61,4.13
+Tamil Nadu,Wheat,1052.7,,Silt,106.9,5.76,4.98
+Tamil Nadu,Soybean,728.3,13.0,Peaty,65.9,7.34,3.47
+Punjab,Sugarcane,919.9,20.6,Loamy,128.8,4.07,6.99
+Bihar,Cotton,741.7,26.2,Sandy,126.1,3.87,4.08
+Uttar Pradesh,Rice,1040.4,30.2,Silt,147.8,2.75,5.94
+Maharashtra,Pulses,934.2,16.3,Silt,175.9,5.16,2.85
+Punjab,Cotton,787.9,24.1,Peaty,118.9,3.91,4.56
+Karnataka,Wheat,,31.0,Sandy,211.2,3.95,4.07
+Bihar,Rice,966.9,18.7,Silt,129.3,4.31,5.63
+West Bengal,Maize,596.8,27.1,Sandy,67.6,5.6,4.81
+Tamil Nadu,Wheat,1006.9,26.3,Peaty,97.5,3.37,5.7
+Rajasthan,Maize,1556.6,34.6,Loamy,105.1,2.96,5.66
+Maharashtra,Cotton,1237.5,24.8,Clay,143.7,5.36,4.47
+Uttar Pradesh,Pulses,1079.6,25.1,Loamy,82.1,0.5,4.03
+Punjab,Wheat,878.6,30.3,Silt,108.1,3.29,4.47
+Maharashtra,Sugarcane,415.3,19.4,Clay,113.6,2.2,5.42
+Maharashtra,Pulses,569.4,24.9,Clay,102.1,6.91,3.97
+Gujarat,Soybean,1220.7,23.7,Peaty,,3.62,5.82
+Andhra Pradesh,Pulses,702.6,25.3,Clay,145.7,3.38,3.33
+Punjab,Rice,725.2,30.2,Loamy,166.7,4.4,5.98
+Uttar Pradesh,Soybean,858.6,28.8,Loamy,106.8,3.31,4.73
+Andhra Pradesh,Pulses,634.5,22.3,Clay,168.1,3.69,3.95
+Uttar Pradesh,Maize,593.3,26.7,Peaty,65.4,4.69,5.02
+Uttar Pradesh,Cotton,887.4,33.5,Sandy,64.5,3.66,2.43
+Gujarat,Cotton,677.1,21.8,Peaty,71.4,3.64,3.61
+Rajasthan,Cotton,714.7,26.7,Clay,120.4,2.48,4.45
+Bihar,Maize,704.7,25.0,Clay,168.1,2.19,4.9
+Tamil Nadu,Pulses,1030.6,25.7,Loamy,95.9,4.62,4.34
+Tamil Nadu,Pulses,842.0,17.8,Clay,100.9,5.11,4.34
+Karnataka,Maize,855.4,33.1,Sandy,111.4,1.64,3.81
+Andhra Pradesh,Soybean,1049.2,22.1,Peaty,142.9,6.02,5.26
+West Bengal,Maize,864.5,31.1,Clay,100.9,6.03,5.59
+Maharashtra,Soybean,830.4,22.9,Silt,98.7,6.45,5.0
+Uttar Pradesh,Sugarcane,,22.9,Silt,66.2,5.1,6.36
+Rajasthan,Cotton,1067.0,32.1,Clay,97.1,5.77,3.79
+Tamil Nadu,Wheat,863.2,31.0,Peaty,167.1,8.87,5.42
+Tamil Nadu,Sugarcane,920.2,27.0,,123.6,3.9,7.06
+Bihar,Maize,704.6,29.8,Loamy,90.4,2.41,4.94
+Karnataka,Rice,684.8,24.6,Peaty,169.4,1.43,5.66
+Maharashtra,Rice,1092.3,26.0,Peaty,96.6,8.01,6.74
+Maharashtra,Pulses,1011.2,22.7,Loamy,176.8,8.04,5.02
+Andhra Pradesh,Wheat,1013.8,30.5,Peaty,,2.65,5.29
+Punjab,Soybean,970.2,22.5,Peaty,122.2,3.05,4.53
+Bihar,Pulses,911.6,33.4,Peaty,60.1,3.85,3.27
+Tamil Nadu,Wheat,1074.1,24.4,Clay,211.6,6.95,5.65
+Rajasthan,Sugarcane,1133.8,26.1,Silt,135.5,1.93,7.25
+West Bengal,Sugarcane,1127.8,29.8,Sandy,107.0,0.57,5.85
+Tamil Nadu,Maize,874.8,26.1,Silt,158.2,8.84,5.75
+Karnataka,Sugarcane,1246.7,,Silt,148.1,5.12,6.87
+West Bengal,Maize,,25.8,Silt,172.4,5.41,6.28
+Maharashtra,Cotton,1058.1,30.5,Sandy,93.5,4.09,3.65
+Karnataka,Cotton,970.5,22.7,Silt,132.7,5.43,4.72
+West Bengal,Soybean,961.8,25.4,Sandy,72.6,1.47,3.91
+Karnataka,Sugarcane,716.1,26.1,Loamy,146.7,2.82,7.01
+Andhra Pradesh,Maize,,30.3,Loamy,119.1,4.71,5.2
+Maharashtra,Pulses,,25.5,Peaty,131.2,0.5,3.73
+Tamil Nadu,Soybean,806.3,35.0,,114.1,3.89,4.24
+Bihar,Pulses,,25.2,Sandy,110.0,3.77,3.61
+Maharashtra,Soybean,788.4,24.8,Loamy,85.3,3.89,4.91
+Bihar,Maize,778.0,25.1,Silt,151.6,3.4,4.86
+Rajasthan,Soybean,1286.1,19.4,Loamy,179.6,2.51,4.64
+Maharashtra,Maize,731.8,20.8,Clay,97.7,0.86,5.17
+Karnataka,Rice,781.5,23.3,Clay,142.1,4.79,6.59
+Gujarat,Cotton,503.1,31.7,Loamy,137.3,3.9,3.63
+Punjab,Pulses,710.6,25.8,Peaty,120.3,1.75,4.15
+Rajasthan,Cotton,472.9,23.6,Sandy,58.9,4.63,3.41
+West Bengal,Maize,1058.0,32.1,Clay,67.9,3.91,4.97
+Maharashtra,Cotton,1599.9,33.8,Sandy,88.8,3.58,4.18
+Bihar,Maize,808.3,32.3,Loamy,34.4,0.5,4.37
+Uttar Pradesh,Sugarcane,483.3,21.7,Sandy,176.3,5.87,6.61
+Rajasthan,Maize,1125.0,23.5,Sandy,134.7,2.03,5.14
+Tamil Nadu,Cotton,718.3,35.1,Clay,118.8,4.63,3.19
+Andhra Pradesh,Maize,1224.8,27.2,Peaty,32.4,2.88,6.05
+Karnataka,Maize,829.5,24.7,Clay,47.0,3.72,5.34
+Tamil Nadu,Pulses,742.0,29.6,Loamy,119.9,6.8,4.24
+Uttar Pradesh,Maize,855.5,31.0,Sandy,198.8,5.56,5.31
+Maharashtra,Wheat,1089.4,23.1,Peaty,92.1,6.76,6.02
+Uttar Pradesh,Maize,843.1,27.1,Clay,154.6,5.16,5.98
+Uttar Pradesh,Cotton,775.8,30.6,Loamy,100.8,5.29,2.89
+Karnataka,Wheat,850.3,20.2,Peaty,122.2,0.94,4.85
+Uttar Pradesh,Maize,582.0,26.1,Sandy,168.6,3.86,4.86
+Gujarat,Rice,999.3,20.4,Loamy,106.2,4.05,6.15
+Gujarat,Cotton,453.3,21.1,Silt,92.4,6.95,4.06
+Rajasthan,Soybean,789.0,23.2,Clay,176.7,3.49,4.71
+Rajasthan,Pulses,1089.8,28.4,Peaty,121.8,5.03,4.67
+Bihar,Maize,975.8,24.4,Clay,163.6,4.95,5.61
+Uttar Pradesh,Pulses,1047.6,22.8,Sandy,92.6,6.82,4.36
+Bihar,Rice,883.7,26.3,Sandy,176.3,4.23,5.85
+Uttar Pradesh,Soybean,1192.4,20.3,Clay,130.9,6.16,5.1
+Andhra Pradesh,Cotton,1131.2,28.1,Sandy,137.4,1.09,3.78
+Tamil Nadu,Soybean,1011.5,31.7,Loamy,125.3,1.27,4.78
+Tamil Nadu,Soybean,1131.9,25.6,Silt,99.8,0.5,4.69
+Tamil Nadu,Cotton,1087.6,25.0,Silt,119.9,6.07,4.48
+Rajasthan,Rice,790.1,27.9,Peaty,102.3,5.85,6.49
+Maharashtra,Cotton,564.0,15.9,Clay,158.4,6.29,3.48
+Tamil Nadu,Soybean,1005.1,28.7,Clay,111.9,3.15,5.24
+Gujarat,Pulses,1036.5,40.0,Sandy,60.1,3.37,1.67
+Tamil Nadu,Pulses,1172.6,25.4,Silt,52.8,4.26,3.88
+Punjab,Rice,665.9,25.4,Peaty,50.9,7.39,6.9
+Maharashtra,Sugarcane,673.4,29.7,Loamy,144.7,7.89,6.37
+Punjab,Wheat,1015.0,34.2,Clay,73.9,6.09,4.64
+Punjab,Sugarcane,882.2,30.9,Clay,132.0,5.16,6.42
+Andhra Pradesh,Pulses,428.6,15.2,Clay,125.5,7.17,3.65
+Bihar,Wheat,993.8,28.8,Sandy,117.4,3.99,4.62
+Gujarat,Sugarcane,436.9,38.9,Peaty,137.5,3.72,4.53
+Bihar,Pulses,663.7,29.1,Loamy,126.3,4.24,3.98
+Maharashtra,Soybean,1237.9,20.2,Peaty,20.0,2.54,4.23
+Rajasthan,Maize,1356.2,27.4,Silt,107.1,4.15,5.61
+Rajasthan,Wheat,596.1,19.6,Silt,137.0,2.27,4.21
+Maharashtra,Pulses,817.7,32.2,Silt,185.6,6.55,3.44
+Uttar Pradesh,Pulses,910.7,21.2,Loamy,187.5,5.59,4.58
+Punjab,Sugarcane,1345.3,26.4,Silt,65.5,7.36,7.42
+Andhra Pradesh,Pulses,776.8,21.7,Clay,106.0,1.24,3.23
+Tamil Nadu,Wheat,780.8,23.3,Sandy,57.4,8.3,4.05
+Punjab,Sugarcane,1287.2,33.4,Silt,180.8,1.36,6.33
+Rajasthan,Wheat,806.3,26.5,Silt,160.5,2.1,4.97
+Punjab,Pulses,1080.6,23.2,Clay,134.0,3.26,4.44
+Punjab,Sugarcane,530.7,20.3,Clay,126.6,7.12,6.8
+Andhra Pradesh,Pulses,857.2,16.6,Sandy,175.2,4.95,3.58
+Punjab,Cotton,485.1,19.7,Loamy,168.5,4.01,4.4
+Tamil Nadu,Wheat,636.1,26.6,Silt,166.3,2.91,5.67
+Karnataka,Wheat,1109.8,30.9,Loamy,138.3,1.75,6.12
+Rajasthan,Maize,887.5,23.2,Sandy,106.0,6.77,4.53
+Andhra Pradesh,Soybean,820.2,33.9,,150.7,6.1,3.19
+Karnataka,Rice,712.8,22.4,Loamy,152.6,7.2,6.36
+Maharashtra,Soybean,844.8,24.8,Peaty,112.4,5.29,5.13
+West Bengal,Rice,975.3,20.6,Clay,106.0,0.5,5.4
+Gujarat,Cotton,1145.7,31.0,Loamy,165.3,2.01,4.58
+Gujarat,Rice,243.7,36.5,Silt,186.6,5.43,4.15
+Maharashtra,Cotton,692.1,17.2,,90.0,3.76,2.71
+West Bengal,Cotton,939.8,24.3,Silt,109.5,3.38,3.98
+Uttar Pradesh,Wheat,875.3,,Silt,134.0,2.29,4.24
+Andhra Pradesh,Cotton,1000.8,18.8,Sandy,139.5,6.4,4.01
+Gujarat,Soybean,966.9,28.8,Peaty,99.1,5.41,4.72
+Uttar Pradesh,Pulses,823.8,32.1,Clay,195.3,5.5,3.65
+Andhra Pradesh,Maize,768.3,26.4,Sandy,136.9,3.23,5.04
+Uttar Pradesh,Pulses,838.6,28.8,Loamy,141.3,4.85,4.25
+Gujarat,Pulses,1187.2,34.8,Silt,190.4,1.82,3.55
+West Bengal,Pulses,717.0,35.7,Clay,102.0,4.24,2.47
+Gujarat,Maize,884.3,25.7,Silt,116.5,0.5,4.56
+Maharashtra,Soybean,945.8,23.3,Peaty,69.9,1.36,4.64
+Rajasthan,Cotton,1290.1,21.4,Peaty,113.1,3.86,4.82
+Bihar,Wheat,824.9,30.9,Peaty,60.4,9.25,4.81
+Punjab,Rice,1139.7,19.1,,149.9,0.9,6.33
+Punjab,Sugarcane,1208.0,24.7,Loamy,136.8,2.01,7.97
+Tamil Nadu,Rice,884.1,26.5,Peaty,108.9,4.93,6.01
+West Bengal,Cotton,847.3,,Clay,116.0,8.04,5.03
+Rajasthan,Soybean,817.7,27.4,Loamy,150.5,4.9,4.17
+Maharashtra,Rice,836.0,38.8,Clay,74.6,5.9,4.47
+Maharashtra,Cotton,1113.6,25.4,Peaty,128.2,3.82,4.38
+Maharashtra,Rice,957.8,23.8,Clay,,3.48,6.38
+Uttar Pradesh,Cotton,958.8,31.1,Loamy,48.7,4.66,3.83
+Karnataka,Rice,618.7,27.2,Silt,147.4,3.18,5.57
+Bihar,Pulses,658.1,33.2,Loamy,53.0,5.95,3.24
+Karnataka,Wheat,1435.9,26.8,Clay,115.3,1.29,5.15
+Andhra Pradesh,Pulses,855.5,24.8,,73.5,6.28,5.08
+Bihar,Soybean,706.3,17.1,Silt,177.2,4.58,3.91
+Andhra Pradesh,Soybean,1257.8,17.9,Sandy,73.7,4.07,4.65
+Tamil Nadu,Soybean,970.5,16.8,Peaty,54.0,1.21,3.71
+Tamil Nadu,Rice,1044.5,27.9,Clay,125.3,2.54,6.44
+Rajasthan,Pulses,865.5,19.2,Clay,103.5,6.9,3.35
+Maharashtra,Sugarcane,820.3,32.3,Loamy,59.8,4.08,6.38
+Tamil Nadu,Pulses,857.6,26.2,Clay,141.0,5.06,3.99
+Bihar,Pulses,554.3,24.8,Sandy,40.3,2.74,3.53
+West Bengal,Sugarcane,878.0,21.8,Loamy,78.6,4.44,7.1
+Punjab,Maize,974.0,29.1,Sandy,97.0,1.76,3.9
+West Bengal,Wheat,1362.6,22.0,Peaty,152.1,4.7,5.25
+Bihar,Wheat,921.5,21.1,Silt,,5.24,4.69
+Maharashtra,Maize,316.5,31.9,Silt,164.1,5.14,4.92
+Rajasthan,Soybean,876.5,27.8,Peaty,113.9,2.69,4.96
+Maharashtra,Cotton,1584.9,24.8,Silt,22.9,3.82,4.33
+Maharashtra,Cotton,1116.6,,Silt,135.6,5.57,4.17
+Bihar,Rice,697.3,26.0,Peaty,178.8,4.08,6.37
+Karnataka,Cotton,1047.8,27.9,Loamy,169.4,3.93,4.31
+Gujarat,Sugarcane,714.5,21.9,Peaty,138.5,8.31,7.34
+Karnataka,Pulses,561.5,36.4,Clay,72.4,2.6,2.44
+Rajasthan,Soybean,812.9,23.1,Silt,99.0,6.66,4.56
+Rajasthan,Sugarcane,922.9,33.8,Peaty,197.4,2.19,6.42
+Rajasthan,Pulses,432.0,25.1,Sandy,63.3,5.81,3.27
+Karnataka,Maize,612.7,30.0,Loamy,74.1,5.92,5.54
+West Bengal,Pulses,902.6,,Clay,157.7,3.48,3.44
+Andhra Pradesh,Maize,798.0,31.7,Sandy,102.8,2.07,4.47
+Karnataka,Wheat,998.7,21.8,Peaty,72.7,0.56,5.13
+Bihar,Maize,596.3,31.4,Peaty,181.1,3.27,5.18
+Karnataka,Wheat,1078.5,35.2,Sandy,138.4,5.55,4.07
+West Bengal,Wheat,604.1,24.7,Peaty,104.7,2.34,4.84
+Karnataka,Pulses,1310.7,26.2,Sandy,74.2,4.69,4.21
+West Bengal,Soybean,471.1,23.4,Sandy,201.9,1.55,3.7
+Maharashtra,Rice,626.9,24.3,Peaty,119.0,4.03,5.58
+Rajasthan,Soybean,1004.3,34.6,Silt,175.9,2.21,3.97
+Maharashtra,Wheat,1316.1,21.0,Sandy,155.7,4.34,4.3
+Gujarat,Rice,978.8,21.3,Sandy,99.2,3.5,5.46
+Tamil Nadu,Sugarcane,1040.7,34.1,Silt,99.5,2.12,5.75
+West Bengal,Maize,904.4,29.1,Silt,177.9,3.18,5.09
+Gujarat,Soybean,643.4,,Sandy,178.5,2.63,2.66
+Tamil Nadu,Pulses,777.5,23.7,Loamy,44.9,1.87,3.64
+Gujarat,Wheat,597.0,26.6,Loamy,142.0,6.67,5.54
+Tamil Nadu,Wheat,580.3,22.7,Loamy,115.2,3.78,5.08
+Tamil Nadu,Pulses,1000.4,26.7,Sandy,78.7,0.5,2.93
+Maharashtra,Cotton,619.2,17.1,Silt,130.5,3.25,3.78
+Tamil Nadu,Cotton,979.9,,Peaty,66.0,6.33,4.51
+Gujarat,Cotton,574.5,,Clay,,2.98,4.07
+Andhra Pradesh,Cotton,974.1,25.7,Silt,88.1,7.5,4.95
+Andhra Pradesh,Sugarcane,777.8,24.0,Silt,100.0,2.79,7.04
+Maharashtra,Sugarcane,1251.7,21.5,Loamy,117.1,5.51,7.7
+West Bengal,Rice,980.9,29.6,Clay,79.4,6.57,5.86
+Bihar,Sugarcane,1208.9,20.1,Clay,182.9,5.4,6.62
+Maharashtra,Sugarcane,,28.6,Peaty,139.7,1.75,6.7
+Tamil Nadu,Wheat,914.0,36.4,Peaty,191.8,2.62,4.38
+Gujarat,Maize,654.7,33.4,Peaty,113.6,6.84,5.11
+Tamil Nadu,Soybean,796.6,18.5,Sandy,98.0,2.89,2.35
+Karnataka,Sugarcane,834.5,23.3,Sandy,190.3,6.45,6.9
+Uttar Pradesh,Wheat,,28.1,Clay,96.9,3.64,5.11
+Punjab,Wheat,596.1,25.6,Silt,112.9,4.78,4.7
+Punjab,Sugarcane,546.6,19.0,Loamy,148.8,1.73,6.72
+Bihar,Cotton,315.1,27.9,Clay,70.5,3.28,3.79
+Maharashtra,Pulses,635.9,25.9,Loamy,148.5,2.75,3.87
+Uttar Pradesh,Cotton,1056.9,35.6,Sandy,143.3,4.95,3.38
+Andhra Pradesh,Pulses,500.4,24.7,Clay,170.8,4.69,3.46
+Tamil Nadu,Rice,558.0,31.8,Loamy,155.6,5.43,5.7
+Maharashtra,Cotton,1347.7,19.7,Clay,172.0,3.52,4.37
+Tamil Nadu,Wheat,740.9,20.9,Peaty,115.6,2.64,4.58
+Rajasthan,Sugarcane,980.3,29.6,Sandy,85.5,4.87,6.37
+Maharashtra,Rice,1060.6,31.4,Peaty,204.4,2.44,6.35
+Karnataka,Cotton,1065.6,21.2,Peaty,58.9,6.66,4.99
+Rajasthan,Maize,519.4,26.1,Peaty,62.9,4.27,5.53
+Bihar,Rice,842.2,19.1,Clay,142.6,3.85,5.04
+Punjab,Wheat,495.4,25.1,Peaty,185.0,5.42,4.7
+Andhra Pradesh,Cotton,1511.6,30.2,,127.6,4.35,4.85
+Rajasthan,Pulses,501.3,23.8,Peaty,160.0,1.18,3.7
+Rajasthan,Rice,638.0,24.8,Clay,40.2,2.38,5.25
+Andhra Pradesh,Maize,639.8,20.4,Clay,100.0,6.62,5.9
+Tamil Nadu,Rice,525.8,22.8,Sandy,45.0,4.67,5.04
+Maharashtra,Soybean,1238.1,34.8,Peaty,151.2,1.14,4.16
+Tamil Nadu,Maize,1505.6,26.4,Peaty,58.1,5.2,6.49
+Andhra Pradesh,Pulses,781.1,21.0,Sandy,68.9,3.38,3.2
+Bihar,Rice,569.9,24.4,Loamy,140.6,2.75,6.86
+Maharashtra,Wheat,340.8,18.0,Sandy,162.5,2.21,3.21
+Bihar,Sugarcane,839.0,20.9,Silt,113.6,6.5,6.55
+Karnataka,Sugarcane,820.9,32.8,Sandy,142.8,0.57,5.02
+Rajasthan,Pulses,737.2,25.3,Clay,141.5,2.82,4.45
+Bihar,Pulses,955.3,35.5,Clay,111.4,4.74,3.39
+Rajasthan,Pulses,998.8,25.5,Loamy,76.2,7.66,4.46
+Bihar,Sugarcane,980.8,25.8,Clay,142.6,5.61,6.82
+Bihar,Maize,821.0,29.2,Silt,144.5,2.81,5.58
+Punjab,Cotton,624.6,12.6,Clay,155.8,7.56,2.98
+Tamil Nadu,Wheat,1066.5,27.0,Peaty,132.5,1.79,5.7
+Bihar,Cotton,903.1,25.8,Loamy,73.3,5.03,4.57
+Gujarat,Maize,1122.1,33.4,Sandy,147.6,5.48,4.82
+West Bengal,Wheat,,30.8,Sandy,119.9,2.74,4.42
+West Bengal,Rice,544.6,,Peaty,100.7,5.9,5.58
+Punjab,Cotton,541.4,32.2,Peaty,108.2,3.47,3.57
+Maharashtra,Maize,,,Sandy,,5.89,4.53
+Karnataka,Pulses,635.9,21.5,Silt,155.6,0.82,3.52
+Rajasthan,Cotton,1088.8,27.0,Silt,63.3,5.17,4.56
+Punjab,Pulses,987.8,25.0,Sandy,80.3,3.68,3.92
+Gujarat,Sugarcane,1174.8,33.7,Loamy,106.8,6.8,7.1
+Andhra Pradesh,Wheat,999.1,27.7,Sandy,184.6,4.41,4.69
+Bihar,Rice,952.2,27.0,Clay,162.2,7.0,6.83
+West Bengal,Sugarcane,1199.9,30.5,Sandy,54.4,5.52,6.63
+Maharashtra,Cotton,1017.4,31.5,Silt,174.1,4.24,4.47
+Maharashtra,Maize,917.0,29.9,Clay,174.0,6.08,6.02
+Maharashtra,Cotton,1270.1,33.1,Clay,73.0,6.09,3.98
+Tamil Nadu,Pulses,928.8,29.0,Peaty,20.0,5.44,4.07
+Andhra Pradesh,Maize,823.9,26.8,Clay,117.1,0.5,5.25
+Andhra Pradesh,Wheat,690.5,32.2,Loamy,164.9,2.53,4.24
+Gujarat,Maize,1075.8,25.5,Silt,183.7,7.27,5.47
+Maharashtra,Pulses,1209.3,26.2,Silt,85.2,1.99,3.53
+Rajasthan,Soybean,887.4,34.6,Peaty,190.1,6.26,4.2
+Maharashtra,Soybean,1227.0,34.1,Silt,30.9,5.91,3.81
+Maharashtra,Pulses,407.5,26.0,Peaty,105.3,3.05,3.28
+West Bengal,Wheat,886.1,23.7,Sandy,,0.51,4.18
+Bihar,Rice,890.0,33.3,Clay,166.1,3.36,5.28
+Punjab,Wheat,718.3,30.0,Peaty,171.9,8.66,5.71
+Punjab,Wheat,1496.0,27.6,Clay,158.2,2.77,6.19
+Maharashtra,Soybean,883.5,24.4,Clay,66.0,2.91,4.64
+Uttar Pradesh,Pulses,798.1,27.7,Peaty,154.5,2.5,3.82
+Gujarat,Rice,906.5,25.9,Peaty,140.4,6.93,6.67
+West Bengal,Soybean,399.3,22.7,Clay,53.2,4.01,4.08
+Karnataka,Cotton,710.0,26.6,Silt,37.3,3.25,3.64
+Punjab,Wheat,1145.8,,Peaty,161.5,7.33,5.45
+Punjab,Pulses,742.8,24.1,Silt,112.8,5.66,3.82
+Uttar Pradesh,Pulses,692.8,30.5,Loamy,68.6,2.66,3.64
+Maharashtra,Cotton,,32.4,Silt,111.7,2.05,4.01
+Gujarat,Sugarcane,1235.1,30.8,Loamy,134.6,6.82,7.55
+Andhra Pradesh,Maize,1029.2,24.6,Peaty,116.7,4.53,6.49
+Karnataka,Soybean,786.2,29.8,Loamy,57.9,1.4,4.51
+Uttar Pradesh,Cotton,840.1,26.4,Peaty,195.4,0.93,4.34
+Andhra Pradesh,Pulses,699.0,19.8,,160.2,2.27,3.76
+Uttar Pradesh,Wheat,651.3,29.4,Sandy,106.6,2.02,3.63
+Punjab,Rice,638.9,26.7,Clay,108.2,0.5,5.11
+Bihar,Pulses,745.5,39.0,Peaty,134.4,2.3,1.85
+Karnataka,Maize,641.3,33.3,Clay,74.8,2.66,3.49
+Punjab,Maize,509.1,29.6,Silt,132.9,3.57,4.51
+Karnataka,Soybean,954.9,27.2,Loamy,66.8,7.89,5.72
+Bihar,Rice,958.6,26.8,Sandy,117.2,3.97,5.65
+Rajasthan,Cotton,1325.2,21.0,Peaty,73.3,4.16,4.49
+Rajasthan,Maize,732.9,17.3,Peaty,75.3,5.52,5.14
+Bihar,Rice,974.0,21.6,Clay,185.8,4.03,5.36
+Gujarat,Pulses,978.2,25.8,Clay,122.4,5.3,4.37
+Gujarat,Rice,836.5,15.5,Sandy,128.3,5.06,5.09
+Rajasthan,Wheat,1086.1,23.3,Sandy,39.5,4.75,4.53
+Tamil Nadu,Sugarcane,1093.8,24.8,Sandy,96.1,10.03,6.3
+Tamil Nadu,Pulses,981.9,24.9,Loamy,138.4,6.32,4.53
+West Bengal,Wheat,836.1,22.7,Silt,127.8,2.34,5.21
+Tamil Nadu,Sugarcane,810.6,24.3,Clay,33.8,5.24,6.77
+Karnataka,Cotton,558.1,34.6,Clay,128.3,2.92,2.52
+Bihar,Soybean,698.5,29.3,Peaty,134.7,5.39,5.51
+Rajasthan,Wheat,744.5,23.2,Silt,171.4,1.75,4.25
+West Bengal,Pulses,619.0,25.7,Clay,93.8,2.28,3.57
+West Bengal,Sugarcane,1010.0,25.9,Peaty,30.3,5.19,6.65
+Gujarat,Soybean,1199.2,22.2,Clay,80.1,6.5,4.62
+Gujarat,Maize,673.0,22.2,Sandy,76.1,5.51,4.61
+Andhra Pradesh,Pulses,970.9,31.1,Clay,149.5,6.21,4.23
+Bihar,Sugarcane,641.5,23.9,Loamy,20.0,5.25,7.18
+Punjab,Wheat,823.8,20.5,Sandy,102.1,4.84,4.25
+Punjab,Pulses,727.4,25.8,Sandy,177.0,3.49,3.14
+Karnataka,Soybean,1050.5,26.6,Peaty,120.3,6.13,5.34
+Karnataka,Maize,730.3,16.1,Clay,155.9,6.55,5.0
+Uttar Pradesh,Cotton,1152.9,25.8,Peaty,54.3,4.37,4.67
+Maharashtra,Maize,838.6,30.3,Silt,55.9,4.27,5.04
+Uttar Pradesh,Cotton,737.6,28.3,Loamy,177.5,7.68,4.66
+West Bengal,Pulses,586.7,37.1,,124.0,4.46,2.35
+Karnataka,Pulses,963.3,32.3,Sandy,124.1,4.65,3.13
+Gujarat,Rice,1123.8,33.2,Clay,75.3,5.47,5.91
+West Bengal,Pulses,968.3,40.0,Sandy,124.0,4.3,2.23
+Rajasthan,Cotton,,29.8,,74.2,2.86,4.41
+Gujarat,Sugarcane,1257.4,26.8,Silt,167.5,5.26,7.24
+Rajasthan,Soybean,823.1,30.9,Sandy,229.1,4.42,4.05
+Punjab,Cotton,820.5,23.2,Sandy,139.4,8.18,3.8
+West Bengal,Cotton,1017.4,26.5,Clay,94.6,6.08,4.76
+Gujarat,Cotton,690.5,22.8,Clay,20.0,3.31,3.83
+West Bengal,Pulses,1191.6,28.0,Sandy,52.6,5.96,3.6
+West Bengal,Maize,990.4,22.7,Sandy,182.2,5.12,5.52
+Bihar,Rice,964.1,22.6,Clay,,7.12,6.15
+Bihar,Maize,1071.7,28.1,Sandy,105.2,3.45,4.65
+Punjab,Rice,1330.7,25.3,Clay,146.2,4.88,6.6
+Andhra Pradesh,Maize,942.7,16.4,Sandy,179.3,4.3,4.49
+Gujarat,Wheat,871.7,18.7,Loamy,112.0,4.62,5.36
+Maharashtra,Wheat,1277.2,20.3,Sandy,103.8,2.73,4.85
+West Bengal,Soybean,1141.9,21.6,Silt,122.9,5.65,4.79
+West Bengal,Wheat,819.8,28.1,Peaty,94.9,5.34,5.04
+Bihar,Cotton,901.3,27.1,Silt,97.0,7.07,4.34
+Uttar Pradesh,Soybean,,31.3,Silt,136.5,4.48,4.44
+Andhra Pradesh,Soybean,990.5,29.8,Loamy,127.4,3.68,5.01
+Tamil Nadu,Cotton,560.9,31.4,Clay,205.3,6.08,3.99
+Uttar Pradesh,Rice,514.4,29.0,Silt,137.6,2.91,5.32
+Uttar Pradesh,Pulses,678.2,27.0,Peaty,166.0,6.67,4.69
+Gujarat,Soybean,658.8,31.5,Sandy,77.1,6.67,3.46
+Uttar Pradesh,Sugarcane,739.0,30.6,Peaty,141.0,7.01,7.78
+Bihar,Wheat,1058.7,27.9,Clay,,5.25,5.47
+Punjab,Wheat,857.8,32.4,Loamy,135.8,3.53,4.42
+Maharashtra,Maize,949.1,14.3,Loamy,147.5,4.72,4.86
+Karnataka,Rice,593.9,24.5,Sandy,122.0,5.26,5.62
+Andhra Pradesh,Pulses,784.6,24.5,Silt,216.3,3.38,3.85
+Tamil Nadu,Rice,1046.8,31.8,Clay,177.1,7.17,5.45
+Karnataka,Rice,1048.7,33.9,Silt,167.1,5.66,5.08
+Rajasthan,Pulses,718.9,18.7,Silt,150.6,2.72,3.58
+Maharashtra,Soybean,940.4,33.1,Clay,190.5,8.27,3.86
+Karnataka,Rice,1449.7,20.1,Clay,62.5,4.69,5.65
+Uttar Pradesh,Maize,895.6,20.3,Silt,174.8,2.31,5.29
+Andhra Pradesh,Cotton,726.7,24.8,Silt,80.4,2.84,3.8
+Tamil Nadu,Sugarcane,856.6,24.4,Loamy,97.4,7.48,7.13
+Tamil Nadu,Pulses,923.0,18.2,Clay,,8.15,3.81
+Karnataka,Pulses,862.2,29.2,Sandy,169.3,6.52,3.14
+Gujarat,Pulses,892.2,,Sandy,73.9,7.14,3.71
+Andhra Pradesh,Wheat,539.1,31.3,Loamy,99.5,6.93,4.61
+West Bengal,Rice,659.3,23.8,Peaty,123.9,5.61,5.94
+West Bengal,Cotton,862.7,25.8,Clay,112.5,5.16,4.47
+Gujarat,Wheat,858.7,25.8,Clay,154.2,5.58,5.15
+Andhra Pradesh,Maize,758.5,34.4,Loamy,257.4,5.97,4.85
+Bihar,Rice,855.7,11.8,Peaty,136.8,3.02,3.68
+Andhra Pradesh,Pulses,915.3,21.2,Clay,90.6,5.96,4.2
+Uttar Pradesh,Wheat,1122.4,26.0,Peaty,68.1,7.42,5.64
+Uttar Pradesh,Rice,875.2,20.6,Sandy,107.0,4.09,5.1
+Bihar,Rice,999.8,24.7,Peaty,82.4,3.87,5.84
+Tamil Nadu,Rice,764.6,25.4,Loamy,138.7,5.45,6.34
+Bihar,Cotton,1043.0,22.7,Loamy,138.1,3.2,4.8
+Karnataka,Maize,993.9,26.3,Peaty,101.5,1.87,5.56
+Punjab,Pulses,1116.5,29.1,Peaty,199.4,6.8,5.19
+Tamil Nadu,Rice,1078.4,24.8,Sandy,90.6,3.6,5.81
+Uttar Pradesh,Cotton,1047.2,23.7,Loamy,115.2,4.54,4.71
+Andhra Pradesh,Sugarcane,875.4,25.2,Peaty,145.6,3.28,7.32
+Bihar,Sugarcane,961.2,26.0,Clay,155.7,7.05,7.24
+Gujarat,Soybean,1165.9,17.3,Peaty,171.1,6.21,4.79
+Karnataka,Rice,737.0,28.3,Peaty,137.1,4.02,6.45
+West Bengal,Cotton,742.9,23.7,Peaty,162.0,2.14,3.93
+Tamil Nadu,Soybean,945.4,32.3,Silt,93.4,3.81,4.06
+Karnataka,Pulses,1003.8,29.0,Silt,,5.64,4.53
+West Bengal,Sugarcane,694.0,31.9,Sandy,156.2,4.88,6.0
+Maharashtra,Sugarcane,881.3,20.9,Loamy,180.5,4.72,7.04
+Punjab,Pulses,876.5,24.1,Clay,53.3,4.92,3.4
+Maharashtra,Sugarcane,346.2,19.8,Silt,83.7,6.02,5.36
+Bihar,Pulses,,22.5,Peaty,152.9,4.42,5.01
+West Bengal,Wheat,860.7,32.3,Sandy,20.0,5.4,3.91
+Andhra Pradesh,Maize,859.9,33.4,Silt,139.7,2.53,4.35
+Bihar,Wheat,1254.0,20.3,Loamy,162.4,9.61,6.03
+Gujarat,Wheat,596.1,23.7,Sandy,96.9,3.93,3.96
+Gujarat,Cotton,693.8,25.6,Sandy,102.8,4.91,3.56
+Bihar,Rice,247.0,28.9,Peaty,77.0,5.63,5.22
+Andhra Pradesh,Maize,779.8,17.2,Clay,99.1,3.68,4.24
+Rajasthan,Cotton,801.1,18.0,Clay,100.3,4.52,3.0
+West Bengal,Sugarcane,772.5,28.4,Clay,92.7,4.49,6.11
+Bihar,Pulses,1176.9,16.3,Loamy,,2.67,4.05
+Gujarat,Soybean,1115.2,23.8,Sandy,109.2,5.38,4.12
+Punjab,Maize,919.5,26.8,Silt,108.7,1.2,5.26
+West Bengal,Maize,807.3,28.1,Peaty,195.0,8.01,6.24
+Rajasthan,Soybean,1156.5,25.3,Peaty,104.2,6.09,5.26
+Tamil Nadu,Wheat,895.1,24.2,Loamy,133.8,5.78,5.45
+Punjab,Cotton,695.4,30.2,Clay,96.9,1.03,3.54
+Maharashtra,Maize,470.9,27.4,Clay,96.4,2.91,4.81
+Bihar,Rice,789.7,22.8,Clay,,7.28,6.36
+Uttar Pradesh,Sugarcane,1088.7,26.2,Peaty,57.1,12.8,8.29
+Uttar Pradesh,Maize,1469.1,27.9,Loamy,71.7,6.89,6.81
+Andhra Pradesh,Rice,915.4,34.6,Loamy,127.3,6.57,4.85
+Tamil Nadu,Sugarcane,708.7,29.9,Peaty,163.0,5.55,6.73
+Andhra Pradesh,Rice,603.8,32.1,Peaty,48.5,2.81,5.18
+Tamil Nadu,Sugarcane,1038.0,22.9,Clay,98.0,6.49,7.29
+Uttar Pradesh,Rice,458.8,23.4,Clay,,2.3,4.73
+Bihar,Cotton,1037.6,24.8,Sandy,109.4,2.08,3.11
+Maharashtra,Soybean,,25.3,Sandy,163.0,1.95,4.7
+Bihar,Rice,1009.1,21.0,Peaty,102.1,6.45,6.09
+Punjab,Soybean,845.1,32.3,Sandy,118.1,4.39,3.13
+West Bengal,Soybean,1041.2,30.4,Loamy,178.2,4.7,4.58
+Andhra Pradesh,Pulses,942.7,24.5,Sandy,138.3,4.47,3.84
+Karnataka,Rice,705.5,29.2,Sandy,89.6,2.25,4.66
+West Bengal,Soybean,1362.6,27.1,Sandy,126.4,3.16,4.57
+Karnataka,Pulses,812.1,29.6,Sandy,86.9,3.26,2.85
+Bihar,Soybean,1093.9,19.3,Peaty,,1.69,3.93
+Maharashtra,Rice,295.3,25.3,Peaty,140.6,3.49,6.19
+Punjab,Soybean,1219.1,25.7,Clay,65.3,2.34,4.83
+Rajasthan,Wheat,1267.2,29.1,Clay,127.0,5.66,5.27
+Karnataka,Sugarcane,907.5,22.9,Silt,115.3,5.82,6.72
+West Bengal,Cotton,1039.7,13.5,Sandy,141.8,1.91,2.94
+Punjab,Cotton,1039.6,20.6,Sandy,153.3,3.91,3.98
+Gujarat,Cotton,739.3,25.7,Loamy,139.1,8.21,5.19
+West Bengal,Wheat,1036.8,26.3,Clay,107.9,2.54,4.84
+West Bengal,Cotton,697.8,34.4,Silt,157.3,5.35,3.33
+Maharashtra,Pulses,747.8,28.9,Peaty,85.1,4.71,4.16
+Andhra Pradesh,Cotton,1181.7,26.4,Silt,67.2,6.69,4.31
+Punjab,Rice,,25.8,Clay,20.0,5.09,5.91
+Punjab,Pulses,723.4,,Loamy,117.2,3.64,3.6
+Bihar,Wheat,716.6,23.0,Loamy,87.1,4.63,5.35
+Rajasthan,Cotton,738.6,25.3,Clay,135.9,4.66,3.79
+Uttar Pradesh,Cotton,1083.2,20.6,Sandy,41.2,4.32,3.78
+Bihar,Cotton,650.0,33.1,Peaty,,1.86,3.49
+Tamil Nadu,Pulses,989.2,28.0,Peaty,138.8,6.99,4.47
+Bihar,Maize,1086.7,,Loamy,78.8,6.63,6.17
+Tamil Nadu,Pulses,877.9,25.4,Silt,136.4,2.41,3.74
+Maharashtra,Wheat,1152.5,28.5,Clay,97.7,3.9,4.91
+Andhra Pradesh,Soybean,,24.7,Loamy,118.7,4.05,5.14
+West Bengal,Sugarcane,846.5,23.3,Sandy,143.8,2.19,6.4
+Bihar,Rice,655.7,22.7,Loamy,158.1,0.77,5.56
+Punjab,Rice,1154.3,27.7,Clay,123.7,3.16,5.87
+Bihar,Soybean,708.4,24.2,Sandy,87.4,3.79,3.9
+West Bengal,Sugarcane,987.4,23.7,Clay,101.7,1.62,6.5
+Tamil Nadu,Sugarcane,882.2,19.3,Sandy,145.5,4.85,6.71
+Uttar Pradesh,Wheat,636.8,26.4,Sandy,79.1,6.83,4.6
+Maharashtra,Sugarcane,747.7,25.1,Silt,112.9,6.18,6.84
+Maharashtra,Pulses,1245.7,24.4,Loamy,104.6,4.25,4.36
+Rajasthan,Wheat,950.4,27.0,Loamy,115.9,0.82,5.3
+Tamil Nadu,Cotton,647.7,29.7,Sandy,79.6,5.93,3.22
+Uttar Pradesh,Cotton,976.3,29.5,Clay,45.9,4.79,3.81
+Andhra Pradesh,Pulses,863.5,28.8,Silt,140.8,5.35,4.24
+Rajasthan,Rice,1763.5,24.8,Loamy,158.6,8.37,7.52
+Bihar,Cotton,971.3,23.2,Sandy,48.3,2.85,2.68
+Gujarat,Soybean,804.8,20.8,Peaty,134.8,0.5,4.19
+Uttar Pradesh,Wheat,1255.0,23.0,Loamy,163.3,2.39,5.62
+Gujarat,Soybean,439.7,26.1,Clay,,5.47,4.34
+Tamil Nadu,Soybean,923.6,22.1,Peaty,103.3,4.55,4.91
+Maharashtra,Soybean,1398.6,26.5,Sandy,82.3,2.07,3.71
+Gujarat,Sugarcane,871.0,21.2,Loamy,123.2,1.66,5.82
+Karnataka,Soybean,466.7,17.7,Clay,129.9,3.79,3.47
+Punjab,Soybean,801.0,30.1,Silt,123.8,2.01,4.18
+Tamil Nadu,Pulses,,23.6,Peaty,112.8,5.54,3.57
+Rajasthan,Maize,994.0,21.8,Clay,76.7,3.68,5.07
+West Bengal,Cotton,690.3,20.5,Sandy,136.9,3.25,2.72
+Uttar Pradesh,Sugarcane,728.7,28.1,Silt,138.8,2.98,6.42
+Tamil Nadu,Rice,760.1,32.9,Loamy,128.0,5.03,6.35
+Rajasthan,Soybean,990.3,24.0,Clay,124.4,4.59,4.75
+Gujarat,Soybean,1234.5,24.9,Silt,187.2,4.9,5.01
+Maharashtra,Sugarcane,1163.1,,Loamy,95.0,4.86,7.34
+Bihar,Maize,1014.0,16.9,Silt,171.3,4.36,4.96
+Karnataka,Maize,567.1,35.8,Sandy,90.6,2.43,3.28
+West Bengal,Cotton,568.0,38.2,Peaty,164.4,3.04,2.79
+Maharashtra,Sugarcane,1033.3,12.5,Loamy,169.3,3.71,5.96
+Bihar,Soybean,563.6,25.5,Peaty,108.3,8.63,5.02
+Rajasthan,Sugarcane,843.6,,Clay,186.4,1.8,6.61
+West Bengal,Pulses,976.0,24.7,Loamy,138.8,3.66,4.35
+Uttar Pradesh,Pulses,615.6,23.9,Silt,84.9,4.7,4.07
+Gujarat,Sugarcane,643.9,30.1,Sandy,105.0,3.89,5.79
+Maharashtra,Maize,876.5,25.4,Peaty,165.3,6.65,6.37
+Punjab,Sugarcane,1025.9,21.4,Loamy,156.9,3.88,6.86
+Gujarat,Maize,,25.1,Loamy,77.7,4.03,6.45
+Gujarat,Sugarcane,1051.8,28.6,Sandy,114.4,6.13,6.72
+Gujarat,Soybean,918.4,20.1,Peaty,128.1,8.12,4.64
+West Bengal,Maize,713.5,17.8,,99.7,7.31,4.71
+Tamil Nadu,Cotton,,36.0,Silt,214.3,4.23,2.69
+Uttar Pradesh,Wheat,772.3,22.8,Peaty,129.3,4.4,5.21
+Uttar Pradesh,Soybean,1002.5,25.3,Peaty,117.5,4.59,4.87
+West Bengal,Cotton,984.2,24.0,Sandy,167.6,4.79,3.95
+Bihar,Cotton,375.0,28.7,Silt,105.4,2.81,3.83
+Uttar Pradesh,Cotton,703.6,34.9,Sandy,160.3,6.37,3.09
+Andhra Pradesh,Rice,1201.1,28.9,Silt,53.3,4.91,5.53
+Maharashtra,Sugarcane,919.8,18.4,Sandy,101.9,4.41,5.62
+Punjab,Soybean,545.7,19.1,Sandy,162.0,1.96,3.52
+Karnataka,Maize,1489.0,24.0,Sandy,182.8,4.62,5.74
+Bihar,Wheat,892.8,24.7,Silt,89.1,0.71,4.32
+Bihar,Maize,996.1,17.4,Silt,84.4,3.34,5.34
+Uttar Pradesh,Rice,999.9,30.1,Peaty,142.7,3.37,6.3
+Karnataka,Maize,808.1,20.6,Silt,95.1,5.07,4.96
+Karnataka,Sugarcane,718.1,33.5,Loamy,109.3,8.26,6.36
+West Bengal,Wheat,1430.4,35.1,Sandy,155.1,5.64,4.13
+Bihar,Soybean,1150.8,24.8,,98.2,7.4,5.0
+West Bengal,Rice,1105.5,28.2,Loamy,41.4,5.79,6.74
+West Bengal,Pulses,1044.1,19.8,Loamy,68.0,6.75,4.69
+Punjab,Soybean,649.2,29.1,Sandy,120.4,8.21,4.13
+Bihar,Rice,1219.4,23.5,Peaty,45.5,3.04,6.41
+Bihar,Cotton,689.2,20.6,Sandy,108.1,2.91,3.61
+Gujarat,Wheat,970.8,24.6,Sandy,64.3,5.84,4.7
+Punjab,Wheat,490.2,23.7,Loamy,185.6,4.49,5.32
+Bihar,Pulses,389.8,24.4,Silt,206.6,4.94,3.97
+Maharashtra,Soybean,979.6,30.7,Loamy,77.7,4.0,4.83
+Bihar,Rice,697.7,22.1,Peaty,130.3,3.31,5.64
+Punjab,Rice,402.7,34.7,Peaty,81.6,7.74,4.81
+Andhra Pradesh,Rice,1035.2,19.4,Peaty,107.6,2.3,5.72
+Tamil Nadu,Maize,1430.0,34.1,Clay,192.1,5.87,5.11
+Andhra Pradesh,Maize,1247.4,20.9,Loamy,101.3,5.55,5.5
+Bihar,Maize,835.7,26.0,Clay,108.6,1.34,5.38
+Bihar,Cotton,902.2,23.5,Silt,82.3,2.84,4.13
+Uttar Pradesh,Rice,1121.9,24.3,Clay,165.8,3.17,5.71
+Andhra Pradesh,Pulses,1180.5,30.0,Peaty,20.0,5.63,3.98
+Maharashtra,Soybean,,33.5,Loamy,102.3,3.77,4.1
+Punjab,Soybean,908.5,32.0,Loamy,118.2,4.33,4.62
+Punjab,Rice,975.2,24.0,Clay,93.6,1.58,5.39
+Rajasthan,Sugarcane,1038.5,26.9,Silt,154.5,9.15,6.81
+Uttar Pradesh,Soybean,866.7,22.1,Silt,168.1,4.64,4.8
+Karnataka,Rice,870.0,21.0,Clay,63.5,5.5,5.28
+Uttar Pradesh,Soybean,1245.0,20.3,Silt,203.7,3.42,4.65
+Karnataka,Maize,1202.4,23.8,Silt,63.1,3.19,5.33
+West Bengal,Soybean,1019.4,27.2,Sandy,171.5,8.33,4.58
+Punjab,Cotton,1329.8,16.4,Sandy,126.0,0.67,3.14
+Tamil Nadu,Soybean,803.4,25.8,Loamy,99.9,5.06,5.53
+Uttar Pradesh,Rice,1305.7,33.6,Clay,103.6,2.08,4.84
+Tamil Nadu,Maize,1035.6,31.6,Sandy,118.7,3.69,4.96
+Uttar Pradesh,Rice,1717.8,23.1,Loamy,128.3,3.22,6.02
+Punjab,Rice,601.9,19.0,Sandy,83.2,2.53,5.18
+Andhra Pradesh,Maize,727.7,28.3,Loamy,110.6,4.57,4.87
+Maharashtra,Maize,1004.7,14.4,Silt,89.2,0.5,4.74
+Bihar,Wheat,999.3,,Loamy,71.4,3.87,4.81
+Uttar Pradesh,Sugarcane,1387.5,24.9,Loamy,87.3,4.32,8.03
+Gujarat,Cotton,732.9,35.2,Silt,74.0,1.78,3.1
+Gujarat,Soybean,1126.2,17.4,Clay,103.2,7.53,4.38
+Gujarat,Sugarcane,1190.6,30.6,Clay,137.3,3.31,6.68
+Rajasthan,Rice,1076.2,25.5,,124.8,4.03,5.87
+Punjab,Wheat,659.8,24.3,Clay,199.0,3.32,5.22
+West Bengal,Maize,1251.9,19.2,Silt,31.6,4.34,4.98
+Maharashtra,Cotton,1207.3,29.0,Silt,138.8,7.12,4.27
+Gujarat,Rice,1049.9,29.4,Clay,120.3,9.45,6.49
+Andhra Pradesh,Soybean,951.1,34.9,Silt,152.6,5.99,3.55
+Andhra Pradesh,Sugarcane,956.5,31.0,Silt,148.7,6.68,6.61
+Karnataka,Soybean,880.3,23.0,Sandy,113.4,7.93,4.45
+West Bengal,Wheat,1060.2,21.0,Sandy,126.9,5.0,4.45
+Punjab,Soybean,907.8,19.2,Peaty,90.2,7.64,4.6
+Uttar Pradesh,Rice,687.9,33.4,Sandy,144.5,6.08,5.36
+Bihar,Cotton,637.9,22.1,Clay,44.8,4.79,3.8
+Andhra Pradesh,Cotton,712.0,33.4,Sandy,151.1,5.2,2.96
+Uttar Pradesh,Soybean,955.5,28.6,Peaty,119.1,0.86,4.4
+Bihar,Rice,893.3,27.6,Silt,100.5,5.08,6.04
+Andhra Pradesh,Rice,953.8,24.5,Loamy,110.7,1.41,5.7
+Maharashtra,Maize,1025.2,29.3,Sandy,113.6,1.25,4.77
+West Bengal,Maize,743.2,25.9,Silt,171.9,4.89,5.5
+Rajasthan,Rice,1266.4,24.2,Clay,,2.27,5.66
+Andhra Pradesh,Rice,833.1,29.5,Peaty,168.8,4.49,6.69
+Uttar Pradesh,Rice,791.6,,Peaty,97.4,4.78,6.65
+Uttar Pradesh,Cotton,1020.6,22.0,Peaty,145.2,4.87,4.35
+Uttar Pradesh,Maize,440.9,29.0,Loamy,146.9,2.69,4.79
+West Bengal,Maize,702.4,25.7,Sandy,83.0,6.3,5.02
+Gujarat,Soybean,1145.3,28.4,Sandy,69.6,4.32,3.71
+West Bengal,Rice,465.6,23.7,Silt,117.5,5.38,6.11
+Karnataka,Pulses,1179.4,20.0,Peaty,152.3,2.11,3.99
+Uttar Pradesh,Soybean,1277.8,34.7,Clay,,4.14,4.52
+Punjab,Rice,807.6,33.7,Sandy,91.2,6.69,4.52
+Tamil Nadu,Maize,973.0,30.4,Silt,142.9,6.44,5.35
+Rajasthan,Rice,1179.8,24.1,Silt,121.7,2.91,6.48
+Rajasthan,Rice,783.3,24.5,Silt,176.7,3.41,5.72
+Rajasthan,Maize,1116.9,32.9,Clay,63.5,2.52,4.9
+Tamil Nadu,Wheat,732.2,24.2,Peaty,214.1,3.19,5.59
+Tamil Nadu,Wheat,780.6,22.8,Loamy,58.5,1.7,4.69
+Bihar,Cotton,700.2,35.4,Sandy,38.8,4.22,1.92
+Uttar Pradesh,Sugarcane,985.7,25.8,Silt,117.6,5.77,6.49
+Punjab,Maize,1189.5,34.8,Loamy,74.6,2.93,5.1
+Karnataka,Pulses,854.0,19.0,Sandy,118.4,4.32,3.37
+Punjab,Maize,582.2,28.6,Sandy,117.1,4.06,4.99
+West Bengal,Pulses,629.3,36.4,Silt,112.2,6.61,2.58
+Uttar Pradesh,Rice,998.6,26.1,Loamy,86.3,3.28,5.75
+Uttar Pradesh,Cotton,1361.0,24.7,Clay,137.3,3.35,3.84
+Maharashtra,Soybean,998.4,20.2,Clay,107.3,2.81,5.43
+Tamil Nadu,Wheat,803.3,31.4,Silt,,2.22,4.59
+Karnataka,Pulses,1091.5,22.1,Clay,112.8,5.56,4.34
+Rajasthan,Maize,840.1,25.5,Sandy,81.4,4.23,5.0
+Rajasthan,Cotton,805.4,19.8,Silt,52.5,4.61,3.25
+Gujarat,Sugarcane,660.4,33.8,Silt,113.1,7.05,5.77
+Gujarat,Sugarcane,1252.1,31.8,Loamy,69.2,7.16,7.77
+Andhra Pradesh,Wheat,,25.8,Peaty,66.0,1.21,4.58
+Bihar,Pulses,1099.5,20.2,Loamy,141.1,5.8,4.25
+Maharashtra,Sugarcane,784.1,33.7,Loamy,48.9,4.95,5.83
+Maharashtra,Pulses,797.4,24.2,Loamy,176.5,3.58,4.18
+Bihar,Cotton,1323.1,20.5,Clay,126.4,5.16,4.45
+Maharashtra,Sugarcane,721.5,17.2,Peaty,118.2,1.05,6.74
+Rajasthan,Cotton,730.0,22.8,Clay,78.6,7.43,4.21
+Gujarat,Pulses,867.4,18.7,Silt,150.6,5.53,3.33
+Karnataka,Soybean,1003.5,22.9,Sandy,119.9,2.77,4.12
+Karnataka,Pulses,789.5,29.7,Loamy,92.6,3.33,4.08
+Punjab,Cotton,506.5,24.1,Sandy,128.0,1.09,2.72
+Karnataka,Soybean,683.6,27.8,Loamy,52.7,3.87,4.72
+Tamil Nadu,Maize,1220.3,22.4,Sandy,54.6,3.53,5.44
+Karnataka,Cotton,918.7,26.3,Sandy,,1.85,3.55
+Maharashtra,Soybean,1012.8,35.6,Sandy,134.0,6.05,3.07
+Karnataka,Wheat,834.6,24.3,Clay,,7.05,5.08
+Bihar,Sugarcane,735.1,27.9,Silt,162.0,4.45,6.1
+Rajasthan,Wheat,1319.4,18.2,Sandy,83.2,3.89,4.36
+Gujarat,Sugarcane,853.0,,Clay,143.0,5.37,6.38
+Gujarat,Cotton,789.2,23.6,,115.4,4.46,3.41
+Tamil Nadu,Cotton,1174.0,31.3,Loamy,82.3,2.34,4.89
+West Bengal,Cotton,719.4,25.4,Peaty,135.4,3.19,4.59
+Rajasthan,Cotton,751.3,29.1,Silt,117.4,3.91,3.28
+West Bengal,Maize,902.6,29.4,Clay,94.8,5.0,4.73
+Uttar Pradesh,Cotton,900.1,23.7,Silt,121.7,4.52,3.89
+Maharashtra,Cotton,964.9,31.5,Silt,114.8,4.92,4.46
+Tamil Nadu,Soybean,1422.9,22.2,Silt,113.9,1.45,5.0
+Karnataka,Cotton,984.1,29.9,Loamy,103.5,5.83,5.12
+Maharashtra,Sugarcane,305.5,24.0,Peaty,67.8,4.51,6.54
+Punjab,Soybean,981.6,27.7,Peaty,123.0,9.61,5.2
+West Bengal,Pulses,909.5,23.7,Peaty,87.9,3.72,3.78
+Uttar Pradesh,Wheat,910.9,26.2,Peaty,79.2,5.15,5.43
+Maharashtra,Sugarcane,961.5,,Peaty,110.4,10.16,7.28
+Rajasthan,Rice,892.8,27.2,Silt,149.4,4.89,5.88
+Gujarat,Rice,886.8,26.2,Loamy,127.4,4.36,6.89
+Uttar Pradesh,Soybean,1053.3,23.3,Sandy,98.8,2.53,4.09
+Punjab,Wheat,764.5,25.7,Clay,97.1,7.56,5.66
+Punjab,Soybean,663.1,26.7,Clay,145.4,2.18,3.79
+Tamil Nadu,Soybean,1655.9,22.9,Peaty,24.1,5.35,6.23
+Rajasthan,Pulses,721.0,25.4,Peaty,151.9,3.55,4.04
+Andhra Pradesh,Sugarcane,925.0,21.0,Sandy,45.0,4.12,6.33
+Gujarat,Pulses,526.1,37.7,Silt,63.4,1.65,2.02
+Bihar,Wheat,929.1,31.3,Loamy,99.4,7.19,5.05
+Tamil Nadu,Pulses,666.7,27.4,Clay,206.8,3.94,4.25
+Andhra Pradesh,Rice,789.4,31.9,Peaty,187.1,2.07,5.85
+Gujarat,Maize,1161.3,16.1,Sandy,148.3,7.01,4.44
+Punjab,Wheat,1018.0,13.2,Sandy,134.3,3.49,3.05
+Rajasthan,Maize,1042.1,24.0,Sandy,45.5,5.17,5.03
+Punjab,Soybean,457.2,19.1,Clay,126.3,6.18,4.12
+Uttar Pradesh,Rice,1359.2,,Peaty,,5.45,7.15
+West Bengal,Soybean,602.0,27.0,Silt,87.3,0.5,4.07
+Bihar,Sugarcane,1282.1,30.6,Silt,126.2,5.89,6.94
+West Bengal,Sugarcane,1155.4,20.3,Clay,101.2,4.3,7.1
+Rajasthan,Pulses,1044.3,28.0,Silt,154.8,3.84,3.36
+Rajasthan,Cotton,686.3,26.1,Peaty,42.6,4.28,3.92
+Andhra Pradesh,Maize,937.9,27.7,Silt,123.0,1.28,5.18
+Rajasthan,Pulses,782.3,23.4,Sandy,84.8,4.88,3.88
+Tamil Nadu,Cotton,907.3,32.9,Clay,103.6,1.77,3.51
+Punjab,Sugarcane,837.5,25.5,,132.2,3.93,6.88
+Andhra Pradesh,Maize,390.3,34.9,Clay,75.3,4.81,4.39
+Punjab,Rice,,22.0,Silt,126.6,6.65,6.09
+West Bengal,Rice,879.7,29.7,Loamy,111.5,2.86,5.9
+Tamil Nadu,Rice,778.8,25.7,Loamy,93.6,7.4,6.54
+Bihar,Rice,759.9,24.4,Silt,101.2,6.39,5.77
+West Bengal,Soybean,989.6,29.2,Clay,113.8,3.64,5.11
+West Bengal,Wheat,676.6,24.5,Sandy,89.3,2.28,3.81
+Bihar,Sugarcane,336.2,12.7,Sandy,120.3,1.61,4.29
+Uttar Pradesh,Pulses,1001.8,10.7,Sandy,108.9,5.04,1.97
+Maharashtra,Soybean,1029.8,32.4,Silt,95.5,3.03,3.93
+Punjab,Maize,850.1,32.2,Clay,183.6,6.9,5.06
+Maharashtra,Wheat,613.0,35.4,Silt,136.6,3.14,3.6
+Tamil Nadu,Soybean,922.2,25.9,Clay,104.7,2.7,4.86
+West Bengal,Wheat,533.9,19.5,Clay,125.8,4.97,4.42
+Tamil Nadu,Sugarcane,643.2,23.9,Sandy,78.9,3.13,5.65
+West Bengal,Sugarcane,712.3,26.1,Peaty,102.5,4.52,7.35
+West Bengal,Rice,1111.0,21.0,Clay,107.2,6.47,6.32
+Andhra Pradesh,Soybean,809.3,34.2,Sandy,70.1,4.73,3.58
+Gujarat,Rice,788.0,37.2,Loamy,135.5,4.74,5.08
+Tamil Nadu,Rice,1388.7,28.4,Loamy,99.8,4.91,7.4
+Punjab,Soybean,988.1,25.9,Silt,105.8,1.11,4.72
+Andhra Pradesh,Pulses,984.7,19.5,Silt,97.3,5.28,3.58
+Andhra Pradesh,Rice,807.6,33.7,Clay,238.4,4.82,5.54
+Punjab,Pulses,750.9,26.4,Silt,93.5,6.29,3.79
+Rajasthan,Pulses,353.4,24.6,,37.3,5.71,3.39
+Bihar,Soybean,1142.2,28.4,Clay,56.0,4.1,4.16
+Bihar,Wheat,1012.1,23.1,Sandy,150.4,6.56,4.8
+Bihar,Maize,855.2,26.7,Clay,173.5,3.91,5.7
+Punjab,Sugarcane,,18.8,Peaty,92.7,4.99,6.7
+Andhra Pradesh,Pulses,1084.0,31.4,Sandy,171.2,3.88,3.02
+Punjab,Soybean,511.3,25.5,Clay,149.7,5.42,4.0
+Maharashtra,Maize,752.5,,Sandy,112.4,3.75,5.13
+Maharashtra,Rice,,25.0,Silt,109.6,7.8,6.03
+Rajasthan,Pulses,1342.9,25.3,Clay,127.2,8.53,4.51
+Punjab,Rice,1118.9,19.9,Peaty,155.1,6.25,6.51
+Tamil Nadu,Maize,349.3,29.8,Sandy,135.9,7.58,5.36
+Tamil Nadu,Pulses,521.6,,Silt,92.9,1.42,3.48
+West Bengal,Cotton,866.9,23.6,Peaty,113.0,1.66,3.24
+Tamil Nadu,Rice,781.9,26.0,Sandy,199.3,3.86,6.42
+Punjab,Wheat,568.9,26.6,Loamy,130.0,4.58,4.52
+Maharashtra,Cotton,1386.2,17.5,Silt,154.8,4.1,4.03
+Gujarat,Pulses,,24.8,Loamy,141.6,1.22,3.81
+Punjab,Cotton,1018.7,30.0,Sandy,130.9,6.8,3.62
+Bihar,Sugarcane,727.0,24.1,Peaty,124.3,8.81,7.39
+West Bengal,Rice,1080.6,24.9,Sandy,155.9,7.06,5.21
+Uttar Pradesh,Soybean,,26.8,Silt,148.7,6.67,4.7
+Bihar,Soybean,829.2,25.4,Sandy,130.6,4.95,4.64
+Tamil Nadu,Sugarcane,1052.8,20.8,Clay,92.2,2.81,6.41
+Bihar,Soybean,492.8,25.8,Clay,135.4,4.65,3.95
+Tamil Nadu,Sugarcane,1299.3,31.0,Sandy,117.3,8.71,6.65
+Andhra Pradesh,Maize,945.6,20.7,Loamy,107.7,3.8,5.51
+Maharashtra,Soybean,1220.2,24.1,Sandy,227.2,3.59,4.35
+Rajasthan,Soybean,631.1,19.1,Sandy,58.4,6.71,3.28
+Tamil Nadu,Soybean,669.2,30.7,Peaty,158.3,6.85,4.83
+Maharashtra,Rice,609.5,25.5,Loamy,85.5,2.8,6.1
+West Bengal,Sugarcane,962.6,21.7,Peaty,125.2,3.98,6.69
+Tamil Nadu,Wheat,,26.5,Sandy,222.7,3.5,4.36
+Gujarat,Sugarcane,783.9,20.0,Silt,81.5,4.64,6.48
+Rajasthan,Cotton,646.5,20.8,Sandy,91.0,6.71,3.23
+Tamil Nadu,Maize,583.4,18.7,Clay,119.3,2.89,4.81
+Karnataka,Pulses,887.9,20.7,Peaty,86.1,6.68,4.75
+Tamil Nadu,Pulses,,32.8,Clay,155.4,4.7,3.49
+Uttar Pradesh,Wheat,728.6,22.3,Loamy,98.6,9.15,5.07
+Uttar Pradesh,Rice,1286.8,28.3,Silt,146.2,5.14,6.39
+Tamil Nadu,Rice,879.4,21.8,Silt,66.8,4.31,5.64
+Rajasthan,Pulses,1217.5,29.8,Peaty,47.7,5.65,4.23
+Gujarat,Cotton,766.7,20.9,,110.8,3.83,3.66
+Tamil Nadu,Soybean,961.2,26.2,Loamy,57.3,0.91,4.79
+Karnataka,Soybean,886.1,26.3,Loamy,180.7,4.02,5.08
+Punjab,Soybean,475.6,37.6,Sandy,58.8,3.99,2.09
+Karnataka,Wheat,1257.1,29.2,Clay,78.5,1.32,5.59
+Karnataka,Wheat,866.2,23.0,Peaty,136.5,4.35,5.72
+Bihar,Maize,1086.6,29.4,Loamy,96.5,0.5,5.59
+West Bengal,Maize,712.0,36.7,Peaty,59.3,3.8,4.08
+Bihar,Soybean,858.8,17.9,Clay,201.6,4.99,3.99
+Andhra Pradesh,Rice,683.3,21.8,Loamy,79.9,4.69,6.4
+West Bengal,Maize,1209.0,24.8,Clay,112.1,3.68,5.78
+Punjab,Rice,977.9,23.9,,111.6,4.33,6.17
+Maharashtra,Rice,991.8,24.3,Sandy,148.4,2.93,5.44
+Tamil Nadu,Rice,1239.5,19.5,Clay,138.5,4.52,5.72
+Karnataka,Rice,1189.1,33.0,Sandy,86.9,4.62,5.46
+Bihar,Cotton,1091.3,18.9,Sandy,107.0,2.7,3.69
+Tamil Nadu,Maize,,25.0,Loamy,110.9,5.04,5.64
+Bihar,Cotton,726.1,31.2,Loamy,150.0,5.02,4.19
+Punjab,Cotton,649.0,25.8,Loamy,73.3,4.17,4.07
+West Bengal,Soybean,1081.9,21.1,Loamy,200.7,9.34,4.72
+West Bengal,Pulses,942.7,19.3,Loamy,89.6,4.22,3.58
+Karnataka,Cotton,552.4,24.9,Clay,119.7,3.94,3.75
+Tamil Nadu,Sugarcane,852.8,22.2,Sandy,73.6,3.66,5.85
+Rajasthan,Soybean,526.5,27.0,Clay,68.1,2.56,4.21
+Maharashtra,Sugarcane,886.7,19.0,Clay,85.0,5.87,6.89
+Bihar,Wheat,486.2,30.1,Sandy,81.2,3.13,3.81
+Karnataka,Pulses,1032.2,26.6,Sandy,103.4,3.36,4.1
+Rajasthan,Rice,994.5,26.9,Clay,80.8,3.42,5.65
+West Bengal,Maize,1377.0,33.2,Clay,147.8,2.53,5.09
+Andhra Pradesh,Sugarcane,1112.0,23.8,Sandy,88.7,1.0,6.16
+Tamil Nadu,Maize,,22.4,Loamy,84.2,3.57,5.93
+Uttar Pradesh,Rice,1104.5,23.3,Sandy,104.3,6.25,5.83
+West Bengal,Pulses,550.6,25.0,,159.7,4.89,4.19
+Maharashtra,Wheat,659.4,25.5,Clay,128.6,7.62,4.59
+Bihar,Rice,983.3,21.8,Loamy,116.0,6.0,6.11
+Gujarat,Pulses,360.4,15.9,Silt,62.7,5.55,3.1
+Uttar Pradesh,Soybean,890.7,23.2,Loamy,74.3,8.27,4.44
+Uttar Pradesh,Wheat,644.9,27.8,Loamy,68.9,4.31,5.5
+Rajasthan,Soybean,925.3,26.7,Loamy,172.3,4.63,5.3
+Bihar,Pulses,630.6,32.0,Peaty,141.2,4.48,3.4
+Bihar,Wheat,,35.8,Peaty,85.5,7.59,4.13
+Maharashtra,Maize,904.8,29.8,Sandy,97.4,4.51,5.45
+Punjab,Cotton,1250.1,32.9,Silt,87.0,3.2,4.24
+Andhra Pradesh,Wheat,901.7,29.8,Silt,84.6,5.68,4.79
+Rajasthan,Rice,707.8,34.5,Silt,138.4,2.87,4.81
+Punjab,Rice,,35.3,Sandy,108.5,5.57,4.28
+Andhra Pradesh,Rice,563.9,30.8,Peaty,203.2,5.33,5.85
+Andhra Pradesh,Maize,1001.5,29.5,Silt,170.0,4.12,5.13
+Maharashtra,Cotton,1047.5,25.0,Loamy,172.4,5.63,4.9
+Tamil Nadu,Rice,1517.3,25.8,Clay,146.9,1.52,6.94
+Uttar Pradesh,Maize,744.5,24.3,Peaty,103.1,4.83,5.58
+Maharashtra,Rice,833.1,29.1,Sandy,143.9,3.57,4.92
+Gujarat,Soybean,756.1,22.4,Clay,106.0,10.22,4.42
+West Bengal,Rice,953.0,25.0,Peaty,185.2,4.81,6.45
+Maharashtra,Pulses,995.4,14.2,Silt,136.2,3.31,2.63
+Karnataka,Cotton,886.7,34.6,Sandy,130.5,1.74,2.75
+Maharashtra,Soybean,1171.6,24.9,Sandy,125.1,7.11,4.1
+Andhra Pradesh,Sugarcane,745.8,28.3,Loamy,189.6,3.8,7.29
+Karnataka,Rice,1146.5,33.3,Clay,62.6,2.92,4.93
+Punjab,Sugarcane,1034.6,27.5,Sandy,193.5,5.17,6.66
+West Bengal,Rice,897.0,33.2,Peaty,112.6,5.8,5.54
+Tamil Nadu,Wheat,821.3,19.8,Clay,63.8,5.77,5.38
+Tamil Nadu,Rice,1506.7,38.0,Loamy,89.9,4.54,5.17
+Punjab,Rice,,31.4,Sandy,54.0,4.82,5.51
+Bihar,Wheat,974.5,27.0,Peaty,146.1,4.96,5.64
+Karnataka,Wheat,712.4,33.1,Sandy,78.5,5.17,4.3
+West Bengal,Pulses,1346.4,20.2,Clay,126.7,5.35,4.29
+Andhra Pradesh,Cotton,1121.7,24.6,Silt,165.4,6.69,4.77
+Uttar Pradesh,Maize,730.4,33.2,Silt,93.1,4.61,5.02
+Rajasthan,Pulses,1028.1,16.7,Clay,109.3,2.87,3.72
+Gujarat,Rice,964.4,28.8,Peaty,67.9,4.21,6.21
+Tamil Nadu,Maize,770.8,28.7,Sandy,104.5,6.01,4.78
+Uttar Pradesh,Soybean,1089.5,35.8,Loamy,223.0,0.93,3.71
+Andhra Pradesh,Sugarcane,997.3,18.1,Sandy,151.1,0.94,6.11
+Bihar,Maize,953.9,34.0,Peaty,109.4,6.34,5.56
+Rajasthan,Rice,889.5,23.2,Clay,95.5,7.54,5.96
+West Bengal,Wheat,1007.8,23.8,Sandy,118.3,1.97,4.22
+Andhra Pradesh,Wheat,957.3,19.9,Silt,125.2,4.7,4.54
+Rajasthan,Rice,914.8,20.6,Silt,103.2,3.7,5.96
+Bihar,Soybean,739.7,28.0,Peaty,141.2,3.98,4.39
+Rajasthan,Sugarcane,1323.4,20.4,Loamy,81.9,5.11,7.65
+Rajasthan,Cotton,637.4,29.7,Sandy,81.7,1.91,3.28
+Andhra Pradesh,Soybean,1006.9,22.7,Sandy,134.8,2.29,3.91
+Rajasthan,Rice,819.9,19.9,Loamy,73.3,3.9,6.43
+Uttar Pradesh,Rice,1339.9,23.4,Silt,149.2,4.21,5.8
+Uttar Pradesh,Maize,674.1,27.7,Loamy,119.4,2.25,5.96
+Andhra Pradesh,Pulses,716.2,24.6,Sandy,46.9,6.08,3.54
+Gujarat,Sugarcane,657.5,26.2,Clay,124.4,3.66,5.95
+Gujarat,Soybean,980.9,29.5,Loamy,52.6,3.66,5.24
+Maharashtra,Rice,,31.4,Peaty,147.7,5.07,5.98
+Bihar,Soybean,780.4,24.4,Clay,110.1,4.24,4.46
+Uttar Pradesh,Wheat,361.9,20.8,Clay,194.0,6.17,4.4
+Tamil Nadu,Rice,,26.4,,162.9,2.63,5.63
+Uttar Pradesh,Cotton,774.9,28.4,Peaty,77.6,1.71,4.82
+Bihar,Wheat,528.0,18.7,Loamy,39.2,3.88,4.15
+Andhra Pradesh,Pulses,1171.4,21.5,Clay,89.8,4.62,3.77
+West Bengal,Pulses,573.1,22.4,Silt,71.1,2.02,3.47
+Gujarat,Cotton,1099.2,25.0,Silt,193.0,1.72,3.67
+Rajasthan,Maize,724.7,22.2,Peaty,119.6,4.86,5.21
+West Bengal,Wheat,1300.4,29.5,Sandy,157.3,2.98,5.05
+Andhra Pradesh,Sugarcane,1087.4,18.0,Loamy,108.6,1.59,6.77
+Andhra Pradesh,Cotton,648.0,18.1,Peaty,112.8,6.43,3.85
+Andhra Pradesh,Soybean,670.7,24.3,Loamy,118.7,3.24,4.75
+Bihar,Sugarcane,1051.4,25.1,Loamy,164.3,6.8,7.45
+Andhra Pradesh,Wheat,834.4,18.7,Silt,132.5,4.56,4.6
+Uttar Pradesh,Wheat,857.7,23.0,Silt,77.7,5.09,4.67
+Rajasthan,Soybean,1218.1,24.0,Loamy,184.9,4.08,5.15
+West Bengal,Rice,712.8,24.0,Loamy,108.3,0.5,5.48
+Uttar Pradesh,Pulses,,26.8,Sandy,101.8,2.23,3.14
+West Bengal,Wheat,1138.7,22.7,Clay,20.0,4.25,5.29
+Gujarat,Soybean,1102.3,33.4,Silt,145.4,5.23,4.48
+Gujarat,Pulses,860.1,28.4,Sandy,124.0,0.92,2.79
+Uttar Pradesh,Cotton,827.8,22.0,Sandy,124.0,4.39,3.28
+Gujarat,Wheat,465.3,26.5,Sandy,103.9,2.26,3.98
+Andhra Pradesh,Pulses,635.9,26.6,Clay,97.0,4.97,4.65
+Rajasthan,Rice,979.6,32.1,Clay,105.2,4.46,5.23
+Uttar Pradesh,Cotton,865.5,23.0,,138.5,5.99,4.26
+West Bengal,Pulses,918.7,29.8,Sandy,145.6,6.63,3.65
+West Bengal,Soybean,1159.8,26.2,Sandy,110.8,5.42,4.47
+Bihar,Wheat,,33.5,Sandy,158.0,6.22,3.71
+Tamil Nadu,Soybean,841.0,32.5,Clay,116.8,3.8,4.49
+Uttar Pradesh,Rice,947.2,27.0,Peaty,99.8,10.15,6.73
+Rajasthan,Soybean,724.0,24.7,,127.9,2.06,4.18
+Uttar Pradesh,Sugarcane,,28.5,Silt,65.6,3.44,7.02
+Uttar Pradesh,Maize,1127.1,25.1,,129.3,6.3,6.4
+Maharashtra,Maize,972.5,34.4,Peaty,58.3,6.01,5.45
+Andhra Pradesh,Wheat,1348.6,26.4,Silt,78.9,5.47,5.86
+Maharashtra,Pulses,525.3,24.0,Silt,39.3,5.85,4.42
+Gujarat,Rice,898.1,23.7,,113.0,0.5,5.47
+Bihar,Maize,991.6,19.9,Silt,184.4,7.68,5.34
+Bihar,Cotton,671.4,28.8,Clay,115.3,4.09,4.27
+Rajasthan,Sugarcane,975.2,21.9,Silt,145.7,6.99,7.28
+Punjab,Cotton,623.4,31.5,Loamy,214.1,0.5,4.31
+Punjab,Cotton,1072.6,19.5,Peaty,136.2,5.01,4.12
+Tamil Nadu,Sugarcane,1164.5,26.6,Clay,89.4,3.37,7.19
+Punjab,Pulses,968.1,31.8,Silt,94.9,5.64,3.45
+Rajasthan,Maize,436.8,15.2,Loamy,120.0,5.13,4.74
+Andhra Pradesh,Soybean,658.3,36.1,Loamy,94.7,5.23,3.55
+Uttar Pradesh,Soybean,1041.2,23.9,Peaty,97.7,2.38,4.99
+Maharashtra,Pulses,905.3,26.7,,159.4,4.39,3.88
+Bihar,Pulses,226.5,28.9,Clay,161.0,4.14,3.75
+Uttar Pradesh,Soybean,1210.7,29.6,Loamy,54.1,5.49,5.08
+Tamil Nadu,Rice,934.2,27.4,Peaty,87.3,6.48,6.35
+Andhra Pradesh,Soybean,695.2,31.0,Peaty,101.4,4.8,5.09
+Bihar,Soybean,1148.7,28.6,Loamy,144.0,1.95,4.79
+Andhra Pradesh,Maize,730.6,34.8,Silt,165.7,4.72,4.55
+Gujarat,Sugarcane,727.9,28.6,Clay,228.1,9.72,7.17
+Andhra Pradesh,Rice,,35.8,Silt,101.4,7.79,5.11
+Tamil Nadu,Cotton,1345.3,30.5,Sandy,,0.5,4.19
+Punjab,Soybean,1305.9,17.0,Loamy,143.5,4.63,4.81
+West Bengal,Rice,989.9,39.1,Clay,92.7,6.36,4.03
+Tamil Nadu,Maize,1015.6,23.1,Sandy,114.4,4.14,5.73
+Rajasthan,Soybean,1097.9,33.5,Silt,103.4,3.58,3.88
+Punjab,Cotton,585.8,26.1,Loamy,20.0,3.97,3.42
+Andhra Pradesh,Pulses,1061.0,31.3,Peaty,,5.6,3.92
+Andhra Pradesh,Wheat,716.5,22.6,,112.7,2.2,4.18
+Rajasthan,Soybean,979.6,29.1,Peaty,170.8,6.88,4.45
+Andhra Pradesh,Soybean,843.1,24.7,Peaty,120.2,4.39,4.77
+Andhra Pradesh,Pulses,1025.3,33.9,Loamy,69.8,2.63,3.46
+Gujarat,Rice,929.5,28.2,Loamy,109.7,6.75,6.83
+Uttar Pradesh,Pulses,200.0,30.7,Silt,36.4,1.41,2.82
+Maharashtra,Maize,944.7,15.2,Loamy,71.6,3.39,4.93
+Tamil Nadu,Maize,1060.5,25.6,Loamy,145.4,3.36,5.61
+Maharashtra,Maize,1011.5,,Sandy,110.1,8.79,5.62
+Bihar,Sugarcane,874.4,27.1,Peaty,156.9,3.13,7.51
+Karnataka,Sugarcane,1310.5,30.8,Silt,41.3,0.5,6.31
+Andhra Pradesh,Cotton,977.8,24.2,Sandy,110.3,3.34,3.94
+Tamil Nadu,Wheat,1009.4,26.2,Loamy,101.0,5.41,5.12
+Bihar,Pulses,1161.1,31.9,Clay,158.2,6.07,4.43
+Karnataka,Rice,990.6,14.6,Silt,146.9,9.05,5.9
+West Bengal,Wheat,675.5,28.9,Loamy,145.7,7.31,5.45
+Punjab,Sugarcane,290.4,24.3,Sandy,181.7,4.88,5.84
+Maharashtra,Maize,780.7,21.4,Loamy,105.3,2.72,5.38
+Punjab,Sugarcane,1090.2,27.7,Clay,173.4,7.75,7.18
+Tamil Nadu,Pulses,811.7,32.1,Clay,78.2,3.76,3.3
+Gujarat,Wheat,1100.3,31.2,Silt,76.8,3.18,4.86
+Rajasthan,Rice,937.2,25.3,Peaty,150.1,3.67,6.35
+Uttar Pradesh,Cotton,1222.0,30.4,Loamy,59.8,2.0,4.61
+Punjab,Soybean,826.2,30.3,Silt,142.9,3.57,4.39
+Maharashtra,Sugarcane,1016.9,25.6,Silt,124.1,4.03,6.61
+Bihar,Maize,1026.5,22.5,Peaty,162.9,5.96,5.79
+Gujarat,Sugarcane,,22.8,Peaty,117.6,3.72,7.15
+West Bengal,Pulses,473.3,30.2,Loamy,122.2,1.97,3.52
+Punjab,Cotton,785.4,25.8,Silt,140.4,1.29,4.48
+Karnataka,Pulses,1112.1,20.8,Sandy,93.5,4.92,4.31
+Maharashtra,Soybean,1286.5,17.6,Loamy,91.8,4.65,5.07
+Punjab,Maize,960.0,30.2,Clay,139.0,3.39,5.31
+Punjab,Rice,826.8,23.3,Peaty,,3.57,5.6
+Rajasthan,Soybean,1089.3,27.7,Sandy,103.7,5.28,4.44
+Gujarat,Rice,1117.2,32.2,,116.7,7.28,5.62
+Rajasthan,Maize,810.1,19.5,Clay,183.8,2.94,5.69
+Maharashtra,Rice,982.6,25.8,,102.3,4.68,5.73
+West Bengal,Sugarcane,1195.1,25.1,Clay,101.1,6.42,7.43
+Bihar,Maize,1372.6,27.9,Loamy,51.7,2.95,5.55
+Bihar,Sugarcane,1085.7,32.2,Sandy,118.3,4.47,6.08
+Maharashtra,Pulses,911.0,19.4,Peaty,146.3,4.42,4.31
+Punjab,Soybean,886.5,28.8,Loamy,153.4,1.88,5.05
+Rajasthan,Pulses,1039.3,31.2,Clay,124.3,4.84,3.9
+Maharashtra,Wheat,871.1,25.1,Sandy,158.2,4.56,4.95
+West Bengal,Cotton,947.4,25.3,Loamy,149.2,5.61,4.58
+Maharashtra,Rice,635.5,28.1,Silt,164.5,2.13,5.56
+Bihar,Pulses,1224.3,27.7,Clay,159.4,4.52,4.75
+Bihar,Sugarcane,615.0,28.9,Loamy,182.8,7.26,7.25
+West Bengal,Maize,792.0,28.8,Clay,113.2,8.65,5.39
+Bihar,Cotton,924.4,21.1,Peaty,66.9,7.06,4.38
+West Bengal,Sugarcane,1397.7,31.0,Peaty,146.5,2.15,7.39
+Gujarat,Cotton,794.3,31.8,Sandy,151.2,5.4,3.03
+Andhra Pradesh,Cotton,733.5,26.9,Sandy,182.8,3.53,3.35
+Karnataka,Wheat,762.3,18.5,Peaty,171.3,5.07,5.14
+Rajasthan,Cotton,1314.7,25.4,Loamy,197.8,2.96,4.8
+Maharashtra,Maize,200.0,,Silt,144.8,1.07,3.99
+Tamil Nadu,Soybean,649.3,20.3,Silt,129.2,3.81,4.65
+Rajasthan,Pulses,1582.8,24.2,Silt,64.6,5.95,4.21
+Maharashtra,Soybean,,19.0,Clay,132.3,5.08,4.5
+Rajasthan,Wheat,623.5,29.0,Silt,97.9,5.31,4.46
+West Bengal,Soybean,889.5,26.8,Silt,128.5,4.93,4.55
+Maharashtra,Maize,916.9,17.8,Peaty,122.2,5.31,5.0
+Bihar,Maize,1111.5,27.8,Loamy,138.9,5.56,6.31
+Maharashtra,Pulses,1359.9,25.7,Silt,116.1,3.95,4.42
+Uttar Pradesh,Pulses,997.1,,Peaty,157.4,4.67,4.71
+Gujarat,Wheat,765.1,24.0,Clay,20.0,7.99,4.7
+West Bengal,Maize,1096.8,22.0,Silt,127.6,4.78,6.3
+Punjab,Soybean,725.4,22.1,Loamy,168.1,4.59,4.23
+Rajasthan,Cotton,641.7,23.3,Silt,194.8,4.71,3.56
+Karnataka,Rice,460.0,26.1,Silt,149.3,4.06,6.19
+West Bengal,Cotton,508.7,26.7,Loamy,187.4,3.63,4.48
+Andhra Pradesh,Pulses,675.9,25.0,Loamy,126.8,4.92,4.43
+Gujarat,Rice,605.6,23.9,Silt,120.1,3.49,5.76
+Maharashtra,Soybean,978.3,24.2,Clay,141.2,4.21,5.02
+Maharashtra,Soybean,600.1,38.5,Sandy,,2.92,2.13
+Maharashtra,Pulses,200.0,22.1,Loamy,88.7,4.72,3.4
+Bihar,Maize,639.0,23.2,Peaty,99.4,5.67,5.84
+Gujarat,Rice,782.0,40.0,Sandy,75.5,4.08,3.31
+Andhra Pradesh,Cotton,748.6,28.1,Peaty,141.1,0.5,4.39
+Punjab,Cotton,1279.9,19.1,Loamy,120.5,5.68,5.32
+Karnataka,Maize,746.6,30.2,,105.6,4.74,5.26
+Punjab,Soybean,1120.2,21.4,Silt,97.3,2.51,4.06
+Punjab,Soybean,895.3,30.5,Silt,140.2,6.05,5.1
+Tamil Nadu,Rice,889.4,24.9,Silt,151.2,1.7,5.36
+Punjab,Soybean,691.2,23.8,Peaty,74.8,6.59,4.93
+Rajasthan,Rice,885.3,34.0,Peaty,68.5,4.39,5.21
+Punjab,Maize,708.7,28.8,Loamy,158.2,0.5,4.98
+Rajasthan,Wheat,942.5,30.9,Clay,65.0,4.86,5.01
+Rajasthan,Maize,840.9,28.2,Peaty,141.9,3.69,5.65
+Karnataka,Pulses,663.8,23.8,Sandy,184.7,3.39,3.61
+Gujarat,Cotton,1148.0,29.1,Peaty,184.8,3.02,4.26
+Tamil Nadu,Sugarcane,1006.7,32.0,Sandy,149.5,4.25,6.0
+Karnataka,Wheat,788.0,26.7,Loamy,148.4,3.53,5.02
+Punjab,Sugarcane,936.4,35.0,Sandy,210.1,0.79,5.11
+Bihar,Maize,879.0,30.3,,26.6,7.04,5.3
+Maharashtra,Soybean,683.1,27.1,,101.4,4.01,5.0
+Punjab,Pulses,917.6,27.3,Loamy,153.9,3.04,4.25
+Rajasthan,Cotton,744.7,26.7,Clay,106.5,2.24,3.22
+Punjab,Wheat,663.8,19.7,Peaty,169.6,6.04,5.55
+Karnataka,Cotton,,25.5,Peaty,118.4,1.9,4.12
+West Bengal,Wheat,810.3,27.1,Silt,125.3,4.77,4.91
+Punjab,Cotton,1041.7,23.9,Loamy,109.0,3.33,4.49
+Uttar Pradesh,Wheat,726.3,27.7,Silt,99.1,3.45,4.38
+Tamil Nadu,Sugarcane,1530.2,,Peaty,98.1,2.29,8.1
+Punjab,Maize,1121.4,,Silt,130.8,3.26,5.33
+Uttar Pradesh,Rice,1226.1,29.3,Sandy,89.0,4.52,4.97
+Bihar,Wheat,1098.8,26.8,Sandy,158.1,4.97,4.99
+West Bengal,Pulses,1363.2,19.2,Clay,146.1,2.93,4.52
+Uttar Pradesh,Soybean,703.2,35.0,Clay,164.0,4.32,3.7
+Punjab,Soybean,259.8,25.3,Silt,74.8,6.28,3.83
+Tamil Nadu,Wheat,788.5,25.6,Loamy,52.0,1.17,4.5
+Punjab,Maize,1039.6,24.3,Loamy,119.8,4.49,5.64
+Gujarat,Pulses,937.9,23.6,Clay,236.0,2.6,4.66
+Tamil Nadu,Sugarcane,968.9,33.7,Silt,170.6,2.39,6.0
+Gujarat,Wheat,1230.2,32.9,Silt,97.8,5.02,4.11
+Karnataka,Wheat,995.5,28.2,Sandy,137.0,3.41,4.69
+Punjab,Rice,1099.7,25.5,Sandy,149.1,2.07,5.58
+Uttar Pradesh,Pulses,665.1,29.1,Loamy,65.3,7.15,3.99
+Karnataka,Rice,,26.4,Clay,174.8,6.34,5.65
+Maharashtra,Pulses,1303.5,25.0,Loamy,,0.64,3.96
+Andhra Pradesh,Sugarcane,925.2,27.7,Silt,116.4,1.55,6.88
+Bihar,Pulses,744.2,23.8,Silt,121.0,5.69,4.08
+Andhra Pradesh,Soybean,744.7,27.3,,165.8,3.93,4.75
+Andhra Pradesh,Maize,737.7,27.0,Clay,89.8,7.5,5.61
+Uttar Pradesh,Soybean,722.8,29.0,Clay,51.7,5.73,4.48
+Uttar Pradesh,Rice,579.2,22.9,Peaty,,5.1,5.84
+Uttar Pradesh,Maize,524.9,29.6,Sandy,38.3,2.46,4.05
+Andhra Pradesh,Rice,851.2,21.5,Silt,108.0,5.48,6.24
+Andhra Pradesh,Wheat,751.8,23.1,Sandy,167.5,1.95,4.81
+Gujarat,Wheat,1176.8,23.4,Silt,143.2,7.11,5.04
+Punjab,Rice,973.3,20.6,Sandy,161.7,5.34,5.47
+Karnataka,Wheat,966.3,31.1,Clay,144.8,2.85,5.02
+Maharashtra,Maize,714.2,21.2,,216.4,6.11,6.34
+Bihar,Wheat,869.7,22.5,Silt,,8.98,5.83
+Tamil Nadu,Wheat,990.3,,Silt,135.9,4.06,4.31
+Karnataka,Pulses,1079.0,23.1,Peaty,102.5,5.6,4.96
+Andhra Pradesh,Wheat,876.5,25.1,Clay,158.3,3.64,5.13
+Tamil Nadu,Wheat,1169.8,20.9,Loamy,,4.67,5.88
+West Bengal,Wheat,902.0,30.2,Sandy,188.8,1.49,4.45
+Andhra Pradesh,Wheat,1098.2,30.2,Clay,98.8,4.5,4.56
+Maharashtra,Cotton,777.5,29.7,Sandy,176.3,4.59,3.8
+Uttar Pradesh,Soybean,446.9,28.7,Clay,143.7,8.1,4.87
+Tamil Nadu,Soybean,967.1,26.4,Clay,118.7,0.91,4.39
+Uttar Pradesh,Sugarcane,1081.3,23.4,Clay,141.7,3.94,6.98
+Maharashtra,Wheat,1043.8,21.9,Clay,130.5,7.08,4.82
+Karnataka,Soybean,1005.5,32.4,Silt,134.2,4.02,4.41
+Tamil Nadu,Wheat,812.9,29.8,Sandy,111.7,4.16,4.38
+Bihar,Sugarcane,698.3,22.5,Sandy,91.9,2.83,5.7
+Gujarat,Maize,1037.9,26.2,Loamy,106.6,2.63,5.65
+Rajasthan,Pulses,1006.6,24.5,Sandy,52.7,0.85,3.23
+Rajasthan,Maize,759.8,,Loamy,153.7,3.24,5.26
+Bihar,Sugarcane,1177.4,26.9,Clay,70.6,2.52,6.86
+Punjab,Cotton,679.3,23.9,Sandy,111.3,4.74,3.04
+Karnataka,Cotton,754.1,21.2,Loamy,145.9,2.92,4.76
+Punjab,Pulses,1309.1,18.6,Clay,153.6,3.54,4.06
+West Bengal,Sugarcane,1117.1,18.2,Clay,49.0,3.6,6.03
+Andhra Pradesh,Maize,810.5,24.1,Peaty,116.3,4.4,4.79
+West Bengal,Cotton,971.8,25.6,Peaty,138.4,3.44,4.91
+Maharashtra,Sugarcane,938.7,21.6,Loamy,122.1,2.38,7.17
+Tamil Nadu,Maize,213.6,29.3,Silt,,4.67,4.86
+Maharashtra,Rice,673.4,25.7,Silt,87.1,6.63,6.15
+Karnataka,Cotton,887.3,28.9,Clay,38.0,4.76,4.28
+Tamil Nadu,Wheat,810.8,25.1,Sandy,,3.28,4.59
+Rajasthan,Rice,961.8,22.1,Silt,98.5,4.25,5.77
+Bihar,Maize,1182.4,26.6,Clay,,0.5,4.97
+Tamil Nadu,Soybean,819.6,19.7,Loamy,113.7,4.22,4.81
+Tamil Nadu,Soybean,635.6,28.7,Clay,,3.7,4.88
+Karnataka,Rice,981.2,21.3,Clay,69.5,2.63,5.67
+West Bengal,Maize,818.3,30.6,Clay,213.4,3.0,5.67
+Rajasthan,Rice,861.0,24.3,Clay,86.5,3.68,6.01
+Karnataka,Soybean,827.1,31.3,Loamy,123.5,6.48,4.87
+Andhra Pradesh,Rice,1460.5,20.4,Peaty,71.2,6.68,7.4
+Rajasthan,Soybean,339.8,22.6,Loamy,121.7,2.64,4.94
+Gujarat,Soybean,802.9,27.9,Silt,114.7,3.46,4.98
+Tamil Nadu,Sugarcane,899.1,31.9,Silt,60.4,3.51,5.88
+Punjab,Maize,704.7,34.3,Silt,233.0,6.12,5.43
+Maharashtra,Pulses,1125.0,26.2,Peaty,100.2,4.79,4.48
+Bihar,Sugarcane,1103.3,,Loamy,100.2,4.69,6.28
+Tamil Nadu,Sugarcane,888.1,24.6,Clay,158.8,5.57,6.32
+Bihar,Soybean,832.3,31.5,Loamy,192.6,3.31,4.68
+Maharashtra,Pulses,872.0,21.3,Sandy,165.1,7.23,3.36
+Uttar Pradesh,Wheat,873.8,28.1,Silt,72.0,4.5,4.97
+West Bengal,Pulses,880.4,,Peaty,128.6,2.79,2.64
+West Bengal,Soybean,853.0,20.4,Clay,44.7,4.04,4.9
+West Bengal,Rice,963.1,28.3,Clay,156.1,6.96,6.41
+Punjab,Maize,1088.3,19.4,Peaty,54.6,3.65,6.17
+Gujarat,Soybean,592.4,28.1,Silt,87.9,6.4,4.01
+Uttar Pradesh,Rice,637.3,30.5,Silt,119.9,3.25,5.86
+Uttar Pradesh,Cotton,462.9,23.5,Sandy,137.8,2.97,2.73
+West Bengal,Sugarcane,1116.6,21.2,Sandy,109.6,5.82,6.63
+Rajasthan,Sugarcane,962.6,23.6,Clay,180.8,2.75,6.69
+Bihar,Pulses,1026.3,21.2,Silt,148.9,6.15,4.01
+Punjab,Wheat,542.6,25.5,Clay,145.8,5.2,4.76
+Maharashtra,Maize,1346.2,26.5,Peaty,70.8,2.75,5.52
+Uttar Pradesh,Pulses,747.8,24.5,Loamy,188.0,4.36,3.96
+Karnataka,Cotton,942.1,34.4,Sandy,87.9,3.4,2.7
+Karnataka,Rice,1113.6,22.4,Clay,189.5,5.2,6.34
+Andhra Pradesh,Maize,653.3,33.0,Silt,200.9,8.28,5.37
+Uttar Pradesh,Maize,763.4,20.8,Silt,140.5,3.76,5.23
+Tamil Nadu,Cotton,944.8,26.4,Peaty,161.3,5.57,5.11
+Andhra Pradesh,Rice,1614.4,31.9,Silt,20.0,4.55,5.2
+Maharashtra,Sugarcane,975.3,31.7,Clay,112.2,4.55,6.41
+Maharashtra,Cotton,1301.6,23.9,Clay,164.1,4.17,4.96
+Maharashtra,Sugarcane,1201.4,28.8,Peaty,157.0,2.79,7.28
+West Bengal,Rice,992.0,28.1,Sandy,71.2,5.17,5.18
+Bihar,Sugarcane,652.7,23.3,Loamy,108.3,3.92,7.27
+Karnataka,Pulses,1164.9,29.1,Peaty,20.0,2.69,3.71
+Bihar,Wheat,525.5,35.3,Silt,136.5,6.53,3.57
+Gujarat,Maize,1300.2,28.4,Loamy,44.7,4.7,6.06
+West Bengal,Sugarcane,950.0,28.8,Silt,165.2,4.04,6.77
+West Bengal,Sugarcane,237.4,29.4,Silt,167.3,7.18,6.18
+Andhra Pradesh,Sugarcane,814.9,18.7,Silt,101.0,0.83,5.75
+Rajasthan,Cotton,1063.5,28.3,Peaty,140.9,7.05,4.41
+Gujarat,Sugarcane,840.7,20.9,Sandy,111.3,2.74,5.92
+Bihar,Sugarcane,1078.8,23.1,Sandy,129.7,4.92,6.99
+Gujarat,Wheat,687.5,36.8,Silt,74.1,3.32,3.37
+Bihar,Soybean,573.5,24.7,Loamy,144.9,2.65,4.99
+Maharashtra,Cotton,882.1,22.3,Loamy,54.4,7.13,4.77
+West Bengal,Wheat,907.9,31.8,,46.8,8.21,4.75
+Punjab,Maize,812.9,21.3,Clay,115.1,4.06,4.72
+Tamil Nadu,Cotton,1206.8,23.8,Sandy,111.6,5.17,3.8
+Maharashtra,Wheat,687.4,32.2,Clay,130.9,4.61,4.24
+Andhra Pradesh,Pulses,978.3,26.2,Clay,94.0,7.96,4.12
+Andhra Pradesh,Rice,917.0,18.2,Sandy,195.4,0.5,5.07
+Gujarat,Maize,510.8,28.7,Peaty,126.4,5.25,5.69
+Gujarat,Cotton,570.2,24.0,Sandy,129.3,3.05,4.23
+Uttar Pradesh,Soybean,903.0,33.7,Loamy,127.9,0.5,3.57
+Uttar Pradesh,Soybean,1395.3,23.0,Clay,160.1,3.78,5.68
+Uttar Pradesh,Soybean,1044.8,31.3,Loamy,143.0,8.2,5.62
+Rajasthan,Rice,468.6,34.9,Peaty,137.7,3.19,4.75
+Punjab,Soybean,200.0,21.7,Clay,149.4,6.08,4.38
+Rajasthan,Soybean,,25.0,Clay,47.0,6.9,5.32
+Maharashtra,Cotton,,27.9,,48.5,4.47,4.34
+Rajasthan,Cotton,1185.3,21.7,Sandy,117.0,4.74,3.95
+Tamil Nadu,Wheat,679.8,27.4,Peaty,,1.07,4.52
+Tamil Nadu,Soybean,987.6,24.9,Sandy,143.2,3.07,3.41
+Rajasthan,Pulses,1111.5,24.8,Silt,120.8,6.31,4.38
+Andhra Pradesh,Cotton,788.1,26.2,Loamy,143.3,4.62,4.34
+Tamil Nadu,Cotton,793.5,26.4,Loamy,70.2,5.23,4.12
+Karnataka,Cotton,906.3,26.8,Silt,119.6,4.77,4.39
+Tamil Nadu,Wheat,1035.7,23.0,Loamy,66.4,8.88,5.18
+Punjab,Sugarcane,896.4,23.2,Sandy,135.5,3.64,6.65
+Uttar Pradesh,Soybean,1143.5,25.4,Clay,44.9,7.71,5.14
+Karnataka,Pulses,784.5,25.8,Loamy,133.9,4.77,4.25
+West Bengal,Pulses,,23.8,Sandy,61.2,7.89,3.43
+Uttar Pradesh,Cotton,1394.2,27.6,Peaty,104.7,2.05,4.22
+Karnataka,Pulses,748.8,16.9,Loamy,155.8,4.87,4.01
+Maharashtra,Cotton,757.9,22.3,Peaty,129.1,3.71,4.38
+Punjab,Sugarcane,883.5,24.6,Sandy,54.2,4.78,6.39
+Tamil Nadu,Sugarcane,916.8,21.7,Silt,93.1,6.94,7.05
+Rajasthan,Pulses,803.3,34.1,Loamy,59.9,5.26,3.23
+Uttar Pradesh,Soybean,895.6,26.1,Peaty,52.2,6.94,4.41
+Karnataka,Wheat,890.1,26.9,Loamy,124.7,3.16,5.63
+Punjab,Wheat,943.7,,Peaty,142.4,2.85,5.5
+Maharashtra,Maize,310.6,25.9,Silt,137.6,4.53,4.79
+West Bengal,Cotton,1370.2,19.9,Clay,144.1,4.42,4.66
+Karnataka,Sugarcane,863.2,25.2,,119.5,4.13,7.63
+Punjab,Cotton,1045.2,21.3,Silt,109.1,2.58,4.44
+Bihar,Cotton,555.5,24.6,Loamy,77.1,6.9,4.24
+Uttar Pradesh,Pulses,782.2,13.2,Silt,102.4,3.77,1.95
+Karnataka,Maize,731.9,20.4,Silt,67.1,7.35,4.72
+Karnataka,Cotton,1267.4,33.3,Clay,86.2,4.53,3.79
+Punjab,Cotton,753.5,30.2,Clay,123.6,5.8,4.58
+Maharashtra,Cotton,1089.5,32.6,Clay,115.3,5.62,3.75
+Uttar Pradesh,Pulses,737.4,32.9,Clay,242.6,2.85,3.17
+Punjab,Pulses,786.8,29.4,Loamy,66.2,5.23,3.89
+Punjab,Cotton,838.6,23.7,Clay,115.0,8.36,4.34
+Bihar,Cotton,1221.0,20.8,Silt,63.1,5.0,4.25
+Andhra Pradesh,Sugarcane,427.5,31.7,Clay,104.5,6.3,5.76
+Karnataka,Rice,571.1,26.3,Silt,106.1,5.89,6.11
+West Bengal,Maize,413.2,38.5,,153.8,5.11,3.57
+West Bengal,Rice,628.1,24.2,Silt,102.0,4.87,6.58
+Rajasthan,Rice,697.1,35.9,Sandy,112.3,5.59,3.86
+Rajasthan,Wheat,496.4,25.2,Clay,102.8,6.03,5.45
+Karnataka,Sugarcane,716.5,32.7,Peaty,64.0,1.8,6.51
+Bihar,Wheat,396.3,34.5,Clay,93.9,4.99,3.68
+Andhra Pradesh,Sugarcane,645.5,20.9,Sandy,104.7,4.13,5.87
+Karnataka,Cotton,1200.1,23.6,Sandy,123.0,3.72,3.7
+Karnataka,Maize,1000.9,20.8,Silt,,7.09,5.26
+Bihar,Soybean,946.9,19.9,Sandy,,3.03,3.88
+Gujarat,Cotton,649.3,29.3,Silt,109.9,1.71,3.57
+Andhra Pradesh,Soybean,516.0,25.0,Peaty,51.2,6.09,4.02
+Rajasthan,Sugarcane,615.2,26.3,Clay,141.6,1.66,7.25
+West Bengal,Wheat,889.2,28.8,Peaty,92.2,0.64,4.61
+Rajasthan,Rice,1117.0,16.7,Loamy,149.9,6.32,6.04
+Maharashtra,Cotton,1125.6,32.4,Peaty,172.7,4.82,4.06
+Maharashtra,Pulses,1057.7,24.3,Loamy,112.5,5.45,4.54
+Karnataka,Rice,715.6,28.7,Peaty,79.1,3.62,5.68
+Bihar,Wheat,906.1,29.1,Clay,119.3,1.73,4.72
+Punjab,Pulses,819.7,32.9,Peaty,133.9,2.13,3.46
+Punjab,Pulses,849.7,25.5,Loamy,107.4,3.96,4.62
+Andhra Pradesh,Rice,1409.3,15.4,Sandy,97.4,1.96,4.85
+Maharashtra,Maize,459.5,26.3,Peaty,142.5,5.11,5.69
+Gujarat,Sugarcane,841.3,27.0,Loamy,139.9,3.58,7.11
+Bihar,Rice,1202.9,20.8,Clay,106.1,4.87,6.21
+Tamil Nadu,Maize,533.5,,Loamy,53.8,4.81,5.3
+Punjab,Maize,739.1,24.2,Clay,138.3,5.27,5.85
+Rajasthan,Sugarcane,767.7,19.3,Clay,89.3,5.5,6.64
+Tamil Nadu,Maize,844.2,29.4,Silt,128.6,3.81,5.12
+West Bengal,Maize,501.0,23.2,Clay,126.0,4.87,5.16
+Uttar Pradesh,Maize,1048.8,24.0,Loamy,44.4,4.97,5.77
+Rajasthan,Soybean,1066.6,23.7,Loamy,123.2,0.5,4.72
+Uttar Pradesh,Rice,1027.1,32.2,Peaty,140.6,5.79,5.95
+Maharashtra,Rice,682.4,25.8,Peaty,145.5,4.8,5.93
+West Bengal,Rice,921.6,26.4,Clay,124.7,5.63,6.41
+Tamil Nadu,Pulses,675.1,23.8,Loamy,40.9,1.93,4.08
+Rajasthan,Pulses,816.9,28.3,Loamy,171.1,3.87,4.91
+West Bengal,Cotton,1438.4,32.7,Peaty,136.4,2.32,4.01
+Punjab,Rice,923.9,29.2,Silt,71.9,5.99,6.03
+Tamil Nadu,Soybean,603.1,29.4,Silt,88.5,1.69,3.2
+Gujarat,Cotton,945.1,29.0,Clay,129.2,2.64,4.36
+West Bengal,Soybean,562.1,19.1,Silt,147.2,5.57,3.63
+Rajasthan,Maize,600.2,21.6,Loamy,100.5,3.24,5.0
+Tamil Nadu,Pulses,639.7,,Silt,153.0,2.64,3.83
+Maharashtra,Soybean,788.9,22.4,Sandy,,6.31,3.82
+Uttar Pradesh,Rice,1134.2,20.7,Clay,78.3,6.4,5.84
+Andhra Pradesh,Soybean,1044.6,16.6,Silt,37.4,5.94,3.78
+Bihar,Maize,1030.7,19.3,Silt,84.1,6.2,5.54
+Punjab,Maize,625.3,24.7,Sandy,180.3,4.04,4.54
+Tamil Nadu,Rice,764.7,25.7,Loamy,202.3,4.09,6.28
+Uttar Pradesh,Sugarcane,968.0,22.0,Loamy,129.4,3.2,6.99
+Maharashtra,Rice,742.9,26.4,Peaty,94.5,4.84,6.36
+Rajasthan,Sugarcane,830.4,23.8,Clay,,3.44,7.07
+Punjab,Sugarcane,1010.3,31.5,Clay,138.9,3.63,5.94
+West Bengal,Soybean,812.8,25.2,Silt,,5.7,4.89
+Rajasthan,Pulses,956.5,29.5,Clay,97.1,6.87,3.91
+Maharashtra,Wheat,1298.2,27.0,Clay,177.4,5.3,5.66
+West Bengal,Pulses,857.0,19.0,Silt,78.2,8.09,3.48
+Bihar,Wheat,1194.8,25.5,Sandy,90.0,3.09,4.84
+West Bengal,Cotton,1039.8,19.8,,120.5,0.82,4.59
+Bihar,Maize,533.2,25.5,Loamy,131.3,5.93,5.71
+Gujarat,Sugarcane,624.5,22.3,Sandy,95.0,2.96,5.8
+Uttar Pradesh,Soybean,691.6,27.9,Sandy,123.1,3.95,3.87
+Tamil Nadu,Pulses,686.3,19.3,Silt,144.3,0.96,2.69
+West Bengal,Maize,877.4,26.1,Loamy,198.5,2.7,6.27
+Tamil Nadu,Pulses,1053.7,28.9,Loamy,115.0,1.5,4.23
+Rajasthan,Maize,1213.8,30.5,Silt,118.3,3.63,4.96
+Karnataka,Rice,977.0,22.2,Silt,181.1,3.71,5.6
+Andhra Pradesh,Maize,788.6,26.1,Peaty,98.0,4.68,5.62
+Bihar,Cotton,379.4,26.9,Clay,67.0,6.98,4.26
+Gujarat,Sugarcane,917.6,33.7,Peaty,130.0,5.85,6.11
+Andhra Pradesh,Soybean,906.4,18.6,Clay,163.0,1.26,4.46
+Punjab,Rice,945.7,21.4,Silt,134.4,5.72,5.94
+Tamil Nadu,Maize,1426.6,40.0,Loamy,116.1,4.72,3.72
+West Bengal,Pulses,1210.1,24.6,Peaty,62.1,4.3,4.3
+Maharashtra,Cotton,1096.3,16.5,Clay,117.7,4.45,4.4
+Uttar Pradesh,Rice,659.5,23.1,Peaty,169.3,4.91,5.63
+West Bengal,Pulses,771.8,12.2,Clay,70.6,3.12,1.91
+Uttar Pradesh,Cotton,876.3,27.2,Silt,110.2,4.14,4.47
+Maharashtra,Pulses,706.1,30.0,Sandy,104.5,6.87,3.45
+Karnataka,Pulses,1025.1,21.4,Loamy,92.1,3.09,3.98
+West Bengal,Pulses,989.2,23.6,Loamy,129.9,2.44,4.67
+Gujarat,Sugarcane,627.9,30.6,Silt,137.7,4.38,6.68
+Maharashtra,Soybean,1199.2,17.2,Loamy,137.3,2.24,4.63
+Andhra Pradesh,Pulses,925.6,19.4,,80.9,1.05,3.2
+Tamil Nadu,Rice,467.7,24.9,Sandy,54.2,3.81,4.82
+Rajasthan,Wheat,887.2,22.2,Clay,130.5,7.4,5.38
+Andhra Pradesh,Maize,970.3,24.5,Loamy,99.8,4.42,5.4
+Gujarat,Sugarcane,1143.2,19.7,Silt,193.5,4.86,7.36
+Punjab,Cotton,815.6,27.1,Silt,195.4,0.5,4.36
+Punjab,Wheat,1107.0,25.3,Silt,199.6,5.38,5.31
+Uttar Pradesh,Cotton,946.8,28.7,Peaty,82.4,4.69,4.51
+Gujarat,Rice,571.2,27.0,Loamy,142.8,3.17,6.37
+West Bengal,Cotton,546.2,27.0,Sandy,154.8,4.86,4.28
+Maharashtra,Sugarcane,1180.6,18.8,Clay,150.3,4.84,7.41
+Uttar Pradesh,Sugarcane,1199.0,28.5,Peaty,105.8,2.38,6.45
+Gujarat,Maize,980.7,24.3,Sandy,171.2,5.16,5.12
+Andhra Pradesh,Maize,1273.9,25.2,Loamy,120.0,6.89,6.5
+Andhra Pradesh,Sugarcane,1164.2,31.2,Silt,125.1,4.04,6.48
+Karnataka,Soybean,1070.9,22.4,Loamy,58.5,2.76,5.45
+West Bengal,Soybean,672.2,32.8,Clay,,4.14,4.54
+Andhra Pradesh,Maize,1332.9,33.2,Silt,109.6,6.21,4.95
+Karnataka,Maize,1034.1,29.8,Sandy,138.6,2.05,4.68
+Bihar,Maize,803.5,21.1,Silt,129.4,5.66,5.06
+West Bengal,Cotton,732.9,15.1,Sandy,127.2,3.14,2.55
+Rajasthan,Wheat,964.2,31.4,Peaty,118.2,4.98,4.95
+Tamil Nadu,Cotton,482.2,26.6,Sandy,151.5,3.37,3.76
+Tamil Nadu,Rice,,22.3,Loamy,112.0,3.37,6.0
+Rajasthan,Cotton,661.6,31.9,Loamy,61.8,7.55,3.14
+Tamil Nadu,Soybean,992.7,21.7,Silt,,1.68,3.82
+Andhra Pradesh,Pulses,769.6,23.9,Loamy,87.6,5.47,3.98
+Uttar Pradesh,Cotton,833.9,28.6,Clay,67.0,7.96,4.05
+Tamil Nadu,Wheat,710.8,20.4,Loamy,79.1,5.87,5.17
+Tamil Nadu,Rice,859.7,25.5,Clay,131.3,1.84,5.4
+Karnataka,Wheat,1372.3,31.4,Sandy,116.1,1.94,3.95
+Uttar Pradesh,Soybean,1246.3,27.1,Loamy,34.7,3.0,4.6
+Karnataka,Pulses,988.6,32.2,Sandy,104.7,4.82,2.81
+Andhra Pradesh,Cotton,893.7,31.7,Peaty,166.8,4.95,4.01
+West Bengal,Rice,1111.1,26.0,Loamy,101.9,1.96,6.03
+Gujarat,Wheat,1182.5,14.3,Loamy,113.4,2.75,4.62
+Bihar,Pulses,692.5,20.5,Clay,161.7,2.88,3.34
+Rajasthan,Maize,880.6,29.8,Peaty,151.8,4.14,5.39
+Gujarat,Wheat,444.5,18.2,Sandy,160.9,8.47,3.94
+Uttar Pradesh,Rice,1180.8,24.4,Silt,20.0,2.63,5.95
+Maharashtra,Rice,1416.3,27.7,Loamy,189.3,2.55,6.57
+Andhra Pradesh,Sugarcane,920.0,33.3,Silt,145.5,2.23,6.37
+West Bengal,Pulses,368.7,23.1,Loamy,218.5,5.77,3.78
+Punjab,Rice,1052.2,22.8,Silt,88.7,4.42,5.94
+Gujarat,Sugarcane,674.0,25.7,Loamy,49.5,2.71,6.52
+Rajasthan,Wheat,734.2,27.8,Peaty,120.3,3.77,4.65
+Punjab,Wheat,1056.6,25.2,Clay,109.0,2.92,5.1
+Andhra Pradesh,Wheat,963.6,,Loamy,146.1,5.09,5.8
+Tamil Nadu,Pulses,778.0,22.0,Clay,163.0,9.87,4.06
+Maharashtra,Sugarcane,,26.6,Loamy,116.5,5.6,7.12
+Rajasthan,Soybean,931.5,28.2,Loamy,,4.31,4.48
+Uttar Pradesh,Wheat,797.6,24.0,Sandy,140.9,3.17,3.96
+Rajasthan,Wheat,622.7,30.2,Clay,109.7,1.81,4.1
+Rajasthan,Soybean,816.9,26.7,Clay,106.4,5.97,4.58
+Gujarat,Wheat,984.9,29.9,Peaty,161.5,5.86,5.19
+Gujarat,Rice,855.5,27.0,Loamy,170.4,3.57,6.19
+Maharashtra,Cotton,546.6,27.9,Clay,163.4,6.93,3.63
+Uttar Pradesh,Sugarcane,1147.3,22.8,Loamy,113.3,4.54,7.18
+Punjab,Rice,215.3,22.8,,34.4,6.05,4.98
+Karnataka,Cotton,788.4,32.1,Clay,114.1,5.09,3.31
+Tamil Nadu,Sugarcane,745.0,29.2,Loamy,89.7,4.15,6.74
+Uttar Pradesh,Cotton,937.0,20.9,Loamy,114.8,2.59,4.43
+West Bengal,Maize,1040.4,26.9,Peaty,93.2,4.21,5.48
+Gujarat,Wheat,1181.7,14.1,Loamy,119.2,6.18,4.74
+Tamil Nadu,Cotton,721.9,23.1,Silt,78.4,3.48,3.36
+Punjab,Soybean,1046.6,30.8,Peaty,68.8,5.38,5.0
+Maharashtra,Sugarcane,949.0,25.4,Sandy,168.9,2.33,6.49
+Karnataka,Pulses,472.1,26.6,Clay,81.2,6.06,3.82
+Bihar,Wheat,1375.1,10.9,Silt,120.0,5.13,3.9
+Gujarat,Wheat,540.3,24.0,Peaty,158.2,2.1,4.76
+Punjab,Cotton,,27.7,Loamy,156.6,4.05,4.47
+Uttar Pradesh,Rice,997.5,28.3,Peaty,151.8,6.36,6.88
+Uttar Pradesh,Sugarcane,968.9,30.8,Peaty,132.1,1.98,7.29
+Bihar,Pulses,776.4,24.9,Loamy,149.0,2.36,3.95
+Rajasthan,Maize,1106.8,25.2,Loamy,174.9,4.36,6.05
+Andhra Pradesh,Cotton,509.9,19.3,Silt,137.0,8.77,4.28
+Rajasthan,Sugarcane,883.5,25.0,Loamy,46.5,3.15,6.91
+Karnataka,Rice,759.0,19.7,Silt,98.9,5.49,5.79
+Maharashtra,Pulses,730.7,16.8,Loamy,147.9,5.02,3.98
+Tamil Nadu,Rice,1007.2,20.6,Silt,94.9,3.32,5.5
+Maharashtra,Soybean,1169.4,33.5,Clay,184.8,4.82,4.5
+Uttar Pradesh,Sugarcane,814.2,24.6,Loamy,117.5,3.6,7.1
+Punjab,Wheat,1095.2,27.1,Loamy,123.4,3.78,5.09
+West Bengal,Soybean,912.4,,Loamy,165.0,1.18,4.41
+Rajasthan,Rice,676.8,17.0,Sandy,112.7,4.45,4.49
+Gujarat,Sugarcane,835.5,30.7,Loamy,127.1,6.3,7.34
+Tamil Nadu,Pulses,825.1,15.1,Peaty,156.0,4.61,3.71
+Maharashtra,Pulses,725.8,23.2,Silt,61.1,6.68,4.16
+Punjab,Pulses,1007.1,25.7,Clay,108.6,5.66,4.45
+Bihar,Cotton,958.7,27.2,Peaty,153.2,4.38,4.74
+Bihar,Cotton,502.3,22.4,Silt,122.6,3.24,3.84
+Punjab,Maize,487.1,16.8,Silt,178.7,3.53,4.58
+Bihar,Pulses,,22.0,Loamy,57.0,1.56,4.18
+West Bengal,Cotton,696.2,22.3,Silt,52.4,3.97,3.31
+Uttar Pradesh,Soybean,975.5,22.1,Sandy,150.8,4.79,4.02
+Tamil Nadu,Maize,1095.2,30.9,Peaty,154.6,7.93,5.49
+Tamil Nadu,Soybean,582.3,19.9,Sandy,112.3,5.56,4.18
+Punjab,Rice,547.1,,Silt,136.0,2.77,6.04
+Andhra Pradesh,Soybean,1318.6,26.8,Clay,149.8,1.62,4.07
+Karnataka,Wheat,987.9,30.8,Loamy,87.4,4.09,5.64
+Maharashtra,Wheat,795.2,25.3,Loamy,91.7,6.12,5.46
+West Bengal,Maize,666.5,30.0,Peaty,127.6,4.06,5.64
+Gujarat,Cotton,772.4,25.1,Silt,156.2,5.58,4.45
+Maharashtra,Sugarcane,602.4,28.2,Clay,73.4,4.14,6.98
+Karnataka,Maize,1120.9,18.5,Silt,112.1,5.93,5.37
+Bihar,Wheat,705.8,12.8,Loamy,110.2,1.31,2.98
+Bihar,Maize,1173.4,27.9,Loamy,136.7,7.71,6.2
+Karnataka,Cotton,799.8,28.2,Sandy,119.7,2.28,3.64
+Andhra Pradesh,Cotton,639.2,28.4,Silt,98.2,6.09,3.92
+Andhra Pradesh,Sugarcane,793.4,23.4,Peaty,169.9,3.96,7.29
+Karnataka,Rice,244.0,33.4,Silt,98.4,4.27,4.61
+Gujarat,Sugarcane,869.8,23.7,Clay,108.3,4.02,6.64
+Punjab,Sugarcane,857.5,28.1,Peaty,56.3,5.01,6.53
+Andhra Pradesh,Soybean,1106.2,29.0,Sandy,91.5,5.42,4.14
+Karnataka,Cotton,428.4,34.6,Peaty,140.6,6.62,3.49
+Maharashtra,Soybean,1190.5,24.4,Loamy,132.8,7.32,4.82
+West Bengal,Rice,1105.1,22.7,Loamy,144.0,5.16,6.28
+Rajasthan,Sugarcane,1213.0,18.5,Loamy,142.0,7.93,6.66
+Uttar Pradesh,Wheat,886.8,33.8,Peaty,203.5,4.69,4.47
+Karnataka,Wheat,1153.5,28.1,Loamy,90.1,6.65,6.08
+Maharashtra,Pulses,532.2,28.3,Peaty,55.2,5.36,3.43
+Maharashtra,Cotton,1078.3,40.0,Silt,78.0,3.4,2.22
+Uttar Pradesh,Sugarcane,707.2,27.6,Loamy,91.9,4.86,7.99
+West Bengal,Sugarcane,487.1,19.5,Peaty,81.0,5.51,7.01
+West Bengal,Sugarcane,619.0,25.0,Loamy,123.7,4.44,7.06
+Tamil Nadu,Rice,901.4,21.1,Loamy,170.1,5.33,6.63
+Punjab,Rice,693.9,,Sandy,181.6,6.23,5.1
+Punjab,Wheat,994.0,24.0,,,4.45,4.69
+West Bengal,Pulses,447.9,23.1,Clay,205.7,0.5,3.38
+Gujarat,Rice,,19.0,Loamy,105.7,7.86,5.89
+Karnataka,Sugarcane,1243.1,34.0,Silt,54.7,3.9,6.51
+Uttar Pradesh,Cotton,1126.0,27.5,Loamy,162.1,2.85,4.49
+Karnataka,Rice,637.7,24.9,Clay,46.5,2.25,5.5
+Gujarat,Maize,899.3,29.8,Sandy,89.8,3.83,4.76
+Punjab,Wheat,1154.9,28.4,Sandy,140.8,3.37,4.64
+Karnataka,Rice,1004.8,27.4,Silt,115.9,3.03,5.82
+Uttar Pradesh,Wheat,937.1,29.4,Clay,112.4,3.14,4.56
+West Bengal,Soybean,1173.8,26.7,Silt,72.8,5.56,4.93
+Karnataka,Cotton,717.3,29.4,Silt,119.6,8.56,4.24
+Punjab,Pulses,907.8,29.8,Clay,160.1,6.14,3.95
+West Bengal,Cotton,895.5,26.8,Clay,120.8,6.75,4.71
+Tamil Nadu,Rice,831.8,24.9,,86.8,3.75,5.73
+Gujarat,Sugarcane,802.5,33.7,Sandy,70.1,4.71,5.77
+Punjab,Pulses,918.2,23.6,Loamy,87.6,5.35,4.08
+Rajasthan,Cotton,908.6,28.0,Sandy,135.7,3.18,3.72
+Rajasthan,Wheat,637.9,28.1,Loamy,133.7,3.65,4.77
+Andhra Pradesh,Maize,1100.4,23.0,Sandy,88.0,6.21,5.27
+Gujarat,Pulses,655.9,22.0,Peaty,31.6,6.68,3.63
+Uttar Pradesh,Cotton,845.4,24.2,Sandy,136.8,4.63,4.28
+Gujarat,Pulses,826.2,23.5,Silt,84.1,2.11,3.95
+Gujarat,Cotton,989.5,18.7,Clay,147.6,3.91,4.42
+Karnataka,Wheat,370.2,22.7,,89.8,1.62,4.88
+Bihar,Pulses,1122.7,27.3,Peaty,80.5,4.65,4.32
+Bihar,Soybean,730.8,32.3,Peaty,126.1,5.01,4.17
+Karnataka,Soybean,1205.0,28.8,Silt,214.3,3.96,5.44
+Uttar Pradesh,Pulses,780.5,13.0,Silt,,4.98,2.53
+Andhra Pradesh,Rice,887.8,29.2,Sandy,125.4,5.33,4.96
+Gujarat,Pulses,1378.4,23.2,Peaty,,5.01,5.13
+Andhra Pradesh,Rice,830.7,28.3,Peaty,50.0,2.1,5.74
+Punjab,Pulses,1209.7,25.9,Sandy,75.1,3.99,4.29
+Gujarat,Rice,909.8,25.0,Loamy,20.0,5.32,6.15
+Tamil Nadu,Cotton,1003.9,25.5,Loamy,189.2,7.66,5.03
+Punjab,Soybean,917.5,25.9,Clay,181.1,3.96,5.33
+Tamil Nadu,Wheat,1112.0,32.7,Loamy,135.7,5.6,4.6
+Rajasthan,Wheat,728.6,25.9,Clay,125.4,6.26,4.93
+Maharashtra,Soybean,654.0,31.4,Loamy,57.9,4.11,3.95
+Uttar Pradesh,Wheat,740.4,30.7,Peaty,,6.8,4.27
+Maharashtra,Sugarcane,924.9,29.3,Loamy,191.7,6.9,7.65
+West Bengal,Pulses,844.8,17.1,Silt,125.3,7.26,3.38
+West Bengal,Sugarcane,1077.6,31.6,Clay,97.4,5.42,7.01
+Punjab,Cotton,1226.2,23.7,Loamy,49.7,9.22,5.17
+Rajasthan,Maize,656.0,29.6,,175.2,3.27,5.22
+Gujarat,Sugarcane,716.5,21.1,Peaty,117.2,8.75,6.96
+Uttar Pradesh,Sugarcane,,20.1,Silt,49.7,6.04,5.98
+Rajasthan,Cotton,1407.6,35.9,,83.0,7.18,3.93
+West Bengal,Rice,976.2,21.2,Sandy,68.9,3.86,5.63
+Gujarat,Sugarcane,1020.0,31.7,Silt,114.7,6.19,6.59
+Tamil Nadu,Soybean,,26.6,Loamy,128.3,7.35,4.71
+Maharashtra,Sugarcane,899.7,23.9,Peaty,99.9,2.33,6.48
+Bihar,Wheat,1027.3,25.8,Silt,151.1,4.17,5.24
+Bihar,Sugarcane,836.8,19.5,Clay,,0.5,5.93
+Punjab,Soybean,1168.9,25.9,,162.5,4.14,4.97
+Karnataka,Rice,1478.0,20.6,Silt,105.7,2.87,5.99
+Bihar,Soybean,663.2,24.0,Loamy,,4.06,4.79
+Maharashtra,Cotton,644.5,30.6,Peaty,97.4,10.35,4.45
+Rajasthan,Cotton,680.6,27.3,Clay,83.9,7.94,4.47
+Karnataka,Soybean,1301.5,18.6,Loamy,78.9,1.62,5.3
+West Bengal,Cotton,1160.6,30.3,Clay,111.6,5.61,4.62
+Tamil Nadu,Cotton,866.1,26.0,Peaty,51.2,6.1,5.02
+Punjab,Maize,909.1,23.3,Clay,131.8,3.82,5.2
+West Bengal,Pulses,695.9,29.7,Sandy,43.8,4.86,2.52
+Maharashtra,Pulses,1122.5,25.2,Peaty,126.5,5.05,4.58
+Bihar,Wheat,805.0,20.2,Loamy,65.9,1.81,5.06
+Andhra Pradesh,Soybean,835.0,35.2,Silt,104.7,2.44,3.58
+West Bengal,Wheat,1052.2,25.9,Clay,144.2,4.84,5.76
+West Bengal,Maize,853.0,25.6,Silt,212.2,4.7,4.65
+Tamil Nadu,Pulses,841.3,24.0,Loamy,76.9,3.08,4.62
+Bihar,Rice,902.6,31.9,Loamy,114.0,2.91,5.84
+Gujarat,Maize,1098.8,,Silt,,4.32,4.98
+Andhra Pradesh,Rice,1311.6,18.3,Peaty,85.2,6.27,6.45
+Andhra Pradesh,Soybean,1046.4,22.6,Peaty,91.4,4.35,5.01
+Gujarat,Cotton,1100.8,32.6,Silt,153.0,7.75,4.24
+Punjab,Sugarcane,850.0,30.2,Sandy,100.5,3.11,6.34
+Andhra Pradesh,Pulses,723.1,24.7,Loamy,210.0,4.89,4.59
+West Bengal,Cotton,1063.5,32.9,Clay,136.6,3.79,3.32
+Maharashtra,Soybean,942.8,29.7,Silt,79.6,5.68,4.42
+Gujarat,Wheat,544.3,24.7,Clay,105.3,2.94,4.12
+Punjab,Rice,818.0,25.2,Sandy,87.9,8.35,5.9
+Tamil Nadu,Pulses,879.3,27.6,Loamy,152.0,1.12,4.54
+Karnataka,Pulses,772.4,21.8,Sandy,54.4,7.93,3.08
+Andhra Pradesh,Sugarcane,1270.4,26.0,Clay,66.4,4.68,6.91
+Andhra Pradesh,Maize,1020.0,27.5,Loamy,96.3,5.6,5.61
+Uttar Pradesh,Rice,1243.3,17.6,Loamy,147.3,7.17,6.15
+Bihar,Soybean,965.9,25.1,Sandy,169.3,6.22,4.64
+Rajasthan,Soybean,920.3,,Clay,175.2,3.04,4.56
+Karnataka,Rice,665.9,31.1,Loamy,141.2,5.7,6.13
+Tamil Nadu,Sugarcane,903.0,16.8,Sandy,116.7,8.23,6.39
+Andhra Pradesh,Sugarcane,903.3,24.1,Loamy,151.8,2.73,7.52
+Uttar Pradesh,Cotton,558.2,23.6,Loamy,74.2,8.74,4.14
+Rajasthan,Pulses,765.1,30.8,Loamy,46.2,5.27,4.36
+Maharashtra,Wheat,819.2,25.8,Sandy,137.5,3.63,5.04
+Gujarat,Rice,1003.4,35.0,Peaty,79.8,2.71,5.64
+West Bengal,Wheat,,29.3,Clay,117.4,4.05,4.96
+Karnataka,Sugarcane,754.7,23.9,Clay,124.8,0.59,6.11
+Maharashtra,Sugarcane,1017.2,27.2,Clay,129.9,3.67,6.6
+Karnataka,Pulses,854.5,24.2,Clay,157.5,3.97,3.73
+Gujarat,Cotton,200.0,,Silt,153.3,2.35,3.24
+Maharashtra,Rice,778.8,19.3,Clay,127.8,6.0,6.05
+Bihar,Cotton,1169.7,21.9,Silt,102.3,4.06,4.77
+Andhra Pradesh,Wheat,479.5,28.3,Peaty,124.3,3.23,4.62
+Gujarat,Sugarcane,928.2,32.1,Peaty,96.2,3.85,6.55
+Bihar,Sugarcane,1296.3,15.0,Sandy,112.1,5.21,5.78
+Maharashtra,Pulses,709.8,32.9,Silt,224.7,4.65,3.19
+Uttar Pradesh,Maize,900.5,25.3,Peaty,127.3,3.1,5.9
+Bihar,Maize,574.0,16.6,Silt,138.0,4.75,4.64
+Andhra Pradesh,Wheat,1306.8,11.0,Clay,91.8,4.4,3.51
+Bihar,Maize,879.2,18.4,Loamy,160.8,2.22,5.36
+Punjab,Cotton,911.7,25.9,,150.4,3.92,4.86
+Gujarat,Soybean,1238.6,25.7,Peaty,150.7,5.66,5.57
+Maharashtra,Soybean,1065.4,29.2,Sandy,128.6,5.64,4.02
+Andhra Pradesh,Wheat,,23.3,Clay,161.4,4.04,5.27
+Karnataka,Rice,738.2,20.5,Clay,170.9,5.85,5.97
+Maharashtra,Cotton,1023.7,23.9,Clay,131.3,2.54,4.13
+Maharashtra,Maize,744.0,26.2,Peaty,115.4,2.6,5.51
+Punjab,Wheat,370.7,27.2,Silt,155.8,4.0,4.69
+Tamil Nadu,Soybean,886.7,22.1,Peaty,83.8,7.5,5.36
+Maharashtra,Soybean,529.9,30.5,Clay,91.3,4.83,3.74
+Uttar Pradesh,Cotton,1304.1,22.9,Sandy,117.9,3.95,4.56
+Punjab,Maize,,21.7,Loamy,50.3,7.59,5.82
+Gujarat,Soybean,673.7,23.3,Peaty,153.1,3.93,4.56
+Gujarat,Wheat,725.3,31.4,Sandy,81.5,8.97,4.12
+Karnataka,Cotton,427.7,25.3,Sandy,101.1,3.48,2.98
+Punjab,Soybean,625.1,22.5,Sandy,111.5,2.48,3.15
+Gujarat,Pulses,1154.1,30.6,,121.6,4.17,4.26
+West Bengal,Rice,1457.9,36.7,Peaty,106.3,4.0,5.97
+Maharashtra,Sugarcane,1081.6,27.0,Sandy,117.3,2.88,5.85
+Uttar Pradesh,Rice,877.0,32.2,Silt,117.6,9.7,5.41
+Rajasthan,Wheat,792.0,31.2,Loamy,102.1,5.14,5.26
+Karnataka,Maize,660.9,23.0,Clay,89.1,5.43,5.3
+Gujarat,Pulses,1414.9,26.1,Peaty,163.3,3.58,5.04
+Tamil Nadu,Sugarcane,852.8,19.6,Loamy,35.8,3.34,6.55
+Karnataka,Cotton,1428.9,25.0,Loamy,111.8,6.55,5.02
+Gujarat,Rice,1248.4,,Peaty,101.2,1.15,6.03
+West Bengal,Wheat,464.8,24.0,Clay,136.8,2.21,3.76
+Maharashtra,Rice,733.5,22.3,Clay,61.8,4.01,5.26
+Andhra Pradesh,Rice,732.7,24.6,Sandy,100.0,7.2,5.89
+Maharashtra,Rice,880.0,28.7,Loamy,115.9,3.75,6.55
+Maharashtra,Sugarcane,884.9,25.4,Loamy,162.8,5.33,7.85
+Uttar Pradesh,Wheat,1649.1,16.7,Loamy,133.3,4.56,5.56
+Tamil Nadu,Wheat,630.7,22.3,Loamy,72.7,7.09,4.44
+Bihar,Cotton,957.2,18.4,Loamy,100.5,1.33,3.68
+Bihar,Maize,1054.1,27.2,Silt,155.4,5.97,6.15
+Rajasthan,Cotton,899.6,28.5,Clay,72.0,4.1,4.66
+Andhra Pradesh,Wheat,927.5,27.3,,116.9,6.35,6.02
+Karnataka,Rice,638.8,22.1,Loamy,119.6,2.86,5.82
+Bihar,Cotton,926.6,27.2,Sandy,104.6,4.55,3.34
+Andhra Pradesh,Sugarcane,1027.8,23.6,Peaty,227.8,4.29,7.33
+West Bengal,Maize,981.9,20.3,Clay,103.5,2.5,5.19
+Andhra Pradesh,Cotton,1042.6,29.7,Loamy,138.0,1.94,4.88
+Andhra Pradesh,Cotton,1253.2,30.1,Clay,89.3,3.34,4.31
+West Bengal,Rice,1134.2,30.7,Sandy,141.1,4.76,5.47
+Bihar,Rice,917.8,23.0,Loamy,154.8,2.99,6.27
+Uttar Pradesh,Maize,607.1,31.9,Peaty,96.5,3.84,5.07
+Andhra Pradesh,Wheat,750.0,23.5,Silt,117.8,0.73,4.7
+Bihar,Sugarcane,845.1,29.3,Clay,84.2,3.76,6.34
+Bihar,Sugarcane,963.1,23.4,Peaty,74.2,6.55,6.86
+Tamil Nadu,Maize,780.4,24.9,Clay,161.5,5.91,6.09
+Rajasthan,Maize,666.1,13.9,Loamy,97.8,4.33,3.79
+Maharashtra,Maize,603.0,24.5,Peaty,23.5,4.99,5.79
+Gujarat,Sugarcane,487.2,,Peaty,190.6,2.84,6.06
+Andhra Pradesh,Soybean,841.3,23.9,Clay,87.9,7.75,4.64
+Punjab,Wheat,532.6,34.8,Sandy,110.1,8.64,3.98
+Gujarat,Maize,649.9,20.2,Loamy,185.6,4.83,5.52
+Punjab,Wheat,801.5,23.2,Silt,,9.68,4.79
+Rajasthan,Cotton,566.0,21.5,Silt,113.5,3.14,3.87
+Uttar Pradesh,Rice,994.9,23.2,Silt,70.9,2.0,5.68
+Maharashtra,Maize,1085.1,31.2,Sandy,54.6,3.08,4.47
+Andhra Pradesh,Cotton,762.6,33.4,Silt,113.3,4.06,3.17
+Gujarat,Maize,790.7,22.5,Sandy,134.5,9.12,5.21
+Uttar Pradesh,Maize,1034.4,22.4,Peaty,132.2,3.94,5.56
+Punjab,Soybean,721.5,20.2,Loamy,100.7,2.78,5.34
+Rajasthan,Soybean,704.3,32.5,Sandy,120.8,2.7,3.28
+Maharashtra,Wheat,1199.1,31.6,Sandy,46.5,6.78,4.31
+Bihar,Maize,1121.0,25.5,Sandy,138.4,6.49,5.21
+Uttar Pradesh,Soybean,1050.4,19.0,Loamy,126.5,3.53,5.37
+Tamil Nadu,Cotton,1131.4,19.5,Clay,198.9,0.75,3.34
+West Bengal,Rice,405.7,26.9,Peaty,120.3,2.24,5.72
+Uttar Pradesh,Sugarcane,1238.5,28.7,,82.3,7.94,7.47
+Gujarat,Rice,998.0,15.7,Silt,118.0,5.88,4.76
+Gujarat,Wheat,1152.7,24.4,Silt,106.9,4.63,4.96
+Gujarat,Sugarcane,996.8,34.1,Sandy,137.4,8.24,6.09
+West Bengal,Cotton,912.2,24.9,Loamy,121.1,8.42,4.62
+Punjab,Soybean,831.2,,Loamy,69.6,4.43,4.26
+Maharashtra,Maize,991.8,29.2,Clay,54.6,4.46,5.89
+West Bengal,Soybean,822.1,20.6,Loamy,130.5,3.34,4.77
+Rajasthan,Maize,1117.0,24.5,,175.3,3.93,5.55
+West Bengal,Soybean,503.4,25.4,Loamy,123.2,1.53,4.13
+West Bengal,Wheat,764.6,21.2,Loamy,152.5,1.52,4.85
+Andhra Pradesh,Wheat,,21.2,Peaty,160.5,1.05,5.2
+Karnataka,Soybean,743.5,33.5,Silt,130.7,6.67,4.01
+Tamil Nadu,Soybean,840.3,21.1,Loamy,87.4,1.38,4.58
+Uttar Pradesh,Pulses,679.4,31.4,Silt,127.8,8.4,4.33
+Bihar,Maize,984.0,23.8,Loamy,168.3,3.04,5.85
+Karnataka,Wheat,715.9,25.9,Sandy,141.2,7.97,4.35
+Punjab,Pulses,853.6,28.8,Loamy,149.9,3.77,4.65
+Tamil Nadu,Sugarcane,1112.2,23.0,Loamy,101.5,1.37,7.48
+Bihar,Rice,725.3,28.8,Loamy,111.9,7.07,6.3
+Rajasthan,Soybean,1097.2,15.8,Sandy,115.3,7.3,3.66
+Gujarat,Pulses,1105.6,28.2,Sandy,117.9,2.69,3.77
+Gujarat,Rice,1163.7,13.7,Clay,166.7,3.84,4.92
+Punjab,Soybean,935.1,24.9,Silt,26.1,2.69,3.5
+Maharashtra,Soybean,1710.3,30.3,Silt,121.2,4.26,5.23
+Rajasthan,Cotton,1163.6,29.1,Silt,116.8,4.72,4.62
+Karnataka,Sugarcane,981.2,19.5,Sandy,65.1,3.8,6.54
+Uttar Pradesh,Rice,681.0,20.2,Sandy,146.9,0.86,4.52
+Andhra Pradesh,Pulses,875.7,22.6,Sandy,91.0,3.34,3.5
+Uttar Pradesh,Pulses,1256.6,,Clay,105.7,5.91,4.57
+Andhra Pradesh,Pulses,1327.4,15.8,Sandy,194.0,4.08,3.26
+Tamil Nadu,Soybean,1269.6,25.9,Loamy,160.4,3.85,5.39
+Karnataka,Wheat,1096.3,27.6,Peaty,143.0,2.64,5.33
+Karnataka,Maize,586.1,24.6,Clay,135.2,3.28,5.28
+Andhra Pradesh,Cotton,1021.8,28.6,Silt,113.4,7.32,4.66
+Tamil Nadu,Pulses,589.6,27.1,Peaty,200.0,2.22,4.36
+Bihar,Cotton,528.1,23.3,,,5.94,3.4
+Rajasthan,Cotton,959.8,16.3,Peaty,90.0,4.59,3.74
+Tamil Nadu,Rice,1030.8,26.7,Sandy,64.0,4.99,5.4
+Uttar Pradesh,Soybean,1125.8,21.2,Loamy,142.7,3.04,4.81
+Tamil Nadu,Maize,1024.3,23.1,Loamy,117.8,3.8,5.29
+Karnataka,Wheat,1032.9,28.4,Loamy,62.8,4.49,5.32
+Tamil Nadu,Pulses,653.8,33.1,Peaty,137.1,3.46,3.6
+Uttar Pradesh,Rice,873.8,25.8,Sandy,109.2,5.16,5.5
+Karnataka,Wheat,523.2,28.8,Clay,141.2,5.41,4.79
+Bihar,Wheat,,18.8,Sandy,137.7,8.85,4.3
+Uttar Pradesh,Cotton,1085.2,27.2,Clay,95.7,5.06,4.95
+Bihar,Wheat,711.7,25.7,Peaty,145.3,0.68,4.65
+Punjab,Soybean,1118.1,32.1,Peaty,,6.83,4.34
+Gujarat,Cotton,1177.1,23.3,Loamy,102.7,4.09,4.76
+Bihar,Maize,745.2,24.8,Silt,98.7,8.52,6.21
+Tamil Nadu,Wheat,1047.6,,Clay,165.2,7.44,4.74
+Bihar,Cotton,734.7,25.5,Loamy,108.8,3.49,4.63
+Rajasthan,Rice,438.5,,Peaty,174.9,5.94,6.24
+Rajasthan,Pulses,930.8,38.8,Loamy,191.3,3.31,1.75
+Andhra Pradesh,Maize,782.3,20.6,Clay,90.5,4.51,5.35
+Bihar,Cotton,790.0,25.7,Loamy,,5.85,4.51
+Tamil Nadu,Wheat,1393.8,27.7,Sandy,161.8,6.73,5.11
+Punjab,Wheat,518.5,27.3,Sandy,106.3,6.29,4.16
+Bihar,Rice,995.7,25.1,Clay,85.4,4.65,5.87
+West Bengal,Wheat,651.3,25.1,Loamy,96.5,9.47,5.4
+Gujarat,Soybean,1127.1,24.8,Loamy,103.4,3.77,5.04
+Andhra Pradesh,Pulses,974.6,20.4,Peaty,171.9,1.29,3.77
+West Bengal,Pulses,994.8,36.8,Peaty,126.4,1.67,2.66
+Andhra Pradesh,Rice,663.8,24.9,Peaty,171.3,7.45,6.74
+Punjab,Soybean,708.6,29.0,Sandy,139.8,4.35,3.52
+West Bengal,Cotton,1131.8,24.3,Sandy,107.6,4.82,3.43
+Punjab,Wheat,1342.7,24.2,Silt,104.4,3.41,5.72
+Punjab,Wheat,1020.1,23.7,Silt,142.5,3.59,5.03
+Karnataka,Cotton,675.6,18.3,Sandy,152.8,2.93,2.98
+Bihar,Maize,984.7,25.2,Clay,159.9,5.44,5.71
+Punjab,Wheat,1506.9,24.0,Sandy,109.5,4.31,5.18
+Uttar Pradesh,Pulses,925.6,31.9,Loamy,127.0,5.37,3.89
+Andhra Pradesh,Soybean,1265.5,20.0,Loamy,143.4,5.18,5.37
+Uttar Pradesh,Cotton,714.9,23.1,Silt,104.6,3.65,3.63
+Maharashtra,Pulses,889.5,21.5,Peaty,74.6,1.58,3.73
+Punjab,Pulses,1054.9,33.2,Loamy,87.7,1.41,2.76
+Bihar,Pulses,999.3,21.7,Loamy,110.4,10.55,5.19
+Rajasthan,Rice,708.4,28.8,Loamy,146.5,7.46,6.23
+Bihar,Pulses,697.6,30.9,Silt,170.4,7.18,4.03
+Gujarat,Cotton,1147.1,25.3,Clay,65.8,3.15,4.49
+Tamil Nadu,Soybean,1197.9,19.1,Clay,96.1,4.52,4.8
+Andhra Pradesh,Pulses,1278.0,19.2,Loamy,105.7,2.87,4.26
+Maharashtra,Rice,1351.0,30.3,Peaty,151.8,1.88,6.28
+Punjab,Cotton,,19.7,Sandy,98.9,3.32,3.12
+Bihar,Wheat,822.2,28.0,Silt,102.8,7.15,4.64
+Gujarat,Rice,1237.7,26.6,,63.5,6.18,6.17
+Karnataka,Maize,1078.3,27.9,Loamy,139.3,2.56,5.53
+Rajasthan,Soybean,654.4,28.4,Peaty,113.5,3.87,5.07
+West Bengal,Pulses,641.6,21.3,Sandy,93.8,6.0,3.49
+Uttar Pradesh,Maize,1023.0,21.1,Silt,109.6,3.36,5.04
+Bihar,Maize,855.7,29.6,Clay,165.1,4.66,5.28
+Andhra Pradesh,Cotton,893.4,22.9,Peaty,79.8,5.3,4.52
+Andhra Pradesh,Pulses,1168.1,12.2,Peaty,86.3,5.28,2.92
+Punjab,Pulses,1089.8,29.2,Sandy,170.1,5.01,3.83
+Bihar,Rice,1232.5,20.8,Loamy,123.0,3.19,6.37
+Gujarat,Rice,417.1,28.3,Peaty,146.8,3.4,5.2
+Uttar Pradesh,Sugarcane,963.3,33.0,Peaty,136.1,2.23,5.63
+Uttar Pradesh,Maize,1073.7,26.1,Sandy,118.6,1.38,4.73
+Uttar Pradesh,Rice,518.4,,Sandy,106.1,4.27,5.03
+Gujarat,Wheat,736.3,26.8,Clay,153.3,6.13,5.02
+Rajasthan,Maize,689.9,33.9,Loamy,166.5,1.74,5.11
+Rajasthan,Maize,905.4,20.7,Peaty,163.4,5.05,5.65
+Bihar,Cotton,1307.0,,Sandy,72.6,6.07,4.67
+Punjab,Rice,1405.6,29.4,Clay,172.2,0.83,6.35
+Punjab,Soybean,696.4,25.0,Silt,105.7,3.96,4.78
+Karnataka,Sugarcane,1031.6,31.8,Loamy,89.8,7.79,6.65
+Tamil Nadu,Cotton,1039.7,23.8,Loamy,113.2,5.6,4.83
+Rajasthan,Rice,,36.3,Clay,153.2,0.76,4.9
+Punjab,Cotton,999.7,36.6,Sandy,141.6,5.82,2.81
+Tamil Nadu,Sugarcane,975.9,27.4,Clay,109.8,3.0,7.0
+Tamil Nadu,Maize,1321.9,28.8,Loamy,153.5,5.88,5.72
+Punjab,Rice,1175.6,32.0,Clay,125.6,3.12,6.36
+Gujarat,Cotton,635.0,20.1,Clay,97.1,4.39,3.56
+Tamil Nadu,Maize,1098.9,19.4,Sandy,91.7,3.42,4.06
+Tamil Nadu,Maize,1123.1,32.3,Sandy,136.4,4.51,4.61
+West Bengal,Maize,978.7,27.4,Peaty,116.7,3.37,4.8
+Bihar,Maize,1182.9,24.9,Peaty,65.0,4.05,5.45
+Maharashtra,Soybean,947.0,26.1,Clay,153.9,2.15,5.5
+West Bengal,Cotton,,14.1,,100.8,5.48,3.3
+Punjab,Cotton,930.3,25.0,Sandy,183.7,4.85,3.49
+West Bengal,Sugarcane,395.4,22.2,Loamy,63.9,1.27,6.3
+Andhra Pradesh,Maize,879.9,30.6,Clay,112.8,6.49,5.04
+Andhra Pradesh,Wheat,732.9,31.0,Silt,92.0,4.15,4.78
+Tamil Nadu,Soybean,603.4,28.9,Peaty,81.0,4.82,4.19
+Karnataka,Wheat,1258.5,28.0,Clay,100.5,6.03,5.53
+Punjab,Sugarcane,1026.1,18.5,Loamy,190.8,5.16,6.67
+Maharashtra,Rice,892.5,29.0,Loamy,125.7,6.83,7.27
+Maharashtra,Rice,758.8,29.1,Loamy,88.3,3.91,6.13
+West Bengal,Wheat,974.0,32.2,Silt,46.9,6.57,4.5
+Andhra Pradesh,Pulses,1147.9,36.6,Sandy,51.1,4.75,2.26
+Tamil Nadu,Cotton,693.3,17.5,Sandy,98.5,5.52,2.96
+Uttar Pradesh,Maize,898.8,24.1,Silt,,5.31,5.19
+Rajasthan,Soybean,1117.0,22.3,Peaty,111.0,6.98,4.94
+Karnataka,Wheat,416.0,26.9,Silt,29.1,5.94,5.03
+Bihar,Cotton,885.6,26.1,Loamy,116.3,3.61,4.35
+Rajasthan,Cotton,792.7,24.8,Sandy,161.1,3.22,2.96
+Maharashtra,Cotton,866.5,31.1,Peaty,184.9,4.4,3.81
+Bihar,Wheat,774.6,20.5,Silt,44.2,2.98,4.74
+Karnataka,Pulses,934.4,20.8,Clay,87.9,2.4,3.66
+West Bengal,Rice,1380.9,20.9,Clay,85.8,0.5,5.7
+Gujarat,Sugarcane,819.0,24.2,Peaty,125.8,1.4,7.18
+Bihar,Soybean,972.9,19.9,Loamy,71.2,8.47,4.73
+Rajasthan,Maize,1398.7,25.8,Sandy,187.3,3.19,5.66
+Bihar,Wheat,762.5,25.2,Loamy,121.7,8.31,5.36
+West Bengal,Maize,1353.7,22.1,Peaty,115.1,5.31,6.3
+Uttar Pradesh,Soybean,901.3,30.4,Loamy,183.7,4.4,4.7
+West Bengal,Pulses,1345.5,25.7,Loamy,119.4,1.5,4.43
+West Bengal,Pulses,1087.6,31.3,Clay,136.0,4.51,4.22
+Gujarat,Rice,976.8,25.0,Clay,90.0,8.28,6.57
+Gujarat,Sugarcane,883.6,25.9,Sandy,,7.62,6.46
+Karnataka,Rice,744.0,23.2,Clay,95.6,5.05,5.72
+Maharashtra,Sugarcane,918.9,26.0,Clay,207.5,2.2,7.41
+Uttar Pradesh,Maize,1124.3,29.6,Sandy,145.3,2.59,5.1
+Tamil Nadu,Sugarcane,896.7,23.9,Sandy,131.0,2.79,6.17
+Rajasthan,Sugarcane,820.8,28.6,Peaty,80.9,7.06,6.83
+Uttar Pradesh,Pulses,837.3,21.9,Sandy,156.5,7.76,4.14
+Rajasthan,Cotton,1148.1,29.8,Sandy,65.7,4.89,3.78
+Karnataka,Maize,1206.3,23.1,Silt,57.3,3.89,5.42
+Maharashtra,Cotton,733.2,30.3,Loamy,97.6,7.6,4.45
+Punjab,Rice,732.9,26.3,Silt,198.2,2.54,5.84
+Andhra Pradesh,Wheat,994.8,33.6,,195.9,4.6,4.77
+Tamil Nadu,Cotton,1281.9,20.2,Clay,102.0,5.43,4.9
+Rajasthan,Soybean,1186.5,18.6,Loamy,93.0,2.77,5.12
+Tamil Nadu,Cotton,587.0,22.9,Clay,54.4,3.23,3.97
+Punjab,Soybean,834.0,19.1,Clay,123.1,3.07,4.71
+Tamil Nadu,Rice,667.3,19.1,Sandy,126.5,7.33,5.21
+West Bengal,Cotton,833.1,29.1,Peaty,151.6,8.33,4.87
+Punjab,Sugarcane,,26.0,Sandy,156.4,4.73,7.2
+Maharashtra,Maize,544.3,23.6,Loamy,112.1,3.96,5.83
+Bihar,Wheat,495.3,24.1,Clay,142.2,3.3,5.06
+Tamil Nadu,Wheat,692.9,23.0,Silt,92.0,4.5,5.01
+West Bengal,Pulses,971.8,34.3,Clay,141.5,3.4,3.98
+Rajasthan,Sugarcane,1055.2,22.3,Sandy,99.7,4.31,6.27
+Uttar Pradesh,Rice,1009.4,19.4,Silt,138.4,5.33,5.76
+Uttar Pradesh,Rice,1193.9,30.0,Clay,135.1,3.69,5.93
+Tamil Nadu,Wheat,459.2,24.9,Silt,122.8,4.12,4.53
+Punjab,Pulses,1197.1,36.2,Clay,151.8,4.13,2.46
+Andhra Pradesh,Wheat,822.0,23.4,Loamy,57.2,3.86,5.64
+Andhra Pradesh,Soybean,1082.9,30.2,Clay,77.4,3.62,4.11
+Gujarat,Rice,569.1,31.4,Sandy,109.2,6.02,5.01
+Maharashtra,Maize,901.2,23.4,Loamy,62.3,0.96,4.82
+Tamil Nadu,Rice,959.1,22.3,Peaty,103.7,7.65,6.63
+Maharashtra,Soybean,1188.9,29.7,Sandy,105.0,4.77,3.99
+Andhra Pradesh,Wheat,503.7,28.9,Loamy,172.4,5.72,4.73
+Gujarat,Maize,907.7,18.9,Peaty,125.7,5.95,5.57
+West Bengal,Rice,628.7,20.4,Peaty,161.2,3.08,5.5
+West Bengal,Rice,1026.4,13.3,Loamy,132.1,2.67,4.75
+Karnataka,Rice,1094.3,29.0,Loamy,98.6,2.44,6.19
+Uttar Pradesh,Pulses,1221.8,24.7,Clay,125.3,4.01,4.67
+Tamil Nadu,Maize,766.2,25.2,,149.2,5.9,4.8
+West Bengal,Maize,1131.8,17.5,Silt,167.7,3.33,4.71
+Uttar Pradesh,Maize,1240.2,20.5,Sandy,114.7,5.72,5.22
+Rajasthan,Pulses,489.2,23.6,Silt,54.1,0.5,3.25
+Karnataka,Maize,1053.1,22.6,Loamy,51.3,3.73,6.2
+Rajasthan,Maize,1139.6,26.6,Silt,106.9,6.83,5.39
+Karnataka,Maize,,28.9,Peaty,26.5,4.16,5.11
+Karnataka,Maize,597.3,37.3,Sandy,191.8,2.84,3.63
+Rajasthan,Wheat,1135.7,25.9,Sandy,143.9,3.19,5.45
+Punjab,Sugarcane,,31.6,Clay,94.6,0.5,5.4
+Punjab,Wheat,855.4,21.9,Peaty,75.6,2.48,4.68
+Karnataka,Rice,890.0,17.6,Loamy,161.1,6.61,6.14
+Maharashtra,Rice,1078.9,24.2,Clay,75.5,3.33,5.8
+Andhra Pradesh,Maize,743.3,18.0,Loamy,79.3,3.57,4.81
+Rajasthan,Soybean,728.9,26.1,Peaty,89.4,0.5,4.35
+Punjab,Sugarcane,924.7,22.1,Sandy,124.6,1.24,6.6
+West Bengal,Pulses,1151.6,16.2,Peaty,144.8,6.88,3.54
+Punjab,Maize,1471.9,34.7,Silt,167.7,5.73,5.67
+Maharashtra,Pulses,523.1,23.3,Sandy,161.8,1.91,2.92
+Andhra Pradesh,Wheat,978.8,17.8,Sandy,120.0,3.24,4.21
+Bihar,Cotton,628.4,30.5,Clay,160.8,4.44,4.43
+Karnataka,Soybean,1154.7,22.4,Sandy,93.2,2.11,4.23
+Karnataka,Cotton,665.4,31.5,Silt,47.2,0.5,2.88
+Karnataka,Pulses,731.3,22.3,Peaty,93.2,4.18,4.31
+Karnataka,Maize,752.7,23.3,Sandy,87.7,5.65,4.86
+Tamil Nadu,Wheat,881.0,27.7,Peaty,94.7,5.68,5.48
+Bihar,Soybean,980.8,29.0,Peaty,81.6,6.25,4.84
+Karnataka,Wheat,1020.9,29.8,Sandy,101.6,1.39,4.47
+Bihar,Soybean,898.6,25.6,Sandy,144.8,4.62,3.8
+Karnataka,Soybean,567.5,28.6,Loamy,188.6,3.96,4.33
+Rajasthan,Soybean,1081.9,29.7,Clay,51.0,4.33,4.0
+Andhra Pradesh,Cotton,886.8,27.0,Peaty,68.5,4.08,4.33
+Karnataka,Pulses,1190.4,25.3,Loamy,88.3,3.18,3.98
+Andhra Pradesh,Rice,723.1,18.8,Clay,150.6,0.5,4.85
+West Bengal,Cotton,499.4,29.0,Silt,,6.82,3.52
+Tamil Nadu,Wheat,891.5,26.2,Clay,91.0,5.16,5.64
+Gujarat,Soybean,1224.0,23.9,Peaty,148.7,1.53,4.61
+Bihar,Sugarcane,940.2,32.4,Silt,158.3,5.45,6.01
+Andhra Pradesh,Soybean,850.1,18.9,Loamy,119.2,3.61,4.64
+Maharashtra,Soybean,682.4,34.2,Clay,87.4,3.66,4.18
+Tamil Nadu,Maize,1339.4,25.9,Silt,130.8,2.96,5.65
+Punjab,Wheat,642.6,27.6,Peaty,110.7,5.57,5.12
+Uttar Pradesh,Pulses,718.7,24.0,Peaty,110.4,2.9,4.48
+Karnataka,Cotton,1042.5,17.7,Peaty,,2.31,4.2
+Gujarat,Wheat,436.0,25.3,Loamy,157.0,6.76,5.42
+Maharashtra,Pulses,,27.7,,130.0,4.14,4.03
+Gujarat,Pulses,,29.4,Loamy,161.4,4.21,4.58
+West Bengal,Cotton,1124.8,25.0,Loamy,173.5,5.88,4.54
+Bihar,Soybean,1039.5,15.0,Silt,138.4,3.16,3.47
+Maharashtra,Wheat,859.7,18.3,Sandy,99.7,3.56,4.55
+Punjab,Wheat,634.2,36.3,Silt,161.6,5.11,4.12
+Andhra Pradesh,Rice,865.0,20.5,Peaty,138.6,1.42,5.89
+Maharashtra,Sugarcane,656.2,33.1,Loamy,224.1,4.94,5.87
+Maharashtra,Wheat,1021.5,21.3,Sandy,132.4,2.99,4.08
+Gujarat,Wheat,1101.7,25.1,Peaty,147.9,6.21,5.44
+Bihar,Sugarcane,1269.2,29.1,Sandy,131.6,5.59,6.63
+Andhra Pradesh,Soybean,992.9,21.9,Sandy,116.0,5.33,3.85
+Andhra Pradesh,Soybean,1131.1,,Sandy,109.6,1.29,3.21
+Maharashtra,Soybean,825.7,26.4,Peaty,131.8,4.29,5.49
+Andhra Pradesh,Soybean,780.4,28.3,Loamy,140.8,2.15,4.79
+West Bengal,Sugarcane,1018.4,24.7,Peaty,166.2,4.43,7.38
+Gujarat,Cotton,803.4,29.3,Peaty,132.4,0.5,3.48
+Rajasthan,Soybean,967.3,33.9,Peaty,101.5,1.42,3.3
+Rajasthan,Maize,634.7,25.3,Sandy,106.9,6.88,4.54
+Maharashtra,Wheat,,34.6,Sandy,67.1,5.24,2.89
+Uttar Pradesh,Soybean,1058.9,22.9,Clay,186.4,3.79,4.9
+Bihar,Rice,1121.7,29.8,Clay,98.4,2.68,5.94
+Gujarat,Pulses,653.6,28.4,Peaty,158.7,2.33,3.55
+Gujarat,Maize,1067.7,20.7,Sandy,131.1,4.9,5.1
+Bihar,Soybean,766.8,27.1,Silt,132.1,3.81,4.97
+Gujarat,Wheat,904.1,26.0,Loamy,115.3,7.59,6.33
+Karnataka,Sugarcane,1254.2,21.7,Silt,88.5,4.13,7.22
+Tamil Nadu,Cotton,1101.9,27.8,Silt,81.3,4.62,4.21
+Karnataka,Cotton,1099.0,,Peaty,,1.72,4.76
+Uttar Pradesh,Rice,1377.2,25.6,Loamy,124.6,3.78,7.16
+Tamil Nadu,Pulses,724.0,25.7,Sandy,165.0,4.85,2.89
+West Bengal,Maize,653.5,25.5,Sandy,175.4,3.75,5.37
+Bihar,Soybean,719.5,24.2,Sandy,103.6,3.53,3.79
+West Bengal,Maize,836.4,26.7,Loamy,136.9,5.15,5.66
+Rajasthan,Wheat,311.4,22.8,Sandy,121.8,7.53,4.2
+West Bengal,Pulses,848.1,39.3,Clay,73.7,4.79,2.1
+Karnataka,Rice,763.9,19.0,Silt,112.6,6.79,5.23
+West Bengal,Rice,1095.9,23.1,Clay,143.5,5.74,6.2
+Punjab,Pulses,988.1,23.5,Sandy,,6.67,4.0
+Andhra Pradesh,Pulses,749.8,36.2,Silt,107.0,3.28,2.62
+Maharashtra,Pulses,1047.5,19.4,Loamy,113.1,4.09,4.35
+Bihar,Maize,1080.8,28.1,Silt,204.5,4.09,5.46
+West Bengal,Soybean,707.9,27.2,Silt,46.6,5.59,4.58
+Karnataka,Maize,776.7,27.7,Loamy,140.1,6.08,6.19
+Gujarat,Soybean,343.7,,Loamy,109.9,4.75,4.42
+Punjab,Cotton,627.3,32.1,Peaty,94.4,6.25,4.05
+Maharashtra,Wheat,714.4,23.7,Clay,108.9,3.37,5.19
+Andhra Pradesh,Maize,918.5,27.0,Peaty,,6.27,6.2
+Uttar Pradesh,Cotton,663.7,16.7,Sandy,149.0,6.53,4.08
+Uttar Pradesh,Rice,771.6,26.5,Clay,127.4,5.85,6.46
+Tamil Nadu,Maize,593.7,22.0,Clay,163.7,4.77,5.26
+Rajasthan,Cotton,942.8,25.1,Silt,170.8,5.93,4.14
+Maharashtra,Wheat,1006.4,17.6,Loamy,152.7,2.71,4.78
+Punjab,Rice,1000.6,28.0,Sandy,98.2,4.9,5.42
+Punjab,Soybean,903.1,17.5,Clay,139.8,5.1,4.45
+Bihar,Maize,514.7,,Loamy,140.0,1.84,5.03
+Andhra Pradesh,Sugarcane,745.0,19.9,Clay,87.4,5.45,6.98
+Gujarat,Cotton,798.2,21.8,Sandy,57.2,2.0,2.79
+Maharashtra,Cotton,,31.8,Silt,39.1,3.64,2.84
+Bihar,Maize,,28.9,Loamy,122.8,4.58,5.67
+Bihar,Cotton,1256.4,31.7,Peaty,131.9,3.04,3.99
+Uttar Pradesh,Soybean,1103.0,33.8,Peaty,72.7,4.67,3.82
+Karnataka,Pulses,653.1,22.1,Silt,161.8,4.63,3.61
+Punjab,Rice,1069.6,33.5,Peaty,126.1,2.86,5.27
+Punjab,Sugarcane,1060.1,18.7,Sandy,174.0,5.64,6.34
+Tamil Nadu,Pulses,698.5,29.7,Peaty,134.8,2.97,3.63
+Tamil Nadu,Wheat,,,Silt,,9.08,5.23
+Gujarat,Soybean,859.9,21.3,Sandy,138.3,4.28,4.09
+Uttar Pradesh,Cotton,547.5,29.1,Loamy,146.8,2.16,4.37
+Karnataka,Pulses,1013.8,30.7,Sandy,98.1,2.53,3.71
+Uttar Pradesh,Sugarcane,954.2,30.6,Peaty,62.3,6.8,6.97
+Maharashtra,Soybean,843.1,27.1,Peaty,124.0,3.68,4.88
+Bihar,Rice,890.6,26.7,Sandy,,1.77,5.11
+Tamil Nadu,Wheat,720.2,28.6,Clay,164.8,6.21,5.22
+Andhra Pradesh,Pulses,1052.5,27.5,Silt,103.7,3.67,4.15
+Tamil Nadu,Cotton,889.1,28.7,Loamy,189.0,5.81,5.15
+Andhra Pradesh,Cotton,941.6,27.0,Loamy,35.0,6.37,3.87
+Gujarat,Rice,989.3,30.2,Sandy,125.4,5.05,5.32
+Rajasthan,Rice,611.4,17.9,Peaty,177.2,9.29,6.0
+West Bengal,Soybean,676.4,25.3,Clay,84.4,1.05,4.12
+Maharashtra,Maize,347.5,19.1,Sandy,113.6,2.86,3.76
+Bihar,Sugarcane,1041.2,27.4,Clay,103.9,3.99,6.49
+Gujarat,Maize,596.9,34.2,Sandy,92.6,9.02,4.47
+Uttar Pradesh,Rice,933.1,23.6,Loamy,129.8,8.1,6.35
+Tamil Nadu,Rice,992.7,26.6,Sandy,68.2,7.08,5.05
+Bihar,Pulses,1050.6,29.8,Sandy,115.6,2.91,3.7
+Karnataka,Pulses,599.0,15.7,Clay,140.6,3.14,3.1
+Gujarat,Wheat,883.7,23.4,Clay,111.4,2.84,4.91
+Bihar,Maize,1317.6,27.8,Silt,80.0,2.93,5.18
+Uttar Pradesh,Cotton,1328.6,11.5,Loamy,161.2,7.49,3.41
+Rajasthan,Maize,1146.8,21.1,Loamy,149.2,4.01,6.33
+Bihar,Soybean,984.4,31.5,Loamy,78.4,4.28,4.03
+Rajasthan,Rice,648.7,31.0,Peaty,68.2,6.05,5.13
+Maharashtra,Wheat,1079.7,27.9,Clay,81.9,1.17,4.58
+Andhra Pradesh,Maize,860.5,30.4,Loamy,141.8,4.61,5.56
+Maharashtra,Sugarcane,1040.1,27.1,Peaty,131.0,2.31,6.87
+Bihar,Rice,741.8,28.8,Loamy,151.6,3.91,6.3
+Gujarat,Soybean,856.8,24.4,Clay,107.0,3.33,4.97
+Uttar Pradesh,Wheat,941.0,26.6,Loamy,83.0,3.22,5.37
+Tamil Nadu,Wheat,961.6,22.8,Silt,156.8,4.95,5.34
+Bihar,Cotton,1023.4,32.3,Silt,97.9,4.94,3.91
+Uttar Pradesh,Cotton,755.2,33.6,Silt,127.5,4.06,3.37
+Punjab,Maize,564.2,32.9,Clay,58.0,5.24,4.11
+Uttar Pradesh,Rice,1306.2,24.0,Clay,97.2,2.76,5.82
+Tamil Nadu,Wheat,1522.3,21.2,Peaty,160.4,5.86,5.41
+Karnataka,Sugarcane,1011.9,32.4,Peaty,91.3,4.09,6.56
+Punjab,Maize,569.0,28.7,Loamy,152.6,3.53,5.48
+Punjab,Wheat,706.7,27.6,Silt,26.8,2.91,3.88
+Tamil Nadu,Maize,1027.3,22.8,Peaty,97.6,4.02,5.75
+Gujarat,Pulses,1235.3,28.1,Sandy,113.1,8.24,3.76
+Karnataka,Rice,596.8,20.6,Silt,189.7,4.37,5.21
+Gujarat,Pulses,868.9,29.2,Loamy,73.2,2.21,3.72
+Gujarat,Rice,949.0,32.9,Loamy,146.8,6.34,5.55
+Bihar,Rice,1116.1,34.2,Loamy,162.3,3.56,5.89
+Andhra Pradesh,Rice,814.1,29.5,Loamy,91.1,5.07,6.0
+West Bengal,Maize,509.0,19.1,Peaty,105.1,3.29,5.23
+Andhra Pradesh,Wheat,1055.3,27.0,Silt,125.7,7.06,5.17
+Uttar Pradesh,Sugarcane,1181.2,36.7,Silt,60.7,3.32,5.34
+Andhra Pradesh,Maize,879.4,21.7,Clay,101.8,7.3,6.24
+Tamil Nadu,Soybean,1001.3,25.7,Peaty,171.0,2.4,4.34
+Karnataka,Cotton,781.4,33.1,Loamy,140.9,3.91,4.33
+Punjab,Cotton,688.6,29.1,Peaty,113.7,7.3,4.97
+Gujarat,Cotton,1156.6,38.4,Loamy,124.5,4.84,3.37
+Maharashtra,Rice,996.9,22.3,Loamy,143.2,9.04,6.57
+Maharashtra,Sugarcane,1022.6,21.1,Loamy,150.9,3.96,7.7
+Punjab,Wheat,1275.5,32.1,Silt,97.7,5.01,4.74
+Karnataka,Soybean,636.3,20.0,Clay,181.4,8.31,4.37
+Punjab,Pulses,762.0,25.0,Sandy,172.7,1.47,3.17
+Uttar Pradesh,Soybean,939.5,25.7,Sandy,147.1,1.22,3.78
+Maharashtra,Cotton,758.9,31.2,Silt,86.3,2.91,3.21
+Karnataka,Maize,1095.8,29.1,Clay,79.2,6.13,5.97
+Bihar,Pulses,853.2,28.3,Loamy,106.9,1.28,3.68
+Karnataka,Rice,651.9,24.0,Clay,122.4,5.69,5.91
+Bihar,Cotton,916.4,32.1,Clay,49.3,5.55,3.26
+Bihar,Soybean,942.6,40.0,Silt,139.8,8.53,2.74
+West Bengal,Pulses,1133.7,29.5,Silt,171.5,6.59,3.86
+Andhra Pradesh,Pulses,998.3,26.5,Loamy,143.1,5.23,4.19
+Maharashtra,Wheat,,19.5,Silt,93.0,7.22,4.94
+Uttar Pradesh,Pulses,980.1,22.8,Loamy,88.2,5.58,4.86
+West Bengal,Wheat,852.9,24.9,Silt,132.0,3.58,5.11
+Bihar,Sugarcane,720.9,23.3,,113.9,2.21,6.73
+Bihar,Pulses,972.2,25.9,Clay,137.7,3.36,4.09
+Karnataka,Sugarcane,816.7,34.9,Sandy,144.1,4.42,5.31
+Punjab,Pulses,1322.5,32.2,Clay,163.7,4.85,4.34
+West Bengal,Maize,1235.5,25.2,Silt,74.7,0.5,4.97
+Gujarat,Maize,1058.2,20.0,Peaty,128.9,4.06,5.9
+Bihar,Maize,994.6,32.7,Peaty,105.5,4.56,5.65
+Gujarat,Maize,878.0,25.8,Sandy,,5.6,4.81
+Uttar Pradesh,Sugarcane,584.7,17.4,Sandy,154.6,7.75,5.63
+Andhra Pradesh,Cotton,846.0,29.6,Sandy,158.9,4.87,3.49
+Karnataka,Soybean,925.4,31.1,Silt,175.9,2.68,3.7
+Bihar,Maize,957.4,13.9,Sandy,137.0,0.86,3.32
+Bihar,Maize,1017.4,21.9,Sandy,115.6,5.87,5.6
+West Bengal,Rice,1130.3,25.4,Sandy,109.9,2.76,5.2
+Andhra Pradesh,Cotton,727.0,29.7,Clay,50.6,6.23,4.41
+Karnataka,Pulses,729.2,23.4,Sandy,173.6,7.29,3.6
+West Bengal,Pulses,1262.7,21.8,Silt,107.1,1.41,4.66
+Rajasthan,Rice,1092.7,29.6,Sandy,140.2,5.61,5.37
+Andhra Pradesh,Cotton,802.3,23.7,Peaty,147.2,7.09,4.62
+Maharashtra,Sugarcane,873.2,28.7,Peaty,70.2,6.54,6.71
+West Bengal,Sugarcane,874.3,20.4,Sandy,,0.5,5.44
+Maharashtra,Wheat,907.9,19.2,Peaty,181.9,2.79,5.43
+Punjab,Sugarcane,1018.2,29.8,Loamy,,1.94,7.06
+Punjab,Wheat,1533.7,27.3,Peaty,96.8,5.55,6.22
+Rajasthan,Wheat,947.4,30.6,Clay,114.9,5.33,4.47
+Bihar,Sugarcane,1065.6,23.3,Sandy,163.4,0.5,6.38
+Uttar Pradesh,Wheat,478.4,22.0,Clay,157.4,3.9,4.37
+West Bengal,Maize,778.8,32.8,,61.4,6.1,3.86
+Bihar,Sugarcane,1207.2,18.4,Clay,185.4,4.8,6.96
+Uttar Pradesh,Sugarcane,1000.6,32.3,Silt,158.6,4.79,6.56
+Uttar Pradesh,Cotton,200.0,32.6,Loamy,113.9,3.77,3.44
+Tamil Nadu,Wheat,1068.5,30.3,Peaty,72.3,2.38,5.17
+Karnataka,Soybean,1379.5,22.6,Peaty,162.2,4.47,5.65
+Maharashtra,Pulses,401.0,21.9,Sandy,139.1,4.6,3.69
+Uttar Pradesh,Pulses,1279.8,24.9,,61.7,5.73,3.51
+Bihar,Soybean,207.0,19.5,Silt,110.7,5.89,4.38
+Uttar Pradesh,Maize,1134.5,21.2,Loamy,245.0,4.67,6.71
+West Bengal,Pulses,897.8,29.2,Silt,120.7,6.69,3.9
+Rajasthan,Cotton,312.5,29.2,Clay,90.3,3.75,2.98
+Karnataka,Wheat,1011.5,20.8,Silt,79.7,1.61,4.11
+Punjab,Soybean,1187.7,29.4,,190.9,5.45,4.8
+Andhra Pradesh,Maize,991.0,28.3,Silt,,4.75,6.19
+West Bengal,Pulses,1046.2,33.5,Silt,,5.49,3.6
+Karnataka,Maize,797.1,28.8,Clay,129.9,1.97,4.88
+Andhra Pradesh,Pulses,434.7,31.3,Silt,170.2,8.08,3.34
+Tamil Nadu,Cotton,1073.0,28.4,Sandy,86.1,5.92,3.45
+Rajasthan,Cotton,1337.4,30.9,Clay,126.5,3.92,4.64
+Rajasthan,Maize,1182.4,19.6,Sandy,131.5,2.63,4.81
+Andhra Pradesh,Soybean,403.0,25.4,Peaty,175.3,6.65,5.5
+Tamil Nadu,Wheat,521.3,25.8,Loamy,132.8,2.3,5.17
+Rajasthan,Cotton,688.5,24.8,Peaty,95.0,9.02,4.91
+Tamil Nadu,Maize,501.8,28.2,Peaty,122.6,3.27,5.13
+Uttar Pradesh,Cotton,911.0,29.2,Sandy,52.9,7.94,3.37
+Gujarat,Rice,998.4,28.0,Silt,27.2,4.13,5.32
+Gujarat,Sugarcane,542.4,25.1,Clay,153.3,7.66,6.44
+West Bengal,Maize,1094.3,22.3,Loamy,105.0,3.03,6.11
+Punjab,Rice,1050.3,31.5,Sandy,109.5,4.54,5.1
+Maharashtra,Rice,763.0,27.7,Peaty,153.2,6.11,6.56
+Gujarat,Sugarcane,856.9,20.9,Clay,175.9,5.82,6.97
+Rajasthan,Rice,412.5,25.0,Silt,141.4,6.7,5.63
+Tamil Nadu,Maize,816.9,17.3,Silt,197.1,3.53,4.39
+Andhra Pradesh,Sugarcane,901.8,26.2,Silt,140.1,4.67,6.99
+Punjab,Maize,942.2,25.0,Clay,132.1,7.0,5.7
+West Bengal,Maize,994.7,23.1,Clay,129.6,3.09,5.8
+Gujarat,Rice,961.1,33.9,Sandy,68.6,5.65,4.53
+Gujarat,Maize,833.9,20.2,Peaty,158.2,4.06,5.7
+Uttar Pradesh,Sugarcane,971.5,29.5,Peaty,22.2,4.91,7.28
+Andhra Pradesh,Cotton,1150.5,36.9,Sandy,96.5,4.67,2.7
+Karnataka,Pulses,,31.4,Peaty,120.9,2.92,4.06
+Maharashtra,Soybean,979.4,25.8,Sandy,88.4,3.98,4.41
+Tamil Nadu,Wheat,853.5,20.3,Clay,,4.79,5.55
+Bihar,Maize,738.3,,Loamy,,4.29,5.59
+Maharashtra,Maize,1030.7,23.9,Silt,164.2,7.65,6.07
+Bihar,Sugarcane,761.2,22.6,Silt,92.6,6.52,6.75
+Tamil Nadu,Rice,996.5,22.4,Peaty,101.2,5.08,6.0
+Rajasthan,Pulses,907.1,24.4,Silt,68.9,2.97,3.39
+Maharashtra,Maize,824.0,25.5,Loamy,148.2,2.85,6.13
+Karnataka,Cotton,818.0,28.4,Sandy,110.0,8.45,3.56
+Bihar,Wheat,773.0,19.8,Silt,41.3,2.48,4.54
+West Bengal,Pulses,488.5,22.6,Sandy,124.0,4.73,3.42
+Rajasthan,Pulses,995.7,25.2,Sandy,137.6,5.22,4.13
+Karnataka,Soybean,957.9,25.0,Peaty,158.5,3.88,4.82
+Maharashtra,Maize,1112.4,35.2,Silt,117.1,2.5,4.13
+Tamil Nadu,Wheat,767.1,27.2,Silt,105.1,2.93,4.86
+Tamil Nadu,Sugarcane,1373.8,17.9,Sandy,199.5,3.41,6.25
+Maharashtra,Cotton,805.1,28.1,Clay,,3.08,3.62
+Karnataka,Pulses,681.2,28.7,Sandy,148.8,7.16,4.23
+Rajasthan,Sugarcane,651.6,25.4,Peaty,98.4,4.48,6.62
+Rajasthan,Cotton,466.5,19.9,Silt,147.6,3.45,3.24
+Punjab,Pulses,1283.2,34.8,Silt,,4.71,3.21
+Andhra Pradesh,Soybean,1242.8,20.7,Loamy,101.5,5.84,5.65
+Maharashtra,Cotton,1050.2,29.3,Peaty,71.7,3.81,3.57
+Rajasthan,Wheat,676.0,27.0,Clay,95.8,6.3,5.42
+West Bengal,Wheat,1352.8,29.0,Peaty,170.0,1.96,5.08
+Punjab,Cotton,,34.5,Sandy,95.5,6.84,3.08
+Karnataka,Cotton,832.7,28.8,Peaty,148.7,4.48,4.15
+Punjab,Wheat,1259.3,23.2,Peaty,180.7,4.4,6.39
+Bihar,Wheat,1064.7,31.5,Silt,118.9,3.11,4.68
+Andhra Pradesh,Sugarcane,1450.3,22.8,Peaty,159.8,2.04,7.14
+Rajasthan,Soybean,962.2,26.8,Silt,141.2,1.17,4.25
+West Bengal,Wheat,800.7,19.5,Peaty,124.7,2.97,4.87
+Uttar Pradesh,Cotton,747.0,20.8,Loamy,150.0,5.68,4.54
+Punjab,Wheat,438.3,26.3,Loamy,193.6,2.58,5.13
+Andhra Pradesh,Soybean,830.4,27.8,Sandy,94.5,1.4,3.75
+West Bengal,Soybean,1186.1,17.5,Peaty,81.6,2.68,3.9
+Maharashtra,Pulses,1049.7,28.5,,79.3,3.73,3.79
+Gujarat,Sugarcane,905.1,21.9,Sandy,159.8,3.81,6.57
+Uttar Pradesh,Sugarcane,651.3,32.4,Sandy,165.2,4.24,5.5
+Tamil Nadu,Pulses,956.7,24.2,Silt,98.5,6.57,4.43
+Tamil Nadu,Sugarcane,1153.2,20.4,Peaty,34.6,7.0,7.09
+Gujarat,Cotton,1007.7,26.4,Peaty,93.0,8.51,4.76
+West Bengal,Soybean,941.7,21.4,Loamy,141.9,1.25,5.07
+Maharashtra,Sugarcane,700.8,32.3,Sandy,117.3,2.79,4.98
+Punjab,Soybean,1116.8,26.0,Clay,127.2,5.9,4.8
+Tamil Nadu,Cotton,200.0,25.2,Silt,99.1,3.59,3.98
+Rajasthan,Pulses,995.7,29.0,Sandy,160.6,6.22,4.4
+Bihar,Wheat,1542.6,21.0,Peaty,133.7,4.91,6.58
+Karnataka,Wheat,522.9,19.6,Sandy,143.5,7.66,4.31
+Karnataka,Wheat,839.7,28.0,Silt,126.4,6.59,5.23
+West Bengal,Cotton,898.0,20.5,Loamy,141.0,6.62,4.91
+Tamil Nadu,Sugarcane,784.4,20.5,Peaty,138.3,3.68,7.26
+Karnataka,Rice,,30.2,Loamy,82.9,4.31,6.32
+Tamil Nadu,Rice,1018.1,28.6,Clay,134.9,3.89,6.31
+Tamil Nadu,Pulses,938.1,19.7,Peaty,151.7,1.49,4.01
+Karnataka,Soybean,1099.3,22.9,Peaty,166.2,7.44,5.52
+Maharashtra,Sugarcane,904.2,,Sandy,136.6,5.99,6.14
+Uttar Pradesh,Cotton,1695.0,34.9,Sandy,81.4,3.81,3.29
+Punjab,Maize,,30.5,Loamy,87.5,7.11,5.51
+Bihar,Wheat,948.8,23.9,Peaty,102.6,3.24,4.82
+Tamil Nadu,Rice,472.4,28.9,Loamy,127.6,0.82,4.87
+Punjab,Pulses,764.1,19.2,Loamy,115.1,6.51,3.99
+Punjab,Maize,1186.8,22.6,Sandy,,1.94,4.81
+Tamil Nadu,Sugarcane,566.1,26.5,Loamy,74.8,4.11,6.86
+West Bengal,Sugarcane,360.6,28.3,,36.1,4.91,6.68
+Karnataka,Maize,908.1,25.5,Silt,20.0,5.27,5.23
+Maharashtra,Rice,1242.7,27.2,Silt,114.7,6.2,6.21
+Bihar,Sugarcane,910.6,26.4,Clay,212.8,5.66,6.82
+Rajasthan,Wheat,816.0,25.2,Silt,191.9,5.6,5.46
+Maharashtra,Cotton,435.4,24.5,Silt,80.9,2.92,3.61
+Karnataka,Pulses,1013.1,23.9,Clay,126.0,5.09,4.13
+Rajasthan,Sugarcane,1065.3,27.2,Silt,61.4,1.49,6.44
+Maharashtra,Soybean,454.6,28.1,Sandy,67.5,7.62,3.63
+Maharashtra,Wheat,1183.6,27.0,Peaty,72.1,1.69,4.99
+Maharashtra,Rice,1091.4,20.1,Loamy,111.0,3.81,6.0
+Gujarat,Rice,1183.1,21.0,Clay,112.7,1.86,5.76
+Bihar,Maize,1045.9,28.0,Clay,130.1,3.04,5.7
+Uttar Pradesh,Rice,1063.4,33.4,,146.5,4.53,5.67
+Andhra Pradesh,Pulses,1030.2,26.8,Peaty,106.5,3.44,4.86
+Karnataka,Rice,1117.1,23.9,Silt,,6.79,6.71
+Rajasthan,Sugarcane,445.3,27.1,,76.2,4.95,6.66
+Bihar,Sugarcane,524.7,20.3,Sandy,66.2,3.57,5.92
+Rajasthan,Sugarcane,716.0,32.5,Peaty,60.0,4.23,6.46
+Tamil Nadu,Rice,867.5,26.9,Sandy,146.0,6.94,5.52
+Rajasthan,Maize,997.0,22.7,Clay,106.5,6.32,5.97
+Karnataka,Sugarcane,981.2,,Loamy,45.2,2.22,6.68
+Andhra Pradesh,Maize,1179.3,23.4,Clay,,3.14,5.12
+Uttar Pradesh,Sugarcane,1187.1,32.6,Silt,70.0,5.45,7.02
+Karnataka,Wheat,681.9,25.0,Sandy,186.4,5.21,4.17
+Uttar Pradesh,Wheat,959.6,26.8,Sandy,96.8,2.4,4.59
+Bihar,Soybean,688.0,28.9,Sandy,147.3,6.0,3.77
+Bihar,Sugarcane,852.9,22.3,Peaty,163.6,2.72,7.34
+Tamil Nadu,Wheat,980.4,27.0,Peaty,81.8,7.11,5.93
+West Bengal,Pulses,200.0,27.4,Loamy,123.0,5.56,4.08
+Uttar Pradesh,Wheat,1502.8,18.2,Loamy,142.1,2.24,5.75
+Tamil Nadu,Pulses,1041.6,27.3,Clay,124.6,3.44,4.14
+Gujarat,Soybean,751.1,25.8,Peaty,134.4,3.41,5.53
+West Bengal,Pulses,1381.8,26.6,Sandy,66.8,4.82,4.19
+Rajasthan,Pulses,813.1,26.2,Peaty,142.2,4.09,3.95
+Bihar,Maize,933.1,27.3,Silt,100.6,2.21,5.2
+Bihar,Soybean,778.2,32.7,Sandy,134.0,1.71,3.25
+Uttar Pradesh,Rice,1313.0,20.1,Clay,156.8,5.6,6.2
+Gujarat,Cotton,873.8,24.3,Clay,146.8,5.07,3.83
+Tamil Nadu,Rice,937.4,29.3,Loamy,133.9,4.71,6.37
+Bihar,Cotton,1200.9,28.4,Sandy,145.7,5.04,3.58
+Gujarat,Pulses,1046.3,28.3,Clay,147.5,3.26,3.21
+Gujarat,Cotton,886.4,39.8,Clay,179.8,4.87,2.15
+Gujarat,Wheat,1177.6,29.1,Loamy,118.6,9.58,5.57
+Rajasthan,Maize,1534.6,31.7,Silt,126.6,6.85,5.41
+West Bengal,Soybean,979.4,24.5,Peaty,157.3,3.92,3.93
+West Bengal,Cotton,929.2,21.0,Sandy,100.4,3.45,3.3
+Tamil Nadu,Cotton,,24.4,Sandy,66.6,0.5,3.23
+Gujarat,Cotton,1227.6,29.6,Peaty,139.7,6.64,4.57
+West Bengal,Maize,750.2,28.0,Sandy,111.8,6.07,5.07
+Punjab,Sugarcane,830.4,,Silt,71.7,3.41,6.99
+Punjab,Sugarcane,515.6,24.9,Sandy,140.0,1.64,6.06
+Tamil Nadu,Pulses,604.0,24.1,Sandy,177.2,2.19,3.62
+Tamil Nadu,Sugarcane,770.5,,Sandy,,5.39,6.64
+West Bengal,Pulses,,29.6,Silt,160.9,4.32,3.51
+Punjab,Soybean,1342.3,30.2,Silt,20.0,5.88,4.65
+Rajasthan,Wheat,1034.0,21.0,Sandy,104.0,4.67,4.93
+Tamil Nadu,Maize,672.0,29.8,Loamy,193.6,6.43,5.51
+Gujarat,Maize,718.0,22.7,Peaty,106.9,5.24,5.3
+Karnataka,Wheat,1243.7,28.3,Peaty,123.6,6.16,5.84
+Rajasthan,Rice,1181.7,25.0,Loamy,150.5,0.5,5.64
+Andhra Pradesh,Soybean,907.0,33.8,Clay,51.3,2.03,3.2
+Karnataka,Maize,789.4,23.9,Peaty,122.9,3.77,5.36
+Tamil Nadu,Rice,1181.2,26.9,Clay,122.6,6.66,6.56
+West Bengal,Maize,651.7,29.0,Peaty,194.5,8.26,5.8
+Punjab,Rice,998.0,21.6,Silt,70.6,4.17,6.15
+Karnataka,Rice,1468.2,25.6,Peaty,104.7,3.28,6.27
+Maharashtra,Wheat,951.3,24.7,Loamy,82.9,0.59,4.63
+Rajasthan,Soybean,706.1,23.4,Sandy,78.6,6.23,4.29
+Punjab,Soybean,1002.6,23.8,Sandy,165.1,3.4,4.01
+Andhra Pradesh,Cotton,782.5,31.6,Peaty,121.1,10.42,4.18
+Punjab,Sugarcane,551.5,23.0,Clay,97.8,3.02,5.8
+Maharashtra,Pulses,1075.3,28.8,Clay,99.3,8.71,4.49
+Tamil Nadu,Soybean,1179.5,,Loamy,97.5,6.0,5.82
+Uttar Pradesh,Wheat,822.3,19.0,Silt,101.0,2.44,4.05
+West Bengal,Pulses,805.7,28.6,Peaty,69.4,4.96,4.43
+Rajasthan,Wheat,659.6,18.9,Loamy,109.7,6.04,4.95
+Karnataka,Wheat,862.5,29.1,Clay,105.6,4.05,4.27
+Maharashtra,Maize,759.4,23.5,Clay,89.7,6.18,5.16
+Bihar,Soybean,647.2,26.0,Peaty,126.2,6.13,4.52
+West Bengal,Wheat,1373.0,19.5,Sandy,129.6,5.69,4.74
+Uttar Pradesh,Maize,1016.6,26.6,Clay,97.7,4.47,5.72
+Uttar Pradesh,Rice,1043.1,30.6,Clay,114.2,2.15,6.27
+Karnataka,Maize,1120.8,22.0,Sandy,206.3,4.35,4.74
+Karnataka,Pulses,1092.8,23.0,Clay,204.8,4.85,4.23
+Uttar Pradesh,Maize,796.7,28.3,Loamy,77.8,0.75,4.84
+Punjab,Rice,968.1,28.4,Peaty,83.4,4.84,5.7
+Tamil Nadu,Wheat,832.7,13.8,Sandy,77.6,4.31,3.28
+Maharashtra,Rice,1009.6,36.1,Clay,162.3,1.91,4.73
+Maharashtra,Wheat,985.4,28.6,Silt,104.1,3.83,4.27
+Rajasthan,Sugarcane,804.3,29.5,Silt,129.6,3.88,6.54
+Uttar Pradesh,Maize,567.7,25.3,Loamy,199.9,8.36,5.51
+Karnataka,Cotton,936.6,16.7,Loamy,119.6,4.94,4.03
+Uttar Pradesh,Soybean,848.9,29.4,Loamy,148.2,6.57,5.45
+Gujarat,Sugarcane,427.4,23.2,Silt,140.8,4.26,6.6
+Maharashtra,Rice,1026.9,28.7,Silt,96.5,0.75,5.52
+West Bengal,Maize,1141.3,24.9,Silt,162.4,5.84,5.62
+West Bengal,Maize,1532.1,27.2,Silt,86.0,3.18,5.77
+West Bengal,Soybean,802.2,22.1,Sandy,173.6,3.83,4.3
+Karnataka,Maize,765.3,30.3,Sandy,96.5,2.39,4.58
+Uttar Pradesh,Wheat,622.6,20.1,Silt,100.9,4.65,4.52
+West Bengal,Soybean,952.2,37.2,Clay,76.5,6.63,3.44
+West Bengal,Maize,950.6,37.2,Peaty,83.0,6.37,3.91
+Andhra Pradesh,Wheat,697.2,34.2,,102.9,7.67,4.27
+Tamil Nadu,Sugarcane,856.3,32.4,Peaty,22.7,7.96,6.72
+West Bengal,Rice,405.3,25.6,Peaty,110.7,0.5,5.64
+Tamil Nadu,Pulses,1131.6,31.8,Clay,99.7,2.11,3.65
+Gujarat,Soybean,,25.5,Loamy,151.6,0.88,5.06
+Tamil Nadu,Maize,891.3,18.2,Sandy,136.9,5.76,4.88
+Bihar,Cotton,543.3,33.5,Silt,91.7,3.11,2.97
+Maharashtra,Cotton,754.4,31.6,Silt,101.7,3.52,3.15
+Rajasthan,Sugarcane,830.1,25.8,Clay,110.6,4.07,7.34
+Maharashtra,Wheat,897.2,19.9,Clay,179.4,5.27,5.29
+Rajasthan,Maize,,23.1,Sandy,87.1,1.53,5.38
+Gujarat,Rice,1259.8,16.9,Peaty,91.2,1.98,6.36
+Rajasthan,Sugarcane,1083.2,30.7,Loamy,74.9,4.5,6.53
+Rajasthan,Wheat,1140.5,18.0,Clay,60.7,6.9,4.44
+Rajasthan,Cotton,1261.5,27.4,Clay,132.3,4.45,3.6
+Gujarat,Soybean,1042.4,21.8,Peaty,128.1,2.92,5.16
+Karnataka,Pulses,890.8,18.9,Sandy,171.3,0.5,3.09
+Gujarat,Maize,1152.3,27.2,Loamy,161.7,6.41,6.24
+Maharashtra,Wheat,1168.3,24.3,Clay,215.9,3.03,4.93
+Punjab,Soybean,1062.1,30.2,Loamy,117.0,2.21,4.67
+Karnataka,Wheat,536.3,19.7,Sandy,109.6,1.07,3.75
+Maharashtra,Wheat,689.6,22.2,Peaty,68.0,1.62,4.98
+Gujarat,Pulses,,14.1,Sandy,147.9,2.58,2.36
+Gujarat,Pulses,1094.9,15.1,Peaty,124.7,4.02,3.73
+Rajasthan,Sugarcane,894.7,35.0,Silt,146.1,2.08,5.62
+Uttar Pradesh,Soybean,1184.2,36.4,Peaty,74.4,4.87,4.23
+Gujarat,Wheat,1228.8,26.5,,134.1,4.01,5.61
+Uttar Pradesh,Wheat,1199.8,21.9,Peaty,128.2,8.94,5.39
+Punjab,Maize,1201.4,24.5,Clay,125.6,1.09,5.93
+Bihar,Wheat,640.8,30.4,Sandy,92.7,4.82,4.55
+Karnataka,Pulses,,23.4,Silt,167.6,4.85,4.38
+Andhra Pradesh,Wheat,748.1,27.2,Clay,202.0,2.44,4.99
+Andhra Pradesh,Cotton,487.7,25.9,Clay,75.6,4.69,4.5
+Karnataka,Soybean,828.1,23.2,Loamy,148.8,6.04,4.54
+Maharashtra,Soybean,1231.2,23.4,Loamy,20.0,4.69,5.4
+Tamil Nadu,Rice,1015.2,27.5,Sandy,146.7,7.27,5.65
+Bihar,Cotton,1404.5,21.1,Peaty,45.2,0.5,4.54
+Uttar Pradesh,Cotton,944.3,28.3,Clay,99.0,2.82,4.14
+Gujarat,Soybean,1512.0,23.6,Sandy,67.5,7.45,4.39
+Bihar,Maize,944.4,26.6,Peaty,111.4,6.32,5.7
+Rajasthan,Rice,905.6,32.9,Silt,153.6,5.58,5.81
+Tamil Nadu,Soybean,580.2,25.2,Loamy,45.7,6.97,4.69
+Rajasthan,Pulses,1177.6,30.6,Sandy,105.6,0.67,2.89
+Bihar,Cotton,774.5,17.0,Loamy,99.5,6.09,3.77
+Bihar,Wheat,738.2,23.6,Clay,,6.63,5.46
+Karnataka,Cotton,1220.3,26.1,Clay,137.3,3.18,5.13
+Maharashtra,Pulses,1189.6,35.6,Silt,72.9,9.76,2.65
+West Bengal,Pulses,,16.2,Loamy,101.1,4.89,4.89
+Gujarat,Maize,809.5,25.5,Clay,182.2,0.5,5.15
+Bihar,Rice,887.3,33.3,Clay,148.6,5.26,5.66
+West Bengal,Sugarcane,885.0,22.1,,83.3,3.06,6.5
+Bihar,Soybean,1095.6,24.9,Silt,109.3,6.83,4.96
+Andhra Pradesh,Pulses,1288.4,27.7,Clay,110.6,5.6,4.54
+Maharashtra,Wheat,992.0,26.9,Clay,98.5,3.3,4.68
+Maharashtra,Maize,1393.7,33.8,Sandy,51.6,7.5,4.44
+Rajasthan,Cotton,1124.3,28.2,Silt,92.9,6.38,4.83
+Uttar Pradesh,Wheat,,32.6,Loamy,175.6,2.84,4.2
+West Bengal,Pulses,1107.2,24.2,Peaty,104.8,4.2,4.62
+Gujarat,Wheat,1326.5,22.3,Peaty,115.9,5.53,5.57
+West Bengal,Sugarcane,1399.6,24.9,Silt,125.6,3.77,6.88
+Rajasthan,Pulses,1196.7,20.2,Sandy,,3.83,4.41
+Andhra Pradesh,Sugarcane,906.4,,Silt,120.4,4.57,6.41
+West Bengal,Soybean,845.8,24.1,Sandy,,2.37,3.67
+Bihar,Rice,1044.0,22.6,Clay,96.1,0.5,5.53
+Punjab,Soybean,1318.5,28.5,Clay,109.6,4.98,4.73
+Tamil Nadu,Maize,1008.4,20.3,Loamy,120.5,0.52,5.25
+Gujarat,Wheat,1013.6,29.9,Peaty,89.0,2.51,5.03
+Gujarat,Maize,912.8,23.6,Clay,111.9,0.96,5.23
+Maharashtra,Maize,818.0,31.8,,155.5,1.2,4.69
+Uttar Pradesh,Cotton,859.5,24.0,Peaty,88.0,5.35,4.26
+Gujarat,Rice,933.9,29.2,Sandy,,4.06,5.59
+Rajasthan,Cotton,1329.5,26.9,,148.3,3.98,4.53
+Maharashtra,Maize,840.1,29.7,Clay,87.0,1.87,4.79
+Bihar,Maize,913.2,26.5,Clay,163.8,3.19,6.0
+Tamil Nadu,Sugarcane,683.7,17.7,Silt,122.9,5.25,6.15
+Uttar Pradesh,Maize,1079.2,31.0,Sandy,113.4,4.4,5.2
+Punjab,Soybean,,25.6,Loamy,39.7,6.15,5.66
+Bihar,Rice,1306.1,29.9,Peaty,105.1,6.43,6.91
+Bihar,Pulses,950.8,29.5,Sandy,134.9,4.0,3.72
+Maharashtra,Maize,1043.6,22.1,Silt,189.8,0.8,5.17
+Punjab,Wheat,861.6,21.4,Clay,142.7,2.99,4.87
+Punjab,Rice,1032.0,29.3,Sandy,,4.3,5.44
+Gujarat,Soybean,978.5,24.5,,71.6,2.95,3.72
+Punjab,Pulses,914.6,30.7,Peaty,114.9,2.39,4.09
+Gujarat,Rice,934.4,25.1,Clay,,4.64,6.24
+Rajasthan,Sugarcane,1013.0,31.1,Silt,84.5,9.36,7.1
+Tamil Nadu,Sugarcane,826.5,28.1,Peaty,158.6,3.52,6.92
+Rajasthan,Wheat,839.4,27.4,Silt,149.3,4.49,5.22
+Andhra Pradesh,Cotton,1326.8,24.1,Loamy,131.0,1.88,4.28
+West Bengal,Sugarcane,1577.6,27.2,Loamy,106.9,6.99,7.51
+Andhra Pradesh,Pulses,598.9,32.0,Clay,80.5,6.25,2.59
+West Bengal,Soybean,585.1,25.7,Loamy,191.0,6.11,4.94
+Andhra Pradesh,Wheat,660.7,28.7,Silt,145.3,7.22,4.67
+Punjab,Rice,874.2,26.2,Peaty,133.6,3.65,5.85
+Bihar,Cotton,1123.9,26.6,Sandy,103.5,3.9,4.05
+Andhra Pradesh,Rice,1047.8,34.6,Sandy,121.5,7.92,4.83
+Rajasthan,Cotton,943.0,32.0,Silt,126.6,5.77,3.4
+Tamil Nadu,Wheat,1032.2,26.4,Sandy,136.0,0.5,5.18
+Bihar,Wheat,727.0,27.1,Sandy,149.4,5.41,4.56
+West Bengal,Wheat,839.0,22.5,Sandy,88.7,3.34,4.0
+Karnataka,Maize,895.0,25.1,Clay,61.3,6.3,5.31
+Karnataka,Soybean,503.9,27.5,Loamy,123.4,5.32,4.66
+Gujarat,Rice,609.7,30.3,Sandy,50.1,1.02,4.43
+Maharashtra,Pulses,619.6,29.7,Peaty,107.1,5.04,4.36
+Bihar,Rice,1091.0,20.5,Loamy,99.6,4.92,6.27
+Maharashtra,Wheat,961.3,30.9,Clay,139.7,5.23,5.59
+Gujarat,Maize,1052.8,25.6,Clay,199.3,5.65,5.71
+Andhra Pradesh,Soybean,440.1,21.1,Peaty,42.2,7.49,4.56
+Karnataka,Wheat,529.1,32.7,Sandy,,5.33,4.28
+Rajasthan,Wheat,1065.8,33.3,Sandy,110.7,4.55,4.5
+Tamil Nadu,Soybean,205.3,27.3,Silt,133.9,6.8,4.66
+Karnataka,Sugarcane,1206.2,29.5,Clay,63.4,8.99,7.07
+Karnataka,Maize,444.2,29.8,Silt,159.9,6.33,5.02
+Tamil Nadu,Soybean,1110.8,33.0,Loamy,121.7,4.91,3.76
+Rajasthan,Soybean,677.9,29.6,Loamy,117.5,5.37,4.64
+Uttar Pradesh,Maize,1162.2,19.4,Peaty,42.5,5.01,5.87
+West Bengal,Cotton,1702.0,36.0,Silt,123.0,4.54,4.02
+Uttar Pradesh,Wheat,331.7,31.3,Loamy,153.8,8.83,4.88
+West Bengal,Maize,1073.8,23.5,Sandy,110.5,3.0,5.62
+Maharashtra,Sugarcane,448.0,20.9,Loamy,,6.81,6.79
+Karnataka,Rice,1006.7,28.5,Silt,165.3,4.25,5.71
+Karnataka,Pulses,848.3,24.6,Silt,94.4,1.54,3.5
+Gujarat,Pulses,932.4,27.6,Clay,183.8,4.12,3.77
+Tamil Nadu,Rice,672.1,29.7,Clay,,3.41,5.77
+Tamil Nadu,Maize,1095.1,,Clay,122.0,5.66,5.87
+Uttar Pradesh,Rice,537.9,20.4,Clay,124.0,4.68,5.77
+Bihar,Cotton,1210.4,27.9,Clay,122.8,2.46,4.2
+Maharashtra,Wheat,797.7,23.3,Clay,20.0,7.44,4.87
+Gujarat,Maize,549.3,26.7,Sandy,112.6,6.68,4.11
+Uttar Pradesh,Cotton,1298.7,19.3,Peaty,,7.67,4.78
+Gujarat,Sugarcane,883.2,24.7,Silt,185.1,4.97,6.99
+Bihar,Sugarcane,1376.9,29.6,Clay,183.4,4.43,6.83
+Punjab,Rice,1205.3,29.0,Peaty,154.1,5.91,6.46
+Uttar Pradesh,Soybean,700.5,22.1,Clay,110.5,3.35,4.29
+West Bengal,Sugarcane,878.8,20.2,Peaty,79.7,4.76,7.45
+Andhra Pradesh,Soybean,930.3,26.1,Clay,93.7,4.15,4.31
+Karnataka,Cotton,1281.6,28.8,Sandy,197.7,1.58,3.95
+Bihar,Pulses,1009.4,28.0,,92.3,4.75,3.74
+Karnataka,Maize,944.1,23.4,Silt,25.8,3.62,4.89
+Punjab,Soybean,850.0,27.5,Clay,161.2,4.01,4.76
+Gujarat,Rice,,33.5,,180.0,5.23,5.58
+Andhra Pradesh,Rice,1226.1,27.0,Loamy,186.4,7.05,6.84
+Punjab,Cotton,900.9,17.8,Sandy,161.5,2.8,3.36
+Andhra Pradesh,Cotton,801.3,27.0,Loamy,168.1,3.83,4.37
+Gujarat,Soybean,758.9,36.2,Peaty,122.1,2.97,3.75
+Andhra Pradesh,Maize,761.6,19.6,Sandy,36.9,2.84,4.15
+Andhra Pradesh,Pulses,549.5,26.1,Silt,121.1,3.31,3.61
+Maharashtra,Maize,712.4,24.9,Peaty,144.9,4.11,5.73
+Uttar Pradesh,Cotton,1274.6,26.5,Sandy,114.6,5.67,4.3
+Tamil Nadu,Pulses,848.4,27.0,Loamy,112.8,5.14,4.63
+Andhra Pradesh,Cotton,1076.1,31.7,Clay,81.4,2.39,3.89
+Andhra Pradesh,Sugarcane,280.3,26.4,Clay,79.9,7.09,6.68
+Karnataka,Pulses,1042.1,32.4,Peaty,193.5,6.39,4.04
+Rajasthan,Pulses,859.7,25.4,Peaty,195.0,2.7,3.88
+Tamil Nadu,Cotton,779.6,24.2,Sandy,119.9,6.95,3.42
+Uttar Pradesh,Maize,945.2,22.7,Peaty,131.3,5.15,5.21
+Karnataka,Rice,776.0,16.9,Clay,80.8,4.19,5.81
+Bihar,Cotton,369.0,27.4,Silt,145.7,5.22,3.07
+Andhra Pradesh,Pulses,1130.6,36.3,Clay,190.4,4.45,3.58
+Bihar,Cotton,960.8,28.3,Clay,58.8,5.59,3.94
+Andhra Pradesh,Maize,821.5,29.4,Clay,138.6,4.87,5.76
+Uttar Pradesh,Wheat,658.5,23.9,Sandy,141.6,3.83,3.64
+Gujarat,Maize,532.5,24.8,Clay,141.1,0.5,4.72
+Uttar Pradesh,Rice,956.0,30.9,Clay,185.7,5.55,6.42
+Punjab,Pulses,1303.4,36.0,Clay,201.4,3.75,3.56
+Punjab,Cotton,950.8,33.4,Loamy,110.7,6.06,3.96
+Maharashtra,Wheat,554.3,30.0,Peaty,146.9,5.46,4.24
+Uttar Pradesh,Wheat,956.3,26.2,Clay,123.4,3.8,4.67
+Andhra Pradesh,Soybean,886.7,27.0,Loamy,94.7,6.55,5.58
+Andhra Pradesh,Pulses,1116.0,22.2,Sandy,130.8,4.91,3.68
+Maharashtra,Soybean,1051.7,18.8,Peaty,146.9,4.83,4.73
+Karnataka,Wheat,200.0,20.4,Clay,128.7,4.22,4.44
+Punjab,Wheat,1036.3,26.2,Peaty,84.8,7.87,5.15
+Tamil Nadu,Rice,649.1,,Silt,101.5,3.07,5.72
+Punjab,Soybean,544.6,18.7,Silt,101.8,3.85,3.72
+Gujarat,Soybean,852.9,25.8,Clay,86.3,2.03,4.51
+Karnataka,Soybean,1002.7,24.4,Loamy,132.5,5.95,5.06
+Tamil Nadu,Wheat,489.8,20.1,Clay,136.7,3.34,3.95
+Gujarat,Rice,1076.1,24.1,Peaty,159.2,3.56,6.22
+Punjab,Pulses,1090.8,24.4,Silt,85.7,3.47,4.28
+Punjab,Pulses,911.7,22.9,Silt,96.9,4.63,4.12
+Tamil Nadu,Soybean,683.1,30.6,Peaty,182.2,2.0,4.31
+Tamil Nadu,Wheat,655.2,16.5,Clay,113.4,0.5,4.05
+Maharashtra,Wheat,1156.5,16.1,Clay,121.2,5.42,4.57
+Karnataka,Wheat,522.2,26.0,Peaty,113.0,0.5,4.56
+Karnataka,Sugarcane,1166.1,26.5,Sandy,165.3,6.21,6.67
+Maharashtra,Soybean,858.7,28.0,Clay,166.9,7.62,5.24
+Gujarat,Sugarcane,,23.3,Clay,164.5,4.17,7.04
+Rajasthan,Rice,473.0,21.4,Peaty,121.1,7.1,5.75
+Gujarat,Soybean,863.3,26.0,Loamy,85.1,4.45,4.42
+Rajasthan,Wheat,1053.4,23.8,Loamy,197.0,7.7,6.27
+Tamil Nadu,Soybean,565.9,33.8,Silt,154.3,3.59,3.32
+West Bengal,Pulses,1024.7,24.4,Loamy,101.7,0.5,4.07
+Bihar,Soybean,922.3,25.7,Loamy,177.0,4.34,5.95
+Tamil Nadu,Pulses,739.1,38.4,Peaty,98.6,7.92,2.9
+Andhra Pradesh,Sugarcane,1113.7,25.0,Sandy,176.4,5.57,7.35
+Karnataka,Cotton,349.4,28.8,Silt,179.1,3.47,3.45
+Bihar,Maize,986.7,29.2,Sandy,83.1,5.16,5.29
+Bihar,Pulses,1304.9,29.7,Loamy,143.3,6.44,4.75
+Bihar,Sugarcane,1260.0,27.4,Loamy,151.3,4.33,7.65
+Andhra Pradesh,Rice,997.5,27.0,Silt,224.6,9.75,7.16
+Uttar Pradesh,Pulses,824.6,26.5,Loamy,90.3,3.47,4.12
+Andhra Pradesh,Wheat,741.0,23.1,Sandy,177.3,6.51,4.71
+Karnataka,Sugarcane,824.3,27.6,Clay,120.7,6.02,6.61
+Rajasthan,Rice,1036.0,36.1,Clay,70.3,3.1,5.01
+West Bengal,Sugarcane,698.2,32.1,,115.2,3.65,6.21
+Uttar Pradesh,Maize,1089.4,27.5,Silt,120.1,6.54,6.05
+Bihar,Cotton,1433.3,30.3,Silt,77.6,4.79,3.77
+West Bengal,Sugarcane,884.5,21.7,Clay,132.5,5.18,7.09
+Rajasthan,Soybean,563.9,24.7,Clay,158.3,1.23,3.96
+Bihar,Maize,563.8,30.7,Silt,129.5,5.81,5.21
+Maharashtra,Pulses,1094.1,,Loamy,,5.07,3.9
+West Bengal,Cotton,885.1,22.1,Clay,114.1,4.37,4.05
+Karnataka,Rice,1119.2,23.6,Silt,119.8,5.22,6.03
+Bihar,Wheat,766.6,36.9,Silt,128.7,3.68,3.17
+Uttar Pradesh,Rice,1107.7,26.5,Loamy,164.4,3.32,6.76
+West Bengal,Sugarcane,860.4,35.1,Silt,130.9,4.02,5.4
+West Bengal,Cotton,716.9,27.0,Sandy,,3.57,3.36
+West Bengal,Maize,799.8,27.2,Clay,97.5,8.86,5.78
+Uttar Pradesh,Cotton,600.7,24.5,Silt,126.6,6.32,4.7
+Maharashtra,Soybean,1397.3,30.7,Peaty,165.0,2.56,4.92
+Bihar,Sugarcane,875.9,32.8,Sandy,171.9,8.57,6.08
+Rajasthan,Wheat,1061.1,20.8,,191.0,3.63,5.23
+Gujarat,Wheat,765.8,24.2,Clay,125.2,4.56,4.32
+Maharashtra,Cotton,637.0,30.6,Sandy,150.5,6.29,3.07
+Rajasthan,Maize,841.5,25.4,Loamy,61.8,0.56,5.08
+West Bengal,Soybean,,23.5,Sandy,137.2,4.03,4.2
+Gujarat,Sugarcane,769.8,31.0,Loamy,77.0,3.35,6.03
+Gujarat,Soybean,682.4,31.5,Loamy,117.5,4.91,4.77
+Tamil Nadu,Sugarcane,938.9,23.8,Sandy,241.2,5.24,6.75
+Andhra Pradesh,Maize,1024.8,27.1,Silt,132.1,4.35,5.57
+Punjab,Sugarcane,1310.7,20.0,Peaty,85.4,4.25,6.91
+Tamil Nadu,Sugarcane,988.4,21.5,Loamy,136.3,6.63,7.41
+Punjab,Soybean,1061.0,26.6,Clay,99.3,5.1,5.05
+Karnataka,Rice,1079.8,26.2,Sandy,81.6,4.58,5.52
+Uttar Pradesh,Sugarcane,611.7,21.2,Sandy,204.1,4.8,6.35
+Karnataka,Rice,659.2,22.4,Peaty,162.7,8.17,6.01
+Tamil Nadu,Soybean,629.0,20.7,,133.8,4.85,4.32
+Maharashtra,Soybean,567.0,28.3,Sandy,104.3,3.47,4.15
+Andhra Pradesh,Sugarcane,1098.9,16.2,Loamy,107.6,0.68,6.61
+Punjab,Pulses,972.5,20.9,Loamy,181.7,1.63,4.61
+Andhra Pradesh,Cotton,919.9,16.7,Loamy,132.3,3.57,4.02
+West Bengal,Wheat,251.8,28.1,Silt,20.0,4.28,4.06
+Rajasthan,Sugarcane,1413.9,17.0,Clay,216.8,3.39,6.6
+Karnataka,Soybean,676.4,26.2,Clay,127.3,5.2,3.98
+Maharashtra,Wheat,1413.0,34.2,Silt,133.7,3.36,4.09
+Rajasthan,Wheat,537.7,34.4,Peaty,163.5,2.67,4.01
+Gujarat,Rice,696.9,17.0,Sandy,138.6,5.73,4.82
+Gujarat,Soybean,349.3,27.5,Peaty,149.9,7.24,5.16
+Maharashtra,Cotton,990.5,21.1,Silt,103.1,2.29,4.4
+Gujarat,Pulses,624.7,20.0,Silt,70.8,4.99,3.27
+Tamil Nadu,Pulses,,25.4,Peaty,131.2,0.69,4.0
+Bihar,Cotton,,32.1,Loamy,177.3,1.55,3.47
+Uttar Pradesh,Sugarcane,1094.3,29.0,Silt,94.1,3.32,6.94
+Karnataka,Maize,1077.9,22.4,,90.9,6.77,6.22
+Punjab,Wheat,1353.0,29.5,Peaty,168.8,2.94,5.89
+Bihar,Maize,728.6,14.8,Sandy,101.7,2.87,3.51
+Karnataka,Sugarcane,954.7,22.2,Silt,103.6,4.57,7.15
+Tamil Nadu,Rice,577.7,21.9,Peaty,105.1,4.57,5.21
+Gujarat,Rice,816.2,26.4,Peaty,117.4,2.93,6.47
+Bihar,Wheat,770.3,25.0,Peaty,57.1,8.47,5.35
+Punjab,Soybean,1016.1,25.3,Peaty,98.4,3.97,4.96
+Bihar,Pulses,1154.3,25.1,Clay,129.2,4.73,3.68
+Karnataka,Soybean,1147.8,26.1,Silt,128.9,3.7,4.66
+Maharashtra,Maize,689.3,28.7,Sandy,166.3,5.38,5.34
+Punjab,Sugarcane,1149.6,26.7,Peaty,193.6,6.97,7.45
+Rajasthan,Pulses,889.0,24.6,Peaty,180.5,7.83,4.89
+Rajasthan,Sugarcane,818.9,28.0,Peaty,156.6,2.98,6.92
+Uttar Pradesh,Maize,722.9,30.1,Sandy,114.1,6.7,5.16
+Andhra Pradesh,Maize,,23.2,Sandy,95.1,5.6,5.0
+Karnataka,Soybean,1335.6,25.7,Loamy,120.7,6.45,5.22
+Andhra Pradesh,Cotton,976.9,31.8,Silt,143.4,4.32,3.89
+Andhra Pradesh,Soybean,943.7,20.5,Sandy,152.9,4.13,4.66
+Gujarat,Pulses,834.4,35.0,Sandy,144.9,6.37,2.94
+Punjab,Wheat,1511.5,19.3,Silt,115.2,6.41,5.32
+Uttar Pradesh,Soybean,1226.3,24.3,Peaty,151.5,7.63,6.27
+Tamil Nadu,Maize,719.7,21.2,Loamy,170.4,4.9,6.06
+Rajasthan,Cotton,,36.9,Sandy,155.2,4.29,2.69
+Tamil Nadu,Rice,846.4,23.5,Silt,118.7,0.5,5.52
+Bihar,Maize,936.5,23.5,Peaty,86.6,1.28,5.62
+Uttar Pradesh,Maize,724.7,24.1,Silt,85.7,3.71,5.43
+Uttar Pradesh,Wheat,1009.7,26.5,Silt,92.8,2.3,4.1
+Andhra Pradesh,Soybean,1263.0,24.4,Peaty,130.3,6.13,5.52
+Maharashtra,Rice,571.6,25.3,Peaty,140.8,1.88,5.7
+Uttar Pradesh,Maize,618.0,10.0,Silt,63.4,3.5,2.58
+Maharashtra,Rice,779.2,26.3,Clay,99.8,3.58,5.75
+Uttar Pradesh,Rice,790.8,26.1,Sandy,129.7,6.91,5.09
+West Bengal,Maize,1399.6,31.2,Silt,84.0,3.28,4.68
+Maharashtra,Pulses,1150.4,32.5,Loamy,137.4,5.4,4.62
+Andhra Pradesh,Pulses,1136.1,25.1,Silt,107.7,4.89,4.42
+Karnataka,Maize,833.9,30.1,Sandy,91.1,6.31,3.97
+Gujarat,Cotton,828.4,20.5,Peaty,122.1,6.2,4.21
+Maharashtra,Pulses,537.1,29.8,Clay,135.7,4.43,3.94
+Punjab,Rice,1095.4,23.1,Peaty,86.1,1.11,5.86
+Maharashtra,Pulses,1022.8,20.1,Sandy,110.3,4.04,3.89
+Bihar,Wheat,1221.5,25.1,Sandy,138.7,4.46,5.31
+Karnataka,Rice,847.3,33.0,Silt,89.5,5.07,4.78
+Rajasthan,Maize,,26.9,Sandy,53.7,3.02,4.65
+Andhra Pradesh,Wheat,942.5,33.5,Peaty,58.5,6.78,4.53
+Gujarat,Soybean,1123.0,22.3,Loamy,103.3,4.53,4.65
+Uttar Pradesh,Soybean,532.4,31.2,Silt,67.3,2.66,3.17
+Andhra Pradesh,Maize,1084.0,22.7,Peaty,106.1,3.58,5.47
+Maharashtra,Soybean,894.9,27.1,Clay,186.6,8.36,4.82
+Gujarat,Soybean,635.3,27.1,Clay,64.9,5.83,4.56
+Bihar,Soybean,378.8,29.3,,108.7,6.6,4.12
+Maharashtra,Soybean,865.9,27.3,Silt,205.3,2.42,4.67
+Punjab,Sugarcane,1261.9,22.3,Peaty,136.3,3.12,7.55
+Bihar,Wheat,1318.7,30.4,Silt,105.3,3.14,4.87
+Andhra Pradesh,Pulses,988.8,34.7,Silt,113.7,4.87,3.42
+Bihar,Sugarcane,1390.5,23.1,Sandy,137.2,4.15,6.77
+Rajasthan,Pulses,889.3,16.8,Silt,187.8,3.52,3.23
+Uttar Pradesh,Pulses,1138.3,,Clay,98.8,3.77,4.79
+Bihar,Rice,787.2,24.3,Sandy,89.7,2.91,4.44
+Karnataka,Maize,771.4,25.3,Loamy,64.8,4.14,4.94
+Karnataka,Rice,730.6,28.8,Loamy,124.1,6.73,6.36
+Karnataka,Wheat,384.9,23.7,Peaty,63.8,1.47,4.38
+Gujarat,Pulses,1221.8,24.7,Peaty,101.4,5.19,4.13
+Andhra Pradesh,Pulses,739.6,25.5,Sandy,83.7,7.26,3.26
+Punjab,Pulses,699.6,33.3,Loamy,163.0,4.13,3.29
+Karnataka,Pulses,605.0,26.2,Loamy,99.7,3.44,4.38
+Karnataka,Sugarcane,848.9,19.8,Loamy,135.9,6.35,7.52
+Gujarat,Cotton,1340.9,20.0,Silt,55.8,2.53,4.62
+West Bengal,Pulses,1423.4,26.7,Clay,125.3,4.45,4.01
+Rajasthan,Cotton,,20.4,Clay,71.9,2.42,3.02
+Maharashtra,Sugarcane,811.4,18.2,Peaty,103.0,0.76,5.66
+Gujarat,Rice,641.4,29.2,Peaty,208.4,4.2,6.4
+Uttar Pradesh,Soybean,1147.1,29.4,Silt,,1.97,4.62
+Uttar Pradesh,Soybean,971.6,24.2,Clay,114.9,4.48,4.82
+Andhra Pradesh,Sugarcane,740.9,27.5,Sandy,248.0,6.73,6.64
+West Bengal,Cotton,918.1,26.9,Clay,,8.21,4.48
